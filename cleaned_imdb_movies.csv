@@ -1,0 +1,4586 @@
+Title,Duration(in_mins),Rating,Votes,Genre
+Kraven the Hunter,127,5.4,44000.0,Action
+Gladiator II,148,6.6,216000.0,Action
+Sonic the Hedgehog 3,110,6.9,52000.0,Action
+Venom: The Last Dance,110,6.0,107000.0,Action
+Dune: Part Two,166,8.5,612000.0,Action
+Pushpa: The Rule - Part 2,201,6.1,54000.0,Action
+William Tell,133,5.8,1700.0,Action
+Elevation,91,5.6,19000.0,Action
+The Lord of the Rings: The War of the Rohirrim,134,6.3,28000.0,Action
+The Ministry of Ungentlemanly Warfare,122,6.8,132000.0,Action
+Furiosa: A Mad Max Saga,148,7.5,280000.0,Action
+Deadpool & Wolverine,128,7.6,480000.0,Action
+Borderlands,101,4.7,45000.0,Action
+Hellboy: The Crooked Man,99,4.5,12000.0,Action
+Twisters,122,6.5,160000.0,Action
+Civil War,109,7.0,232000.0,Action
+Old Guy,94,5.1,1700.0,Action
+The Count of Monte-Cristo,178,7.6,32000.0,Action
+The Beekeeper,105,6.3,153000.0,Action
+Carry-On,119,6.5,159000.0,Action
+Marco,145,6.9,20000.0,Action
+The Fall Guy,126,6.8,216000.0,Action
+Rebel Ridge,131,6.8,86000.0,Action
+Homestead,112,5.4,3300.0,Action
+The Crow,111,4.7,32000.0,Action
+Thelma,98,7.0,21000.0,Action
+Kingdom of the Planet of the Apes,145,6.9,149000.0,Action
+Road House,121,6.2,166000.0,Action
+Red One,123,6.3,137000.0,Action
+Transformers One,104,7.6,47000.0,Action
+Solo Leveling: ReAwakening,121,8.7,6800.0,Action
+Bad Boys: Ride or Die,115,6.5,98000.0,Action
+Love Lies Bleeding,104,6.6,56000.0,Action
+Damsel,110,6.1,108000.0,Action
+Land of Bad,113,6.6,50000.0,Action
+The Killer's Game,104,5.7,16000.0,Action
+Argylle,139,5.6,91000.0,Action
+Madame Web,116,4.0,99000.0,Action
+Godzilla x Kong: The New Empire,115,6.1,119000.0,Action
+Dirty Angels,104,4.3,3100.0,Action
+The Union,107,5.4,52000.0,Action
+Monkey Man,121,6.8,90000.0,Action
+Aftermath,97,5.1,3400.0,Action
+Azrael,86,5.4,10000.0,Action
+Freaky Tales,106,6.5,365.0,Action
+Attack on Titan the Movie: The Last Attack,145,9.3,14000.0,Action
+Drive-Away Dolls,84,5.4,23000.0,Action
+Werewolves,93,4.4,6000.0,Action
+Uglies,100,4.7,32000.0,Action
+Kung Fu Panda 4,94,6.3,67000.0,Action
+Absolution,112,5.2,7400.0,Action
+Arcadian,92,5.5,22000.0,Action
+Blitz,120,6.2,16000.0,Action
+The Instigators,101,6.2,37000.0,Action
+Lift,107,5.5,49000.0,Action
+Beverly Hills Cop: Axel F,118,6.4,80000.0,Action
+The Killer,126,5.7,12000.0,Action
+Hitpig,86,5.1,829.0,Action
+Apocalypse Z: The Beginning of the End,117,6.1,19000.0,Action
+The Silent Hour,99,6.1,7000.0,Action
+Maharaja,141,8.4,65000.0,Action
+Classified,105,3.6,2200.0,Action
+Kalki 2898 AD,180,7.0,66000.0,Action
+Descendants: The Rise of Red,91,4.7,6900.0,Action
+Brothers,89,5.4,13000.0,Action
+Atlas,118,5.6,55000.0,Action
+Canary Black,101,5.4,11000.0,Action
+Baby John,159,5.4,17000.0,Action
+Survive,90,4.6,2100.0,Action
+Long Gone Heroes,101,5.2,969.0,Action
+Weekend in Taipei,100,5.7,4400.0,Action
+Watchmen: Chapter I,83,7.0,6300.0,Action
+Rebel Moon - Part Two: The Scargiver,122,5.3,59000.0,Action
+Gunner,106,3.2,2300.0,Action
+Hagen,139,6.1,1000.0,Action
+Jackpot!,106,5.8,30000.0,Action
+Cash Out,92,4.8,2800.0,Action
+Under Paris,104,5.2,36000.0,Action
+Levels,93,5.0,1400.0,Action
+Dominique,100,5.3,2100.0,Action
+The Shadow Strays,144,6.5,8900.0,Action
+Armor,89,3.5,3600.0,Action
+Trigger Warning,106,4.6,19000.0,Action
+Agents,82,3.7,889.0,Action
+Twilight of the Warriors: Walled In,126,7.0,8900.0,Action
+Aavesham,155,7.8,27000.0,Action
+Hounds of War,95,4.5,1700.0,Action
+Boneyard,96,4.1,4800.0,Action
+Jacob Tyler,133,4.8,44.0,Action
+Chief of Station,97,4.7,4400.0,Action
+Take Cover,90,5.1,2300.0,Action
+No Way Up,90,4.6,10000.0,Action
+Agent Recon,85,2.4,658.0,Action
+Red Right Hand,111,5.5,5800.0,Action
+11 Rebels,155,6.2,262.0,Action
+Watchmen: Chapter II,90,7.0,2800.0,Action
+Megamind vs. The Doom Syndicate,83,2.5,5500.0,Action
+Sunray: Fallen Soldier,115,4.3,583.0,Action
+Night Call,97,6.8,1700.0,Action
+Singham Again,144,4.8,75000.0,Action
+Damaged,97,4.7,7100.0,Action
+Amaran,167,8.2,18000.0,Action
+Role Play,100,5.5,19000.0,Action
+Vanvaas,160,6.7,1100.0,Action
+Trouble,98,6.2,6600.0,Action
+Echo 8,96,4.0,171.0,Action
+Rifle Club,113,7.0,4000.0,Action
+Dark Match,94,5.5,831.0,Action
+"I, the Executioner",118,6.3,1600.0,Action
+Prey,86,3.7,3200.0,Action
+Code 8: Part II,100,5.7,16000.0,Action
+My Hero Academia: You're Next,110,7.0,1900.0,Action
+Justice League: Crisis on Infinite Earths - Part One,93,6.2,8300.0,Action
+City Hunter,102,6.3,5500.0,Action
+Uprising,126,6.6,5300.0,Action
+River of Blood,86,5.4,1500.0,Action
+My Spy: The Eternal City,112,5.7,11000.0,Action
+Duchess,114,4.6,1200.0,Action
+Harbin,108,6.5,485.0,Action
+Max,132,7.1,3200.0,Action
+Badland Hunters,107,5.9,12000.0,Action
+The Courier,101,6.0,4300.0,Action
+Justice League: Crisis on Infinite Earths - Part Three,94,6.1,4300.0,Action
+The Tiger's Apprentice,84,5.7,2100.0,Action
+Sikandar Ka Muqaddar,142,6.0,24000.0,Action
+Drive Back,94,4.7,287.0,Action
+The Lost Tiger,90,7.8,34.0,Action
+The Price of Money: A Largo Winch Adventure,100,5.1,1100.0,Action
+The Fix,98,4.6,1100.0,Action
+Joe Baby,86,8.2,26.0,Action
+The Roundup: Punishment,109,6.6,5100.0,Action
+One More Shot,103,5.4,3600.0,Action
+Arena Wars,96,4.9,2000.0,Action
+Mafia Wars,94,3.4,212.0,Action
+Raayan,145,6.5,11000.0,Action
+Elyas,105,6.1,1300.0,Action
+Fighter,166,6.2,52000.0,Action
+Striking Rescue,106,5.7,342.0,Action
+Lights Out,90,4.9,1700.0,Action
+Article 370,158,7.8,24000.0,Action
+Devara Part 1,176,6.0,20000.0,Action
+200% Wolf,98,6.0,1300.0,Action
+Officer Black Belt,108,6.8,7900.0,Action
+Simarik,111,6.4,2300.0,Action
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,104,7.1,8300.0,Action
+Air Force One Down,84,4.4,2800.0,Action
+The Wages of Fear,104,4.6,4000.0,Action
+The Prosecutor,117,6.8,1400.0,Action
+Kill Em All 2,88,4.1,1300.0,Action
+The Quiet Ones,110,6.5,523.0,Action
+Khadaan,137,7.4,2000.0,Action
+Darkness of Man,109,4.8,3100.0,Action
+Operation Blood Hunt,93,3.4,455.0,Action
+Rats!,85,8.0,77.0,Action
+Ultraman: Rising,117,6.9,6200.0,Action
+Jigra,153,6.0,23000.0,Action
+One Fast Move,108,5.0,2200.0,Action
+Angels Fallen: Warriors of Peace,103,4.9,5800.0,Action
+The Last Kumite,105,4.6,2300.0,Action
+Murder Company,86,3.7,1500.0,Action
+Panda Plan,99,5.1,1100.0,Action
+Karma,167,8.1,1400.0,Action
+Bougainvillea,138,6.4,3000.0,Action
+Golden Kamuy,127,6.3,2500.0,Action
+Cloud,123,6.3,896.0,Action
+Pani,143,6.9,2800.0,Action
+Utopia,91,3.6,340.0,Action
+Latency,94,4.2,1700.0,Action
+Murder at Hollow Creek,70,4.2,78.0,Action
+The Thundermans Return,110,5.0,1800.0,Action
+Death Whisperer 2,83,6.4,1300.0,Action
+Dan Da Dan: First Encounter,135,8.2,2600.0,Action
+Everybody Loves Jenifa,94,8.4,78.0,Action
+Justice League: Crisis on Infinite Earths - Part Two,136,5.5,5200.0,Action
+Sucha Soorma,110,6.5,908.0,Action
+Freedom,106,5.9,1300.0,Action
+WWII: Operation Phoenix,84,6.6,63.0,Action
+Anaconda,159,4.9,601.0,Action
+The Family Star,78,5.4,5400.0,Action
+My Fathers' Daughter,92,6.6,71.0,Action
+Die Hart 2: Die Harter,126,4.3,5400.0,Action
+Life After Fighting,158,6.4,1900.0,Action
+Hanu Man,94,7.7,29000.0,Action
+Ferry 2,96,5.6,3700.0,Action
+Wynonna Earp: Vengeance,97,5.6,1500.0,Action
+Fight Another Day,85,5.1,326.0,Action
+Wanted Man,100,4.8,2500.0,Action
+Hijack 1971,88,6.8,3200.0,Action
+Terminator: Skynet Rising,183,6.8,258.0,Action
+The Greatest of All Time,86,5.7,22000.0,Action
+Alien: Rubicon,88,2.4,329.0,Action
+Zero,166,6.1,38.0,Action
+Saripodhaa Sanivaaram,95,7.0,8900.0,Action
+The Clean Up Crew,88,4.1,1100.0,Action
+Sixty Minutes,94,5.7,5100.0,Action
+Escape,166,6.4,1900.0,Action
+Razakar: The Silent Genocide of Hyderabad,82,7.4,5300.0,Action
+Outlaw,170,5.2,902.0,Action
+Viduthalai Part 2,114,8.0,15000.0,Action
+Revolver,88,5.4,819.0,Action
+Snow White and the Seven Samurai,96,3.2,263.0,Action
+The Ballad of Davy Crockett,92,4.6,246.0,Action
+The Hangman,126,3.3,986.0,Action
+Savi,122,6.2,35000.0,Action
+Agni,78,7.3,15000.0,Action
+Spiders on a Plane,113,5.7,360.0,Action
+"Love, Courage and the Battle of Bushy Run",129,5.0,173.0,Action
+A Legend,152,4.7,855.0,Action
+Kanguva,80,4.5,14000.0,Action
+Baby Invasion,101,5.8,63.0,Action
+Handsome Guys,87,6.5,751.0,Action
+72 Hours,109,4.1,280.0,Action
+Cells at Work!,86,6.8,168.0,Action
+The Slave and the Sorcerer,105,6.7,37.0,Action
+Heart of the Hunter,158,4.7,2100.0,Action
+Bagheera,142,6.7,7300.0,Action
+Chandu Champion,98,7.8,34000.0,Action
+The Last Front,109,5.5,599.0,Action
+London Calling,117,7.5,17.0,Action
+The Lockdown,163,4.3,595.0,Action
+Vettaiyan,113,7.0,39000.0,Action
+Cassino in Ischia,145,4.4,229.0,Action
+Vedaa,113,6.0,4200.0,Action
+40 Acres,135,6.5,101.0,Action
+Overlord: The Sacred Kingdom,92,7.0,699.0,Action
+Nice Girls,90,4.2,1200.0,Action
+Roadkill,100,3.6,672.0,Action
+Crosspoint,150,7.3,26.0,Action
+A.R.M,81,7.1,8500.0,Action
+Don't Mess with Grandma,100,6.1,144.0,Action
+GTMax,91,5.0,1200.0,Action
+Invasion,88,4.8,664.0,Action
+Get Fast,115,3.6,435.0,Action
+Big Rage,129,3.6,153.0,Action
+Mura,131,7.3,6200.0,Action
+Alangu,116,8.3,1200.0,Action
+Black Creek,96,3.6,275.0,Action
+12 to Midnight,87,5.4,1200.0,Action
+Non Negotiable,84,3.0,177.0,Action
+War of the Worlds: Extinction,105,6.1,2500.0,Action
+Mission: Cross,88,6.6,4100.0,Action
+How to Rob a Bank,136,6.7,408.0,Action
+Cesium Fallout,174,8.2,651.0,Action
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,121,4.9,225.0,Action
+The Last Ronin,145,7.1,6100.0,Action
+Toofan,147,6.3,863.0,Action
+12 Gaun,88,3.5,533.0,Action
+Continental Split,93,8.9,73.0,Action
+Black Heat,159,5.4,25000.0,Action
+Guntur Kaaram,90,5.4,777.0,Action
+Devil's Knight,156,6.6,6500.0,Action
+Thangalaan,86,2.5,314.0,Action
+The Twisters,163,3.8,39000.0,Action
+Bade Miyan Chote Miyan,110,4.3,1700.0,Action
+Bionic,129,6.9,3600.0,Action
+Yolo,119,5.8,504.0,Action
+High Forces,105,5.9,297.0,Action
+School of Magical Animals 3,64,6.3,13.0,Action
+The Last of Us: Immunity,145,7.1,1200.0,Action
+Kingdom 4: Return of the Great General,140,8.3,3900.0,Action
+Bachhala Malli,154,4.7,6500.0,Action
+Crakk: Jeetega... Toh Jiyegaa,135,6.9,5600.0,Action
+UI,98,6.5,811.0,Action
+Escape from the 21st Century,80,3.0,307.0,Action
+Taken from Rio Bravo,146,7.4,1300.0,Action
+Sector 17,108,5.1,201.0,Action
+Diabel,101,4.0,304.0,Action
+Art of Eight Limbs,90,6.5,482.0,Action
+Eye for an Eye 2,101,6.1,650.0,Action
+The Charisma Killers,121,5.6,538.0,Action
+Pimpinero: Blood and Oil,130,5.7,8800.0,Action
+Yodha,80,1.8,643.0,Action
+Ryan's World the Movie: Titan Universe Adventure,106,5.7,815.0,Action
+Dreams,132,6.1,112.0,Action
+Je Jatt Vigarh Gya,90,7.4,169.0,Action
+Blade of Fury,115,8.1,15.0,Action
+Ka Whawhai Tonu,101,5.4,786.0,Action
+The Friendly,154,5.8,149.0,Action
+Dange,106,6.5,2500.0,Action
+The Firefighters,122,5.6,506.0,Action
+Alienoid: The Return to the Future,109,6.9,77.0,Action
+Hunting with Tigers,83,8.9,2700.0,Action
+Paradise,128,5.9,414.0,Action
+Devaki Nandana Vasudeva,90,4.3,489.0,Action
+Deaner '89,103,9.2,46.0,Action
+Hellhound,80,6.6,40000.0,Action
+Bloodline,150,8.7,572.0,Action
+Auron Mein Kahan Dum Tha,94,3.4,247.0,Action
+Reapers,129,6.4,1000.0,Action
+Shark Warning,90,5.5,72.0,Action
+Jathara,101,4.9,207.0,Action
+Nothing Even Matters,81,6.4,435.0,Action
+Snatched,81,5.7,76.0,Action
+No Time to Spy: A Loud House Movie,110,4.6,355.0,Action
+Memes & Nightmares,110,6.5,321.0,Action
+Operation Undead,80,5.2,21.0,Action
+Fyre Rises,150,3.6,5200.0,Action
+Witch Hunter,123,4.1,503.0,Action
+Mr. Bachchan,147,2.3,36000.0,Action
+Bureau 749,155,7.1,25.0,Action
+Martin,122,6.0,4000.0,Action
+The Unbreakable Bunch,120,8.0,551.0,Action
+Ayalaan,142,6.7,691.0,Action
+Rajakili,103,6.2,17.0,Action
+Crisis Negotiators,85,5.0,13000.0,Action
+Timuchin,138,7.3,269.0,Action
+Yudhra,128,6.3,95.0,Action
+Baby Assassins: Nice Days,137,6.6,1300.0,Action
+Bangkok Dog,66,3.3,722.0,Action
+Sorgavaasal,159,6.6,3400.0,Action
+The Actor,83,2.0,168.0,Action
+Tillu Square,164,5.9,4900.0,Action
+Mummy Shark,72,6.5,31.0,Action
+Eagle,115,8.0,3200.0,Action
+Orang Ikan,133,5.2,449.0,Action
+Zebra,148,5.4,462.0,Action
+S.T.A.L.K.E.R.: Shadow of the Zone,101,4.9,914.0,Action
+Customs Frontline,115,7.9,85.0,Action
+Rogue Elements: A Ryan Drake Story,95,8.3,2700.0,Action
+The Kingdom,100,3.6,361.0,Action
+Pottel,134,5.0,17.0,Action
+Lady Scorpions,99,8.6,1700.0,Action
+The Legend Hunters,124,5.0,107.0,Action
+Fighting the Fire,143,2.3,161.0,Action
+Team of Two,120,5.1,251.0,Action
+Ballistic,154,7.5,185.0,Action
+(Pri)sons,107,3.6,242.0,Action
+Xiong Shi Shao Nian 2,133,6.6,923.0,Action
+Rendel: Cycle of Revenge,83,3.9,16000.0,Action
+Mobile Suit Gundam SEED Freedom,96,5.5,232.0,Action
+Indian 2,155,6.7,495.0,Action
+Gandhi 3,75,6.4,2900.0,Action
+Conquer: Lahad Datu,62,6.5,58.0,Action
+Siren,120,7.1,3300.0,Action
+Raqa,168,2.0,349.0,Action
+Garudan,137,8.1,185.0,Action
+Road Wars: Max Fury,87,8.0,1000.0,Action
+Clone Cops,102,3.5,943.0,Action
+Reloaded 2,120,6.1,68.0,Action
+Barroz: Guardian of Treasures,146,5.7,1900.0,Action
+Kuang Bao Ju Xi,65,5.2,30.0,Action
+Baki Hanma VS Kengan Ashura,113,6.6,421.0,Action
+Abudeka Is Back,90,3.8,340.0,Action
+Rode College,155,2.7,128.0,Action
+Buddy,85,7.0,442.0,Action
+Ape X Mecha Ape: New World Order,81,5.2,298.0,Action
+Kahar: Kapla High Council,100,5.8,652.0,Action
+Aserb: The Squadron,90,7.4,60.0,Action
+Bangkok Breaking: Heaven and Hell,96,5.9,141.0,Action
+Hotel Underground,135,4.5,217.0,Action
+Kamen Rider 555 20th: Paradise Regained,144,6.0,27.0,Action
+Bonus Trip,150,5.9,3500.0,Action
+Stranded Pearl,128,7.0,67.0,Action
+Turbo,133,3.3,145.0,Action
+Exorcism Chronicles: The Beginning,99,5.9,139.0,Action
+Ghosts of Red Ridge,156,5.7,312.0,Action
+Desperado,126,5.0,75.0,Action
+Drive,99,6.2,747.0,Action
+The Mick and the Trick,133,5.9,1700.0,Action
+Love You to Debt,93,4.8,7400.0,Action
+Mission: Chapter 1,136,7.3,1100.0,Action
+Bhaiyya Ji,88,6.9,1100.0,Action
+Premalo,88,2.3,361.0,Action
+Sheriff,174,6.5,3400.0,Action
+Kill Craft,99,6.6,1000.0,Action
+Mechanic Rocky,181,4.4,187.0,Action
+Anchakkallakokkan,157,5.3,1400.0,Action
+The Miranda Brothers,98,4.6,228.0,Action
+Operation Valentine,70,6.4,274.0,Action
+Prepare to Die,136,6.2,530.0,Action
+Naam,98,4.4,252.0,Action
+Big City Greens the Movie: Spacecation,150,6.1,387.0,Action
+Sayen: The Huntress,110,2.8,293.0,Action
+Neon Fear,155,8.8,144.0,Action
+Ship of the Damned,148,4.8,745.0,Action
+Rang De Basanti,120,7.1,830.0,Action
+The Infallibles,172,6.5,8600.0,Action
+Oru Anveshanathinte Thudakkam,135,6.7,33.0,Action
+Captain Miller,97,3.3,82.0,Action
+Spirit Riser,96,6.1,544.0,Action
+Camp Blood: Clown Shark,80,8.0,31.0,Action
+Bhaje Vaayu Vegam,129,3.3,373.0,Action
+Ten Toes Down,105,7.9,79.0,Action
+Kung Fu Games,92,7.0,22.0,Action
+Hrashwo Deergha,90,6.7,401.0,Action
+Operation Hope,153,8.5,63.0,Action
+Troubleshooters,138,9.2,375.0,Action
+Sasan,90,3.3,1200.0,Action
+Bidurbhai,109,7.6,136.0,Action
+Ruslaan,96,5.8,971.0,Action
+Samandar,113,6.5,69.0,Action
+Sentimentaaal,146,9.1,31.0,Action
+The Grey Men,102,3.3,47.0,Action
+Losing Lerato 2,84,8.4,5400.0,Action
+Mother Mafia,116,7.2,58.0,Action
+Sabari,90,2.8,6.0,Action
+Ghost Killer,134,6.2,23.0,Action
+Day Off,151,6.4,31.0,Action
+They Call Her Death,95,5.8,834.0,Action
+Pusaka,147,5.0,1600.0,Action
+Yuva,75,5.6,82.0,Action
+Saindhav,90,8.5,132.0,Action
+How to Make a Werewolf,140,6.4,84.0,Action
+Angel of the Warrior,156,7.4,832.0,Action
+Day Labor,133,5.8,433.0,Action
+Son's Will,78,4.7,101.0,Action
+Breaking and Re-entering,78,6.3,5200.0,Action
+Cholo Zombies,88,5.5,382.0,Action
+Bandaa Singh Chaudhary,96,3.5,15.0,Action
+Taklee Genesis x Worlds Collide,94,5.3,106.0,Action
+Andromeda: 1883,104,7.0,259.0,Action
+Hunt the Wicked,96,4.8,100.0,Action
+Buying Time,150,4.4,87.0,Action
+The Burden of Nine Lives,148,5.2,201.0,Action
+The Circuit 4: Faith Fighter,131,7.2,1500.0,Action
+The Traveller,104,6.3,96.0,Action
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,155,2.9,151.0,Action
+KA,86,9.0,603.0,Action
+Six jours,89,5.3,2300.0,Action
+Ruthless,98,4.7,572.0,Action
+Bull Shark 2,96,4.5,416.0,Action
+Where Is Gilgamesh?,124,4.2,82.0,Action
+Game On,134,6.8,13.0,Action
+Matka,114,2.0,179.0,Action
+Mazhai Pidikatha Manithan,88,5.8,172.0,Action
+The Bouncer,120,6.2,283.0,Action
+Touchdown,81,4.4,349.0,Action
+Gold Raiders,115,4.6,605.0,Action
+Captain Avispa,125,7.8,2400.0,Action
+September Babies,113,8.7,2700.0,Action
+Codename: Devil,82,3.9,249.0,Action
+Alien Country,144,8.3,1400.0,Action
+Bad Boyz,120,6.0,45.0,Action
+Pranaya Godari,120,8.8,23.0,Action
+Mercy Killing,110,8.8,27.0,Action
+The Alexandrian,90,9.3,14.0,Action
+Bohurupi,108,4.7,42.0,Action
+Nu Huo 12 Xiao Shi,97,6.4,3300.0,Action
+American Underdog,111,8.8,43.0,Action
+Mister Gates,100,6.7,773.0,Action
+First Nights at Freddy's,75,2.5,157.0,Action
+Gone with the Dead,104,4.7,227.0,Action
+Bastar: The Naxal Story,133,4.3,34.0,Action
+Bhairadevi,90,6.5,95.0,Action
+Citizen of a Kind,139,6.7,1600.0,Action
+Texas Twister,82,3.9,289.0,Action
+Appudo Ippudo Eppudo,92,8.4,65.0,Action
+Kiyma: Orman Kanunlari,83,6.9,79.0,Action
+Thiragabadara Saami,76,5.7,44.0,Action
+Sons of Rizk 3,108,6.9,9.0,Action
+Tòkunbò,168,4.9,2200.0,Action
+Dragon Ball Z Kai,114,5.9,807.0,Action
+Kizumonogatari: Koyomi Vamp,125,5.5,51.0,Action
+Get Close 2,100,7.2,12.0,Action
+"Fool Me Once, Revenge on You",154,7.3,1000.0,Action
+Purushothamudu,125,7.0,193.0,Action
+Election,133,7.1,854.0,Action
+The Desperate Chase,150,5.3,33.0,Action
+Joachim and the Apocalypse,100,4.8,361.0,Action
+Ajay Gadu,80,4.0,38.0,Action
+Correr para Vivir,76,4.3,381.0,Action
+The Evil Three,88,8.1,1500.0,Action
+Sous écrous,90,3.2,171.0,Action
+The Plot,115,4.9,358.0,Action
+The Last Chainsaw Massacre,93,7.0,1600.0,Action
+Checkmate,90,8.5,11.0,Action
+Anthima Theerpu,122,9.2,11.0,Action
+In Tenebras: Into the Darkness,76,3.2,26.0,Action
+RSVP,98,6.1,4000.0,Action
+Mathu Vadalara 2,80,4.5,115.0,Action
+Delivery Run,93,4.8,34.0,Action
+Artist Unknown,131,4.6,2300.0,Action
+Bolero,123,6.2,223.0,Action
+100 Crores,130,6.1,1800.0,Action
+Case Files,115,7.0,134.0,Action
+Guy Manley: Super Spy,147,5.5,309.0,Action
+24 Hours to D-Day,117,5.7,107.0,Action
+I Heart Robots,135,5.0,607.0,Action
+The Moon Thieves,131,7.9,875.0,Action
+Major Grom: The Game,130,6.8,16.0,Action
+Stuntman,148,8.3,675.0,Action
+Hit List,95,5.6,53.0,Action
+Dirty Money,101,6.6,16.0,Action
+Por,107,2.2,153.0,Action
+Virunnu,120,5.7,112.0,Action
+Dünya Mali: Eksi Bir,130,4.4,28.0,Action
+Sikaar,97,6.3,24.0,Action
+Exiled: The Chosen Ones,138,8.5,233.0,Action
+Neo-Dome,86,5.7,267.0,Action
+Türkler Çildirmis Olmali 2: Mavi Vatan,81,3.0,13.0,Action
+Permafrost,125,4.5,58.0,Action
+From Within,100,6.9,15.0,Action
+Polar,102,2.6,428.0,Action
+Death Game,121,6.1,1500.0,Action
+Dark Fusion,136,4.2,34.0,Action
+Go for Broke,87,8.1,106.0,Action
+Saint Young Men: Holy Men vs Demon Army,98,6.3,513.0,Action
+Mutant,88,4.2,1700.0,Action
+Tariq,71,5.9,1100.0,Action
+Anunnakiler,104,5.7,8.0,Action
+Rob N Roll,93,5.4,762.0,Action
+Deadzone,155,5.9,35.0,Action
+Young Lion of the West,92,6.9,669.0,Action
+Komandir,120,7.8,367.0,Action
+Petta Rap,82,5.7,7.0,Action
+Saala,130,9.1,295.0,Action
+Dangerous Boys 2,88,6.9,56.0,Action
+Kondal,149,5.8,69.0,Action
+Honeko Akabane's Bodyguards,125,2.3,186.0,Action
+UmroAyyar - A New Beginning,153,6.3,18.0,Action
+Mahadev Ka Gorakhpur,107,7.4,32.0,Action
+Naag Bhoomi,82,4.5,583.0,Action
+Iddaru,73,6.6,65.0,Action
+Duffle Bag Boy,155,8.1,2200.0,Action
+The Epidemic,63,3.8,241.0,Action
+Chasing Raine,101,9.9,7.0,Action
+Ameena,156,4.0,114.0,Action
+Bonnie,80,4.9,220.0,Action
+Joshua: Imai Pol Kaka,115,5.5,18.0,Action
+Black Storm,107,5.7,66.0,Action
+Average Student Nani,119,6.6,106.0,Action
+Star Abyss,90,6.2,259.0,Action
+Azotes de Barrio 2,140,9.5,2300.0,Action
+Shark Island,70,6.3,14.0,Action
+Next to Us,117,7.3,21.0,Action
+The Undeserving,100,2.9,594.0,Action
+Die Chaosschwestern und Pinguin Paul,137,8.0,31.0,Action
+The Wild Blade of Strangers,75,7.5,19.0,Action
+The Experts,90,7.0,26.0,Action
+Jithender Reddy,93,4.3,11.0,Action
+SCP: The Infinite Mission,91,4.6,11.0,Action
+Breaking Tradition,148,3.9,240.0,Action
+The Omicron Killer,136,8.7,89.0,Action
+Saint Michael of the City,95,5.6,35.0,Action
+Death Bitch,120,4.6,472.0,Action
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,90,2.3,65.0,Action
+London Gangsters,72,4.8,255.0,Action
+Brotherhood of Blades 3: The Embroidered Sword,111,7.8,15.0,Action
+6 Hours Away,155,7.1,879.0,Action
+Mongol,119,8.4,10.0,Action
+South Side Hero,100,5.6,13.0,Action
+Formed Police Unit,156,7.5,30.0,Action
+The Martial Avenger,104,3.5,65.0,Action
+Game of Death - The six Doors to Hell,90,6.7,18.0,Action
+Yakuza Girl,154,5.4,3700.0,Action
+Chaari 111,150,8.0,20.0,Action
+Bond of Justice: Kizuna Part II - Judgement,114,8.0,66.0,Action
+Sentinelese,150,4.7,77.0,Action
+War of the Ninja Monsters: Jaron vs Goura,138,2.9,2100.0,Action
+Surrender,165,3.6,59.0,Action
+Warning 2,77,3.3,34.0,Action
+Spider-Man: Final Swing,92,6.5,1100.0,Action
+The Drunken Prodigy,98,6.4,121.0,Action
+The Wolfman,130,6.4,128.0,Action
+Fuuto PI: Portrait of Kamen Rider Skull,98,9.1,26.0,Action
+The Captives,105,5.3,307.0,Action
+Mani nude,120,9.2,43.0,Action
+Rathnam,144,6.4,9.0,Action
+The Waiter,62,4.7,66.0,Action
+Kamen Rider Gotchard: The Future Daybreak,93,9.7,11.0,Action
+Inkabi,70,7.0,2400.0,Action
+Double Ismart,106,3.8,47.0,Action
+Iron Fighter,120,4.3,218.0,Action
+Meteor: Day One,68,6.9,66.0,Action
+Raanti,75,6.6,32.0,Action
+Lisabi: The Uprising,83,5.8,947.0,Action
+Jorge da Capadócia,109,5.5,2900.0,Action
+Pins & Needles,94,2.9,45.0,Action
+Hell City,100,6.0,533.0,Action
+Gam Gam Ganesha,90,6.8,14.0,Action
+Ronny - The ruler,115,4.5,17.0,Action
+Onsen shâku,168,4.3,628.0,Action
+Brattt,75,5.9,199.0,Action
+Rocky and Bullwinkle,99,6.8,65.0,Action
+Nasha Jurm Aur Gangsters,85,4.6,229.0,Action
+The Vampire and the Vigilante,97,5.7,46.0,Action
+What Happens in Miami,74,7.7,3000.0,Action
+Lie Zhan,96,4.4,1300.0,Action
+Shu Si Yi Bo,156,4.8,12.0,Action
+Bheema,160,4.5,1200.0,Action
+Haraa,87,5.7,15.0,Action
+Hain,138,5.0,899.0,Action
+Shekko,93,4.9,47.0,Action
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,132,8.6,181.0,Action
+Batman: The Darkest Knight,120,6.3,21.0,Action
+Karma,101,8.2,54.0,Action
+Viswam,81,8.0,36.0,Action
+Marni: The Story of Wewe Gombel,136,9.0,2100.0,Action
+GATAO: Like Father Like Son,105,5.3,284.0,Action
+Thankamani,91,6.7,70.0,Action
+Transformers Prime: Galavatron's Revenge,90,7.8,25.0,Action
+Runner,80,6.9,2000.0,Action
+Harom Hara,150,7.3,12.0,Action
+Lal Salaam,75,2.5,49.0,Action
+Sacrum Vindictae II,151,2.7,63.0,Action
+Naa Saami Ranga,125,5.7,29.0,Action
+Hiranya,128,9.2,16.0,Action
+Gangs of Godavari,87,3.9,52.0,Action
+"Silex and the City, le film",117,3.2,64.0,Action
+Appu,79,8.8,796.0,Action
+Heavens: The Boy and His Robot,92,6.9,53.0,Action
+Hide and Seek,85,6.5,36.0,Action
+The Storm,90,6.9,591.0,Action
+American Paradise,105,7.5,80.0,Action
+The Worlds Divide,98,8.1,17.0,Action
+Usha Parinayam,106,6.3,58.0,Action
+Dr. Jason II - Lights & Shadows,89,4.6,332.0,Action
+Uninvited,92,7.9,77.0,Action
+Super Vixens 8,122,2.5,23.0,Action
+Kill the Children first,103,6.5,17.0,Action
+The Heist,113,5.1,409.0,Action
+Surge of Power: Where There's Smoke,98,6.0,4100.0,Action
+Mega Twister,93,5.6,5000.0,Action
+The Escapee 3: The Final Escape,83,6.9,383.0,Action
+Itutumba ka ng tatay ko,114,6.7,66.0,Action
+Captured,125,6.0,66.0,Action
+Killer Ex,158,5.5,5500.0,Action
+Rebel,138,6.4,52.0,Action
+Hattichhap,149,4.7,8.0,Action
+Genis Aile 4: Cevahir & Ulvi,107,9.0,8.0,Action
+Love You as the World Ends Final,120,7.9,69.0,Action
+Agastya - Chapter 1,76,7.4,53.0,Action
+Ultraman Blazar the Movie: Tokyo Kaiju Showdown,104,2.7,15.0,Action
+Wolf Warriors,88,6.9,42.0,Action
+Cândido,158,6.6,26.0,Action
+Midas,128,3.1,86.0,Action
+The Day Everything Changed,90,5.3,70.0,Action
+Sunfall,67,8.6,3100.0,Action
+The DeMarco Crew,92,5.4,18.0,Action
+The Avenger,105,7.9,23.0,Action
+Je Suis Auto,90,8.5,11.0,Action
+Kali,90,7.5,1100.0,Action
+Malaikottai Vaaliban,137,5.0,901.0,Action
+Malayalee from India,66,5.2,302.0,Action
+The Shadow of a King,115,6.6,27.0,Action
+Lost Island,135,7.9,17.0,Action
+Pariah Volume 1: Every Street Dog Has a Name,97,5.3,109.0,Action
+Yao Shen Ling,109,5.6,135.0,Action
+Ame no naka no yokujô,86,4.9,48.0,Action
+Weapon,146,9.5,49.0,Action
+Escape,163,5.2,37.0,Action
+The Dakota War: Chase,87,7.5,9.0,Action
+Rock 'n' Roll Ringo,97,3.2,92.0,Action
+Fights Break Sphere 3,141,5.9,59.0,Action
+Ryding Durty,76,5.5,41.0,Action
+Kamen Rider Geats: Jyamato Awaking,140,6.5,15.0,Action
+Aho Vikramaarka,130,7.1,18.0,Action
+Blow Out,141,3.5,35.0,Action
+Second Life,60,7.7,8.0,Action
+Gravediggers,87,7.2,52.0,Action
+Andromeda 2,65,5.1,55.0,Action
+Lolipop Gang,90,4.0,64.0,Action
+Zénithal,101,9.0,989.0,Action
+Sarangadhariya,79,6.6,17.0,Action
+Nanoshark,85,8.6,6.0,Action
+The Brokenhearted,66,6.3,35.0,Action
+The Very Last Christmas,96,6.8,1000.0,Action
+Usire Usire,92,7.4,24.0,Action
+Thundu,120,8.0,133.0,Action
+Hitler,106,6.2,362.0,Action
+The Bodyguard,86,5.8,71.0,Action
+Panjab Files,118,7.0,10.0,Action
+Then Came the Bottle Girls,98,8.3,223.0,Action
+Waspzilla,96,7.7,12.0,Action
+We Came to Wreck Everything,85,6.8,11.0,Action
+Tumbal Darah,142,7.1,29.0,Action
+Red vs. Blue: Restoration,131,5.5,146.0,Action
+Vorovka,92,10.0,34.0,Action
+Uttarakaanda,134,6.7,60.0,Action
+Marine Drive,76,8.5,3100.0,Action
+Holy Punch,156,8.6,24.0,Action
+Rogue Cops: Pushed to the Limit,73,7.7,234.0,Action
+The Escapee 2: The Woman in Black,85,4.1,75.0,Action
+Telekinesis,125,7.7,12.0,Action
+Charlotte Link - Ohne Schuld,100,7.1,23.0,Action
+Kade,123,9.3,779.0,Action
+Jigar,183,5.6,16.0,Action
+The Wolf,83,5.9,11.0,Action
+No Means No,157,5.5,8.0,Action
+Mi Wu Ci Sha,86,6.8,128.0,Action
+Atypical Pirate,165,8.2,16.0,Action
+Chinatown Chacha,129,4.5,14.0,Action
+Retribution for Cory,134,7.7,29.0,Action
+Special Needs Revolt!,96,5.0,101.0,Action
+Roxana,104,4.2,63.0,Action
+Kaalapatthar,100,6.5,9.0,Action
+Max Beyond,99,5.6,323.0,Action
+Spotlight International Film Festival: Best of the Festival - Volume 1,101,9.3,70.0,Action
+Mirg,113,5.2,14.0,Action
+Speed 220,89,3.9,25.0,Action
+Verisimilitude: Vol I,91,8.9,156.0,Action
+Achilles Curse and the Curse of Treasure,106,3.9,20.0,Action
+Athhoi,108,7.8,848.0,Action
+Krishnamma,110,2.4,21.0,Action
+The Ties That Bind,115,7.6,778.0,Action
+Hakkenden,100,6.8,36.0,Action
+The Bottom Line,75,5.1,1200.0,Action
+Halloween: Mal Eterno,90,4.6,12.0,Action
+Purushothamudu,103,8.6,53.0,Action
+The Last Vendetta,138,6.7,6.0,Action
+Gumbo 2,150,7.3,12.0,Action
+Tokusou Sentai Dekaranger 20th: Fireball Booster,70,4.4,64.0,Action
+Tales Beyond the Galaxy,118,2.6,19.0,Action
+Clownface 3,100,6.1,13.0,Action
+The Mystery of Humanoid Puppet,90,4.5,16.0,Action
+Beneath the Bad,111,4.7,31.0,Action
+Raju Gari Ammayi Naidu Gari Abbayi,122,6.6,142.0,Action
+Dhaaak,119,2.8,146.0,Action
+Blood Vendetta,135,7.2,15.0,Action
+Super Vixens 7,94,6.7,11.0,Action
+Dead Hand,155,6.2,11.0,Action
+Paraagan,102,7.8,13.0,Action
+The Yoshi Movie,128,6.3,10.0,Action
+Faster: Only one lap,143,6.7,8.0,Action
+The Correct Way of Youth,60,2.4,14.0,Action
+Fauji,119,4.6,473.0,Action
+Pushpaka Vimanam,60,6.2,52.0,Action
+Spider-Man: Blue,130,8.9,49.0,Action
+Too Little Too Late,79,7.8,13.0,Action
+Kreem,83,7.7,179.0,Action
+Gull Lake Vice II: The Delusion Continues,107,9.7,12.0,Action
+Dark World,120,9.5,21.0,Action
+Emanet,75,5.2,209.0,Action
+Zoloto Umalty,104,8.4,12.0,Action
+Dreamcoin,94,7.9,19.0,Action
+"Arlempdes, la légende du premier château de la Loire",90,6.5,281.0,Action
+Desperate Sniper,131,6.7,11.0,Action
+Shri Swapankumarer Badami Hyenar Kobole,146,8.0,1300.0,Action
+Supplier Shankara,90,5.7,2400.0,Action
+Death Game,89,3.2,19.0,Action
+The Journey of Flower,145,6.8,7.0,Action
+Villain - Life of a Gangster,91,7.6,1100.0,Action
+Jurassic Exorcist,144,6.5,12.0,Action
+Pithala Maathi,83,7.6,30.0,Action
+Blue Belt,87,4.7,17.0,Action
+Mr. Natwarlal,127,6.8,236.0,Action
+Young Love,82,3.7,196.0,Action
+Untitled,67,7.1,8.0,Action
+Ohsama Sentai King-Ohger vs. Donbrothers,70,9.2,13.0,Action
+Bhimaa,127,9.1,89.0,Action
+Bulletproof Jesus,102,8.6,113.0,Action
+Cholay,140,3.5,12.0,Action
+Agent 86,105,4.2,17.0,Action
+Shadows of Betrayal: Chronicles of Ian Blair,120,6.8,51.0,Action
+Slasher House 3,90,7.4,14.0,Action
+Boiling Point,120,8.3,227.0,Action
+Mobile Suit Gundam: Silver Phantom,78,8.2,9.0,Action
+Tiger's Trigger,81,5.7,17.0,Action
+Crypto Storm,80,5.2,10.0,Action
+Hope & Glory,92,7.6,31.0,Action
+Shockwaves 2,82,7.8,1100.0,Action
+Zero Sum Game,67,9.1,44.0,Action
+Di Renjie: Tongtian xuan an,80,8.5,1400.0,Action
+Operation Wakaliga: Fate and Blood,76,5.3,980.0,Action
+Played,67,6.1,25.0,Action
+Dun huang ying xiong,155,5.6,27.0,Action
+Useful Idiots,104,7.9,551.0,Action
+Serra das Almas,96,6.9,3800.0,Action
+Common Creed: Trafficking,119,6.4,10.0,Action
+Break War,62,9.5,85.0,Action
+Warrior Awang and Master Tok Gajah,146,7.0,10.0,Action
+Thy Will Be Done,87,7.6,23.0,Action
+The Lost Mausoleum,119,4.0,112.0,Action
+Fast Atlanta,74,6.7,6.0,Action
+Youn'G,95,8.9,25.0,Action
+"Bullets, Brothers and Blood",240,5.4,805.0,Action
+Babu,100,6.6,11.0,Action
+Die Geval van Gideon,86,5.2,13.0,Action
+Rocky the Slave,110,8.8,25.0,Action
+Nothing Unusual,72,8.0,6.0,Action
+Mafia,90,5.0,23.0,Action
+Lesbian Western - The Feature,90,7.9,9.0,Action
+Inherited,88,8.3,13.0,Action
+DNA,90,9.1,568.0,Action
+Own Kind,136,8.6,2000.0,Action
+Mean Streets,100,2.7,102.0,Action
+Super Vixens 6,74,4.8,2300.0,Action
+Hocus Focus,161,8.8,32.0,Action
+Rooban,110,6.5,2300.0,Action
+Pungut,105,9.7,9.0,Action
+The Film Café,75,8.8,8.0,Action
+Dheera,132,6.7,52.0,Action
+Lorry Chapter-1,80,8.5,41.0,Action
+Inexternal,74,1.6,37.0,Action
+A Real Encounter,76,5.4,16.0,Action
+Indrani: Epic-1 Dharam vs Karam,84,4.7,7.0,Action
+Macho Man 3,86,8.2,2000.0,Action
+The Puffins & the Magic Portal,107,8.8,15.0,Action
+Oversteer,122,6.4,5.0,Action
+Mirza: Part 1 - Joker,96,4.8,68.0,Action
+Soodhu Kavvum 2: Naatum Naatu Makkalum,90,6.1,21.0,Action
+Rackades,81,4.5,31.0,Action
+She's God: The Book of Eden,115,4.0,7.0,Action
+Sathyam,97,8.2,5.0,Action
+Crack: Back in Da Hood,92,6.9,8.0,Action
+A Man is Dead,106,9.0,2000.0,Action
+Adam Bol,90,6.4,52.0,Action
+Target Jeremy,114,5.7,24.0,Action
+Opportunity,122,4.2,17.0,Action
+Last Straw,97,8.7,2100.0,Action
+Ghost Town,87,7.2,13.0,Action
+Submerged,107,6.8,52.0,Action
+Sith Wars: Episódio III - Fantasmas Dos Sith,90,7.0,9.0,Action
+Xiao zi,98,8.1,22.0,Action
+Fast Furious,85,6.5,6.0,Action
+Re Xue Ran Shao,85,7.0,52.0,Action
+Seven Heroes Beat the Monster,127,8.5,1200.0,Action
+Reeza GTR,63,7.6,53.0,Action
+Dirt,110,8.7,8.0,Action
+Inanimate Insanity II: The Movie,88,8.4,20.0,Action
+The Artifact,127,7.7,34.0,Action
+Napoleon Street,91,7.6,2000.0,Action
+The Standoff,98,8.9,14.0,Action
+La Tamalera,97,7.4,17.0,Action
+Zhi Bao,138,5.0,19.0,Action
+Me and the Dragon's Daughter,68,4.3,49.0,Action
+A Lonely Place to Die,92,6.3,52.0,Action
+Zegapain STA,90,5.9,12.0,Action
+Endemoniados,98,8.2,2000.0,Action
+Neon Girls,117,5.2,58.0,Action
+Vhoyal,123,8.2,11.0,Action
+Angels' Fire,122,6.1,17.0,Action
+Dheera Bhagat Roy,85,8.7,136.0,Action
+Quantum Supremacy,94,3.7,25.0,Action
+Rebirth Island,100,6.7,14.0,Action
+Raktaksha,90,8.2,9.0,Action
+Alligator Blood,134,6.3,52.0,Action
+Bloody Escape,101,8.4,13.0,Action
+Abnormal: Buas,90,8.6,26.0,Action
+Memphganistan,67,7.8,1800.0,Action
+Killer - The Hunt,60,6.8,53.0,Action
+Ugravatara,92,2.3,42.0,Action
+Dirty Fellow,97,1.7,7.0,Action
+Hard Ride,85,7.0,11.0,Action
+King of UP,93,7.9,13.0,Action
+Spider-Man: Hunted - Ultimatum,83,6.2,7.0,Action
+Yentha Panichesav Chanti,81,9.1,1500.0,Action
+Jimmy's Friends,107,4.7,19.0,Action
+Black Money,157,9.3,16.0,Action
+Operation Star,90,4.9,9.0,Action
+Kadakan,83,7.9,7.0,Action
+Samurai Detective Onihei: True Master,127,6.0,48.0,Action
+Give Me Babies,133,6.2,518.0,Action
+Joy Hanu Man,77,9.0,2000.0,Action
+Uncanny Alley: A New Day,92,8.2,11.0,Action
+E-mail,87,7.2,10.0,Action
+Firework,135,5.2,18.0,Action
+Behind Enemy Lines,110,9.4,38.0,Action
+Shadow Jm,138,6.8,21.0,Action
+The Deal,82,8.0,11.0,Action
+The Prey,120,3.9,18.0,Action
+Irani,95,6.8,54.0,Action
+Just Us,75,8.1,15.0,Action
+Skhvatka,120,6.2,10.0,Action
+The Siege: Archangel One,115,5.8,7.0,Action
+Crossing Paths 2: No Way Out,132,5.5,17.0,Action
+Sounds Like A Great Project!,106,8.4,7.0,Action
+The Last Aztec Warrior,72,5.6,17.0,Action
+Grudge,131,3.5,156.0,Action
+Sathur,90,9.8,21.0,Action
+The SML YTP Movie 2: Dimension Trouble,90,6.8,5.0,Action
+Caught in A Trapp,120,6.6,52.0,Action
+Bullet,97,8.9,10.0,Action
+Seetha Kalyana Vaibhogame,109,8.4,7.0,Action
+The Karate Breaker,77,5.2,11.0,Action
+Blue Falcon,77,5.6,16.0,Action
+Vi possiamo salvare,79,1.9,9.0,Action
+Chhota Bheem and the Curse of Damyaan,138,8.6,11.0,Action
+#Models Wanted,176,7.2,52.0,Action
+Axel Falcon,77,6.2,236.0,Action
+Agent Narasimha-117,106,8.0,9.0,Action
+In the Woods,95,8.2,5.0,Action
+The Butcher's Soul,101,8.8,18.0,Action
+Vey Dharuvey,79,6.1,10.0,Action
+Sniper Elite: Nanocrisis,112,8.2,9.0,Action
+The End of Hen,65,7.2,8.0,Action
+Voltage,78,6.6,53.0,Action
+The Kills,80,5.0,9.0,Action
+Action of Intelligenagency,60,7.0,7.0,Action
+Uch Qahramon,92,9.5,12.0,Action
+Spearphishing 4,120,8.2,11.0,Action
+Revenge,69,2.3,28.0,Action
+Even the Score,66,8.0,11.0,Action
+7 Melek,113,5.9,7.0,Action
+The Domino File,80,8.5,6.0,Action
+Kallu Compound 1995,87,6.4,7.0,Action
+Anora,139,7.6,151000.0,Comedy
+Moana 2,100,6.7,87000.0,Comedy
+A Real Pain,90,7.1,76000.0,Comedy
+Emilia Pérez,132,5.4,84000.0,Comedy
+Sonic the Hedgehog 3,110,6.9,52000.0,Comedy
+The Ministry of Ungentlemanly Warfare,122,6.8,132000.0,Comedy
+Deadpool & Wolverine,128,7.6,480000.0,Comedy
+The Day the Earth Blew Up: A Looney Tunes Movie,91,6.9,1900.0,Comedy
+Borderlands,101,4.7,45000.0,Comedy
+Paddington in Peru,106,6.7,17000.0,Comedy
+Saturday Night,109,6.9,29000.0,Comedy
+Night of the Zoopocalypse,91,6.3,326.0,Comedy
+Despicable Me 4,94,6.2,62000.0,Comedy
+Riff Raff,103,6.3,813.0,Comedy
+Old Guy,94,5.1,1700.0,Comedy
+The Fall Guy,126,6.8,216000.0,Comedy
+F*** Marry Kill,97,5.2,1800.0,Comedy
+A Different Man,112,6.9,27000.0,Comedy
+Kinds of Kindness,164,6.5,58000.0,Comedy
+Beetlejuice Beetlejuice,105,6.7,143000.0,Comedy
+Inside Out 2,96,7.5,211000.0,Comedy
+Fly Me to the Moon,132,6.6,48000.0,Comedy
+Thelma,98,7.0,21000.0,Comedy
+Red One,123,6.3,137000.0,Comedy
+Friendship,100,7.6,211.0,Comedy
+Nightbitch,99,5.6,18000.0,Comedy
+Bad Boys: Ride or Die,115,6.5,98000.0,Comedy
+Superboys of Malegaon,127,8.0,1100.0,Comedy
+My Old Ass,89,6.9,37000.0,Comedy
+IF,104,6.4,57000.0,Comedy
+It's What's Inside,103,6.6,41000.0,Comedy
+Ghostbusters: Frozen Empire,115,6.1,92000.0,Comedy
+The Killer's Game,104,5.7,16000.0,Comedy
+Argylle,139,5.6,91000.0,Comedy
+The Idea of You,115,6.3,72000.0,Comedy
+Kneecap,105,7.6,17000.0,Comedy
+Spermageddon,80,5.7,604.0,Comedy
+Rumours,104,5.0,4200.0,Comedy
+Mean Girls,112,5.5,37000.0,Comedy
+The Union,107,5.4,52000.0,Comedy
+Snack Shack,112,7.0,11000.0,Comedy
+Eephus,98,7.0,278.0,Comedy
+Freaky Tales,106,6.5,365.0,Comedy
+My Dead Friend Zoe,103,7.1,1200.0,Comedy
+Hard Truths,97,7.3,4500.0,Comedy
+Wallace & Gromit: Vengeance Most Fowl,82,7.5,33000.0,Comedy
+Distant,87,5.7,3000.0,Comedy
+Y2K,91,4.9,9800.0,Comedy
+Harold and the Purple Crayon,90,5.7,7900.0,Comedy
+Drive-Away Dolls,84,5.4,23000.0,Comedy
+Kung Fu Panda 4,94,6.3,67000.0,Comedy
+Greedy People,112,6.2,11000.0,Comedy
+Jönssonligan kommer tillbaka,104,6.0,1000.0,Comedy
+A Family Affair,111,5.3,36000.0,Comedy
+Miller's Girl,93,5.2,23000.0,Comedy
+The Garfield Movie,101,5.7,24000.0,Comedy
+The Instigators,101,6.2,37000.0,Comedy
+Lift,107,5.5,49000.0,Comedy
+Beverly Hills Cop: Axel F,118,6.4,80000.0,Comedy
+Hitpig,86,5.1,829.0,Comedy
+Unfrosted,97,5.5,34000.0,Comedy
+Ricky Stanicky,113,6.2,55000.0,Comedy
+Incoming,91,5.8,13000.0,Comedy
+Get Away,86,5.3,6100.0,Comedy
+Your Monster,103,6.4,5400.0,Comedy
+Misericordia,104,6.9,1600.0,Comedy
+The Empire,110,5.2,1200.0,Comedy
+Dìdi,93,7.3,12000.0,Comedy
+Brothers,89,5.4,13000.0,Comedy
+The Uninvited,97,5.9,138.0,Comedy
+Sacramento,84,7.0,133.0,Comedy
+Stree 2: Sarkate Ka Aatank,147,6.9,41000.0,Comedy
+A Nice Indian Boy,96,7.2,149.0,Comedy
+How to Make Millions Before Grandma Dies,125,8.0,13000.0,Comedy
+Find Me Falling,93,6.3,12000.0,Comedy
+Goodrich,110,6.3,4900.0,Comedy
+Sookshma Darshini,142,7.8,9500.0,Comedy
+Spellbound,109,5.7,6300.0,Comedy
+Jackpot!,106,5.8,30000.0,Comedy
+Ghostlight,115,7.6,5600.0,Comedy
+The Gutter,92,5.4,436.0,Comedy
+Upgraded,104,6.1,29000.0,Comedy
+Boot Camp,94,5.8,1000.0,Comedy
+Winner,103,6.5,2300.0,Comedy
+Lisa Frankenstein,101,6.1,28000.0,Comedy
+We're All Gonna Die,110,8.4,79.0,Comedy
+The Marching Band,103,7.5,2000.0,Comedy
+Saving Bikini Bottom: The Sandy Cheeks Movie,82,3.7,3700.0,Comedy
+The Mouse Trap,80,2.5,3100.0,Comedy
+Mother of the Bride,88,4.8,17000.0,Comedy
+Sweethearts,98,5.5,3700.0,Comedy
+Manamey,155,5.5,563.0,Comedy
+Irish Wish,93,5.2,21000.0,Comedy
+Aavesham,155,7.8,27000.0,Comedy
+Piece by Piece,93,6.9,5100.0,Comedy
+The Visitor,101,4.3,190.0,Comedy
+Sister Midnight,107,6.6,264.0,Comedy
+Bob Trevino Likes It,102,8.2,311.0,Comedy
+Chosen Family,88,4.6,258.0,Comedy
+The Grinch That Stole Bitches,74,7.1,36.0,Comedy
+Summer Camp,95,4.5,1500.0,Comedy
+Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,102,8.5,72.0,Comedy
+Family Pack,94,5.5,8700.0,Comedy
+Universal Language,89,7.2,1100.0,Comedy
+The Radleys,115,5.0,2600.0,Comedy
+Lumina,113,2.1,636.0,Comedy
+Narayaneente Moonnaanmakkal,108,6.7,675.0,Comedy
+Players,105,5.7,12000.0,Comedy
+The Wonderful Story of Henry Sugar and Three More,88,7.1,6200.0,Comedy
+Our Little Secret,101,5.7,23000.0,Comedy
+Five Blind Dates,83,5.1,1900.0,Comedy
+The Fabulous Four,98,4.8,1500.0,Comedy
+Bookworm,103,6.0,1800.0,Comedy
+The Problem with People,102,5.8,326.0,Comedy
+Let's Start a Cult,90,5.9,1300.0,Comedy
+Megamind vs. The Doom Syndicate,83,2.5,5500.0,Comedy
+The American Society of Magical Negroes,104,3.7,12000.0,Comedy
+My Favourite Cake,97,7.4,6900.0,Comedy
+Holy Cow,92,7.2,1100.0,Comedy
+Skincare,96,5.7,4200.0,Comedy
+On Becoming a Guinea Fowl,99,7.2,636.0,Comedy
+I Don't Understand You,96,7.1,69.0,Comedy
+Munjya,123,6.3,25000.0,Comedy
+Orion and the Dark,93,6.3,17000.0,Comedy
+Babes,104,6.3,6100.0,Comedy
+Dear Santa,107,5.4,18000.0,Comedy
+The 4:30 Movie,87,6.0,3500.0,Comedy
+The Best Christmas Pageant Ever,99,6.8,6000.0,Comedy
+Turn Me On,99,5.6,436.0,Comedy
+Reunion,90,5.6,3400.0,Comedy
+Sasquatch Sunset,88,5.4,5300.0,Comedy
+Don't Tell Mom the Babysitter's Dead,99,3.8,1100.0,Comedy
+Role Play,100,5.5,19000.0,Comedy
+How to Date Billy Walsh,98,5.2,3900.0,Comedy
+Swimming Home,99,4.9,357.0,Comedy
+Trouble,98,6.2,6600.0,Comedy
+Bhool Bhulaiyaa 3,158,4.7,77000.0,Comedy
+The Balconettes,104,6.3,738.0,Comedy
+Modi: Three Days on the Wing of Madness,110,5.6,412.0,Comedy
+Beautiful Wedding,100,4.1,4100.0,Comedy
+Madgaon Express,143,7.0,41000.0,Comedy
+Vulgar,103,6.7,104.0,Comedy
+Standing on the Shoulders of Kitties,111,6.2,488.0,Comedy
+"I, the Executioner",118,6.3,1600.0,Comedy
+The Merry Gentlemen,87,4.8,10000.0,Comedy
+Gone Running,105,7.1,3800.0,Comedy
+Arthur's Whisky,94,4.5,806.0,Comedy
+The Underdoggs,96,5.6,4500.0,Comedy
+City Hunter,102,6.3,5500.0,Comedy
+My Spy: The Eternal City,112,5.7,11000.0,Comedy
+Drugstore June,91,5.3,1700.0,Comedy
+That Christmas,91,6.8,17000.0,Comedy
+Thelma the Unicorn,93,5.7,2900.0,Comedy
+A Dog's Will 2,104,6.3,2700.0,Comedy
+Shell,100,6.7,65.0,Comedy
+This Is Me... Now,65,4.1,7100.0,Comedy
+Space Cadet,110,4.9,9900.0,Comedy
+This Time Next Year,116,5.6,2100.0,Comedy
+Street Trash,85,4.4,746.0,Comedy
+The Tiger's Apprentice,84,5.7,2100.0,Comedy
+Am I Racist?,100,6.7,16000.0,Comedy
+When Fall Is Coming,102,6.8,1300.0,Comedy
+Broken Rage,62,6.1,1200.0,Comedy
+Adult Best Friends,90,7.5,62.0,Comedy
+You Are the Apple of My Eye,101,7.6,3300.0,Comedy
+Through My Window: Looking at You,105,5.4,5100.0,Comedy
+Candidatul perfect,106,6.2,667.0,Comedy
+Desert Fiends,84,8.5,381.0,Comedy
+Bad Shabbos,95,7.3,134.0,Comedy
+Sweet Dreams,114,5.4,1400.0,Comedy
+Alter weißer Mann,112,6.2,612.0,Comedy
+Spread,92,5.7,634.0,Comedy
+Hot Frosty,85,5.3,14000.0,Comedy
+Sex-Positive,96,4.1,655.0,Comedy
+Arena Wars,104,4.9,2000.0,Comedy
+Nutcrackers,135,5.5,9200.0,Comedy
+Khel Khel Mein,99,6.5,27000.0,Comedy
+Time Travel Is Dangerous,99,6.3,87.0,Comedy
+Marmalade,111,6.2,3500.0,Comedy
+Between the Temples,99,6.3,2800.0,Comedy
+A Little Something Extra,83,7.0,4700.0,Comedy
+Bloody Axe Wound,111,4.8,472.0,Comedy
+Treasure,98,6.3,2000.0,Comedy
+200% Wolf,108,6.0,1300.0,Comedy
+Officer Black Belt,118,6.8,7900.0,Comedy
+Wallbanger,111,5.7,640.0,Comedy
+Simarik,80,6.4,2300.0,Comedy
+The Second Act,91,6.4,3300.0,Comedy
+Seize Them!,100,5.1,1200.0,Comedy
+My Melbourne,105,7.5,38.0,Comedy
+A House on Fire,117,7.3,3200.0,Comedy
+Three Friends,90,6.6,602.0,Comedy
+Unspeakable: Beyond the Wall of Sleep,124,5.9,37.0,Comedy
+The Supremes at Earl's All-You-Can-Eat,89,6.4,1400.0,Comedy
+Timestalker,85,5.5,2900.0,Comedy
+Rats!,103,8.0,77.0,Comedy
+The Gentleman,117,7.9,94.0,Comedy
+Ultraman: Rising,89,6.9,6200.0,Comedy
+I Love You Forever,99,6.2,92.0,Comedy
+Panda Plan,116,5.1,1100.0,Comedy
+The Astronaut Lovers,88,7.1,550.0,Comedy
+10 Lives,115,5.9,1800.0,Comedy
+Doraemon the Movie: Nobita's Earth Symphony,91,6.6,1400.0,Comedy
+Running on Empty,90,4.9,532.0,Comedy
+Not Another Church Movie,100,2.2,1100.0,Comedy
+Peter Five Eight,125,3.5,1100.0,Comedy
+Srikakulam Sherlockholmes,95,8.2,2300.0,Comedy
+The Trainer,90,7.2,52.0,Comedy
+Plan B,156,5.9,1100.0,Comedy
+Premalu,100,7.8,19000.0,Comedy
+Autumn and the Black Jaguar,96,5.6,961.0,Comedy
+Casatoria,70,6.4,2500.0,Comedy
+Murder at Hollow Creek,95,4.2,78.0,Comedy
+The Thundermans Return,102,5.0,1800.0,Comedy
+Carved,112,4.4,2700.0,Comedy
+Peacock,96,7.2,315.0,Comedy
+Hisaab Barabar,100,5.7,1600.0,Comedy
+Heavier Trip,84,6.0,1200.0,Comedy
+Woody Woodpecker Goes to Camp,111,4.5,2500.0,Comedy
+Mars,94,8.9,19.0,Comedy
+Longing,83,4.7,775.0,Comedy
+Inheritance,135,5.1,3400.0,Comedy
+Dan Da Dan: First Encounter,152,8.2,2600.0,Comedy
+Everybody Loves Jenifa,135,8.4,78.0,Comedy
+Harry Potter and the Stone,136,8.0,155.0,Comedy
+Diamanti,78,7.0,969.0,Comedy
+Hello Mummy,93,5.6,3200.0,Comedy
+My Fathers' Daughter,101,6.6,71.0,Comedy
+Buffalo Kids,92,6.6,633.0,Comedy
+Jim's Story,106,6.8,828.0,Comedy
+Die Hart 2: Die Harter,101,4.3,5400.0,Comedy
+Christmas Eve in Miller's Point,118,5.6,2300.0,Comedy
+Young Werther,131,5.7,202.0,Comedy
+Crew,89,5.8,37000.0,Comedy
+Mittran Da Challeya Truck Ni,88,8.3,686.0,Comedy
+Krazy House,97,4.8,1400.0,Comedy
+Monster on a Plane,118,5.5,2300.0,Comedy
+Half Baked: Totally High,106,4.6,339.0,Comedy
+Love in the Big City,106,7.5,1300.0,Comedy
+French Girl,84,5.5,2300.0,Comedy
+The Real Bros of Simi Valley: The Movie,89,7.1,1000.0,Comedy
+Seven Cemeteries,100,4.5,497.0,Comedy
+Moartea in vacanta,90,6.7,1400.0,Comedy
+Layla,120,6.1,332.0,Comedy
+A Hip Hop Story,105,8.7,105.0,Comedy
+The Southern Chronicles,88,8.8,2300.0,Comedy
+How Could I Live Without You?,97,6.9,923.0,Comedy
+Zero,92,6.1,38.0,Comedy
+Lost & Found in Cleveland,90,8.5,18.0,Comedy
+Audrey,100,5.7,280.0,Comedy
+Blame the Game,88,5.4,4900.0,Comedy
+Mukadderat,106,7.3,488.0,Comedy
+Perfect Endings,111,5.5,184.0,Comedy
+Operation Taco Gary's,99,6.5,26.0,Comedy
+Crayon Shin-chan: Ora's Dinosaur Diary,110,6.5,311.0,Comedy
+And Mrs,86,5.8,682.0,Comedy
+Slay,82,6.5,1100.0,Comedy
+Little Death,107,5.4,200.0,Comedy
+The Present,105,5.5,850.0,Comedy
+The Groomsmen: First Look,116,6.1,377.0,Comedy
+The Lifeguards,90,3.9,136.0,Comedy
+Ma Este Gyilkolunk,114,5.1,530.0,Comedy
+Dead Talents Society,86,7.4,800.0,Comedy
+Two to One,141,6.0,690.0,Comedy
+À bicyclette!,129,7.1,131.0,Comedy
+The Other Way Around,95,6.4,1300.0,Comedy
+Prom Dates,152,5.2,1600.0,Comedy
+Teri Baaton Mein Aisa Uljha Jiya,83,6.2,54000.0,Comedy
+A Legend,94,4.7,855.0,Comedy
+Stress Positions,109,5.0,610.0,Comedy
+Vicky Vidya Ka Woh Wala Video,119,5.2,11000.0,Comedy
+Dog on Trial,88,6.1,578.0,Comedy
+Man and Witch: The Dance of a Thousand Steps,92,5.5,326.0,Comedy
+Killer Body Count,90,4.7,633.0,Comedy
+Christmas Cowboy,123,6.8,99.0,Comedy
+Lesson Learned,98,7.7,2000.0,Comedy
+Crackcoon,101,3.6,400.0,Comedy
+Still Fabulous,109,4.9,839.0,Comedy
+Griffin in Summer,103,7.2,152.0,Comedy
+Her Story,92,7.7,1700.0,Comedy
+Memory Lane,89,7.4,1700.0,Comedy
+Handsome Guys,85,6.5,751.0,Comedy
+Cells at Work!,118,6.8,168.0,Comedy
+El Heredero,81,8.2,35.0,Comedy
+Cocorico,96,5.8,3100.0,Comedy
+Four Mothers,85,7.6,85.0,Comedy
+Paying for It,78,7.6,92.0,Comedy
+Chantal in Fairyland,91,4.6,2600.0,Comedy
+Feeling Randy,94,7.8,460.0,Comedy
+The Throwback,109,5.5,341.0,Comedy
+Frankie Freako,113,5.6,1000.0,Comedy
+Stealing Pulp Fiction,96,6.3,18.0,Comedy
+Música,110,6.4,5000.0,Comedy
+Books & Drinks,121,6.5,75.0,Comedy
+London Calling,82,7.5,17.0,Comedy
+Cassino in Ischia,92,4.4,229.0,Comedy
+Corina,146,7.6,270.0,Comedy
+Beyond the Likes,109,6.9,16.0,Comedy
+The Deb,115,7.7,68.0,Comedy
+Rockbottom,150,7.4,82.0,Comedy
+Nice Girls,130,4.2,1200.0,Comedy
+Lubber Pandhu,81,8.2,5800.0,Comedy
+How to Make a Killing,94,6.6,675.0,Comedy
+The Private Eye,96,3.6,126.0,Comedy
+A.R.M,105,7.1,8500.0,Comedy
+Bau: Artist at War,101,7.1,52.0,Comedy
+Don't Mess with Grandma,107,6.1,144.0,Comedy
+The Christmas Letter,85,4.1,176.0,Comedy
+Good Bad Things,111,5.8,187.0,Comedy
+Meet Me Next Christmas,85,5.7,8400.0,Comedy
+Meet the Barbarians,95,6.5,419.0,Comedy
+Una Pequeña Confusion,90,6.2,204.0,Comedy
+Destroy All Neighbors,109,5.3,2000.0,Comedy
+No Pressure,120,5.1,1100.0,Comedy
+Haikyu!! The Dumpster Battle,87,7.7,6000.0,Comedy
+Camp Crasher,105,5.4,778.0,Comedy
+Retreat Vama Veche,95,3.9,914.0,Comedy
+Wild Wild Punjab,105,6.2,15000.0,Comedy
+The Stress Is Killing Me,98,5.9,868.0,Comedy
+Marcello Mio,89,5.4,1200.0,Comedy
+Non Negotiable,120,4.7,197.0,Comedy
+Shabab Albomb,125,6.9,273.0,Comedy
+Tim Travers & the Time Travelers Paradox,85,6.1,2500.0,Comedy
+Mission: Cross,96,5.9,4500.0,Comedy
+Tanning Zone,90,4.5,248.0,Comedy
+"Love, Divided",110,6.5,530.0,Comedy
+À l'ancienne,100,7.3,3900.0,Comedy
+Almost Paradise,105,7.8,484.0,Comedy
+Vaazha: Biopic of a Billion Boys,98,4.3,194.0,Comedy
+Rap World,98,8.0,74.0,Comedy
+The Holiday List,86,7.8,232.0,Comedy
+The Black Sea,90,6.7,430.0,Comedy
+U Are the Universe,103,6.6,191.0,Comedy
+Mr. Manhattan,114,5.3,278.0,Comedy
+Sew Torn,102,7.3,354.0,Comedy
+Suspended Time,113,5.7,117.0,Comedy
+Der Buchspazierer,108,7.9,42.0,Comedy
+Triumph,129,6.1,820.0,Comedy
+Nuked,75,6.2,1400.0,Comedy
+Believe in Christmas,105,7.5,177.0,Comedy
+Lucky Winners,90,5.8,303.0,Comedy
+My Annoying Brother,142,6.3,413.0,Comedy
+Breakup Season,97,5.6,299.0,Comedy
+Alles Fifty Fifty,86,6.9,3600.0,Comedy
+Dear Paris,91,4.3,613.0,Comedy
+Yolo,122,6.1,476.0,Comedy
+Last Night at Terrace Lanes,120,6.8,50.0,Comedy
+Mascarpone: The Rainbow Cake,91,4.7,26000.0,Comedy
+Going Viral,93,6.6,162.0,Comedy
+Bad Newz,91,2.4,30.0,Comedy
+Empire Waist,120,5.1,1100.0,Comedy
+Fierce Killer Marsupial,110,6.1,10000.0,Comedy
+A Sudden Case of Christmas,99,6.4,220.0,Comedy
+Blackout,82,7.5,35.0,Comedy
+Victory,179,5.8,736.0,Comedy
+La Familia,87,5.6,95.0,Comedy
+Divorce,97,5.0,179.0,Comedy
+A Trip Elsewhere,85,7.9,8.0,Comedy
+Jamais sans mon psy,140,9.0,90.0,Comedy
+Cheerleaders Behaving Badly,94,4.4,174.0,Comedy
+Something's More Than One Thing,92,5.2,851.0,Comedy
+Bermondsey Tales: Fall of the Roman Empire,80,7.2,5800.0,Comedy
+(Un)lucky Sisters,113,8.1,96.0,Comedy
+The Roast of Tom Brady,80,5.6,221.0,Comedy
+Lesbian Space Princess,91,4.1,2200.0,Comedy
+Funny Birds,93,5.8,51000.0,Comedy
+ClearMind,116,6.9,165.0,Comedy
+Murder Mubarak,145,6.7,61.0,Comedy
+Super Happy Forever,85,2.3,295.0,Comedy
+Throuple,79,6.5,1200.0,Comedy
+Cocaine Werewolf,110,1.8,643.0,Comedy
+Un mondo a parte,110,6.4,859.0,Comedy
+Ryan's World the Movie: Titan Universe Adventure,90,7.8,54.0,Comedy
+Auction,97,8.7,8.0,Comedy
+Sallywood,92,5.1,35.0,Comedy
+Almost Popular,120,6.6,62.0,Comedy
+Reine Mère,102,9.1,60.0,Comedy
+Sur un fil,123,5.9,180.0,Comedy
+Sahbek Rajel,100,8.9,38.0,Comedy
+Mother Father Sister Brother Frank,105,6.5,213.0,Comedy
+"Love, Danielle",81,7.7,71.0,Comedy
+What a Feeling,113,3.3,211.0,Comedy
+The Solitary Gourmet,77,8.3,42.0,Comedy
+The Book of Jobs,90,7.2,24.0,Comedy
+Graveyard Shark,94,6.3,210.0,Comedy
+Sketch,99,6.8,241.0,Comedy
+U.S. Palmese,98,5.4,70.0,Comedy
+Ballot,103,8.6,27.0,Comedy
+And the Breadwinner Is...,81,4.9,760.0,Comedy
+Tezgah,105,5.4,185.0,Comedy
+Switch Up,93,7.5,24.0,Comedy
+Haunt Season,110,4.8,190.0,Comedy
+Love's Second Act,84,5.9,414.0,Comedy
+Kangaroo Island,133,7.5,22.0,Comedy
+Another Cabin in the Woods Movie,72,4.8,106.0,Comedy
+Deaner '89,117,5.1,24.0,Comedy
+Holy Cash,96,5.5,212.0,Comedy
+Barbie & Kendra Crash Joe Bob's Drive-In Jamboree,109,5.4,222.0,Comedy
+In Fidelity,115,8.4,41.0,Comedy
+This Life of Mine,134,4.9,45.0,Comedy
+Swede Caroline,147,5.1,1000.0,Comedy
+Say a Little Prayer,93,5.7,67.0,Comedy
+A Gangster's Kiss,68,4.8,671.0,Comedy
+Efsane,127,6.6,990.0,Comedy
+Una terapia di gruppo,85,7.0,18.0,Comedy
+Disaster Holiday,81,6.9,429.0,Comedy
+Kid Santa,81,6.3,10.0,Comedy
+The Missile,112,7.2,341.0,Comedy
+Shrek 5: The Contract - A Fan Made Film,86,4.3,624.0,Comedy
+White Snake: Afloat,102,2.4,1700.0,Comedy
+A Family Affair,106,6.8,996.0,Comedy
+Chainsaws Were Singing,132,8.7,52.0,Comedy
+Noah's Ark,83,7.8,199.0,Comedy
+Gelin Takimi,98,9.2,10.0,Comedy
+I Am Kathalan,88,5.8,2000.0,Comedy
+Ajosepo,84,5.6,231.0,Comedy
+2nd Miracle in Cell No. 7,172,6.9,57.0,Comedy
+Boxcutter,99,6.4,435.0,Comedy
+Jamie Foxx: What Had Happened Was...,90,5.7,76.0,Comedy
+Finalement,102,5.0,788.0,Comedy
+Marry Christmas,140,5.3,1100.0,Comedy
+No Time to Spy: A Loud House Movie,90,6.4,1100.0,Comedy
+Memes & Nightmares,90,6.6,2200.0,Comedy
+I Can't Live Without You,102,6.6,4500.0,Comedy
+Cat and Dog,150,6.5,59.0,Comedy
+Meet the Leroys,90,7.0,906.0,Comedy
+Goyo,93,8.5,36.0,Comedy
+Guruvayoor Ambalanadayil,92,6.1,724.0,Comedy
+The Yorkie Werewolf,103,4.3,128.0,Comedy
+La casa,94,6.9,121.0,Comedy
+Straight A Pregnancy,120,8.8,34.0,Comedy
+When in Rome,103,5.2,3000.0,Comedy
+Love... Reconsidered,133,4.6,54.0,Comedy
+Mord,93,7.4,29.0,Comedy
+Don't Say It,128,6.2,218.0,Comedy
+Trisha on the Rocks,137,6.4,12000.0,Comedy
+Girl Meets Boy,96,6.2,17.0,Comedy
+The Everything Pot,73,3.7,109.0,Comedy
+Crust,91,5.0,563.0,Comedy
+Do Aur Do Pyaar,86,5.6,535.0,Comedy
+Timuchin,84,5.5,1000.0,Comedy
+The Contract,88,5.5,274.0,Comedy
+Clickbait: Unfollowed,90,3.2,1200.0,Comedy
+Down the Rabbit Hole,66,8.1,974.0,Comedy
+Om Bheem Bush,106,5.8,42.0,Comedy
+The Trainers,135,6.6,63.0,Comedy
+Buzz House: The Movie,90,6.7,15.0,Comedy
+Behuli from Meghauli,85,6.6,406.0,Comedy
+Christmas Slasher,116,7.3,269.0,Comedy
+Doin' It,109,5.5,187.0,Comedy
+A Vilã das Nove,113,6.8,1200.0,Comedy
+¿Vienes o Voy?,121,6.6,103.0,Comedy
+De Z van Zus,99,3.3,722.0,Comedy
+Baby Assassins: Nice Days,99,6.6,3400.0,Comedy
+De mannenmaker,90,6.7,2800.0,Comedy
+Successor,120,4.5,116.0,Comedy
+En tongs au pied de l'Himalaya,92,7.8,337.0,Comedy
+The Actor,95,3.5,190.0,Comedy
+Tillu Square,95,5.8,324.0,Comedy
+"MoviePass, MovieCrash",95,5.5,308.0,Comedy
+Dirty Ice Cream,125,5.3,155.0,Comedy
+Extremely Unique Dynamic,134,5.3,94.0,Comedy
+My Divorce Party,90,4.6,1000.0,Comedy
+Veni Vidi Vici,94,6.4,405.0,Comedy
+Panda Bear in Africa,95,7.1,300.0,Comedy
+L'amore e altre seghe mentali,115,5.2,104.0,Comedy
+The Art of Nothing,89,5.9,347.0,Comedy
+Jack in Time for Christmas,85,5.3,6300.0,Comedy
+Waarom Wettelen,97,5.2,959.0,Comedy
+Hahacar,94,5.1,291.0,Comedy
+Transilvanian Ninja,105,7.0,1200.0,Comedy
+Victoria må dø,94,8.4,23.0,Comedy
+Kakuda,70,5.8,578.0,Comedy
+Technoboys,160,5.8,302.0,Comedy
+Verliefd op Bali,103,5.3,1100.0,Comedy
+Pegasus 2,97,6.8,582.0,Comedy
+Retail!,90,4.4,263.0,Comedy
+Menudas piezas,94,6.5,217.0,Comedy
+El Roomie,100,6.3,589.0,Comedy
+The Price of Nonna's Inheritance,90,3.8,1200.0,Comedy
+1995,116,5.0,107.0,Comedy
+Umjolo: The Gone Girl,96,8.8,9.0,Comedy
+Juliette au printemps,95,6.8,2900.0,Comedy
+Plastic Guns,79,7.5,185.0,Comedy
+Yasam Koçu,100,4.7,184.0,Comedy
+Team of Two,85,5.8,432.0,Comedy
+Alakada: Bad and Boujee,96,7.1,27.0,Comedy
+Nunakuzhi,109,5.5,1300.0,Comedy
+Xiong Shi Shao Nian 2,99,6.5,397.0,Comedy
+A European Christmas,90,4.3,85.0,Comedy
+N'avoue jamais,111,9.7,12.0,Comedy
+The Great Salish Heist,115,3.5,282.0,Comedy
+Love at 39 Degrees,132,6.3,388.0,Comedy
+Grotesque 2,121,5.0,40.0,Comedy
+"Hemet, or the Landlady Don't Drink Tea",112,1.5,312.0,Comedy
+I Hate Myself and Want to Die,77,8.0,255.0,Comedy
+Bull Run,67,5.5,780.0,Comedy
+Killer Babes,105,5.6,105.0,Comedy
+Romeo è Giulietta,131,5.8,453.0,Comedy
+Boy Kaldag,86,4.6,1300.0,Comedy
+Space Sharks,93,5.5,155.0,Comedy
+National Theatre Live: Nye,116,4.4,313.0,Comedy
+A Halloween Feast,99,9.3,16.0,Comedy
+Not Your Average Family,92,6.1,313.0,Comedy
+Der Spitzname,93,5.9,5100.0,Comedy
+Kill Me If You Dare,102,5.6,356.0,Comedy
+The World According to Kaleb: On Tour,103,5.7,147.0,Comedy
+Transmitzvah,91,8.4,15.0,Comedy
+Party People,113,8.9,82.0,Comedy
+Once Upon a Christmas Wish,114,3.8,156.0,Comedy
+Sharmajee Ki Beti,155,5.1,161.0,Comedy
+La petite vadrouille,90,8.1,185.0,Comedy
+Challenger,88,4.9,407.0,Comedy
+The Pee Pee Poo Poo Man,136,5.3,919.0,Comedy
+Another Day in America,120,5.2,601.0,Comedy
+"Silent Night, Bloody Night 3: Descent",96,7.2,124.0,Comedy
+La famille Hennedricks,135,7.2,164.0,Comedy
+Clone Cops,90,8.1,13.0,Comedy
+King of My Castle,87,4.2,133.0,Comedy
+In Good Hands 2,87,4.0,805.0,Comedy
+Father There is Only One 4,97,6.3,175.0,Comedy
+Miss Boots,105,6.4,36.0,Comedy
+Kale Lagan Chhe!?!,81,3.2,116.0,Comedy
+To the Moon,88,5.0,241.0,Comedy
+U Pana Boga w Królowym Moscie,118,5.8,311.0,Comedy
+Grrr...,103,5.3,157.0,Comedy
+Tous toqués !,117,6.6,415.0,Comedy
+Anthony Rodia Totally Relatable,102,8.7,122.0,Comedy
+Suckers,105,6.6,74.0,Comedy
+Salitan,175,6.8,176.0,Comedy
+Estômago II: O Poderoso Chef,126,4.9,275.0,Comedy
+À toute allure,120,9.1,14.0,Comedy
+Mamífera,95,4.7,106.0,Comedy
+Jerry,90,8.0,59.0,Comedy
+Sin instrucciones,90,4.5,217.0,Comedy
+Tre menn til Vilma,99,6.4,170.0,Comedy
+Anyone But Her,119,5.9,3500.0,Comedy
+Überall gibt es ein Hausen,97,6.2,1400.0,Comedy
+De Jackpot,96,4.0,357.0,Comedy
+Seni Memahami Kekasih,73,9.2,30.0,Comedy
+Bonus Trip,91,6.0,637.0,Comedy
+Queens of Drama,81,6.7,299.0,Comedy
+Turbo,136,5.0,75.0,Comedy
+Tati Part Time,130,6.2,747.0,Comedy
+Murder and Cocktails,85,3.9,381.0,Comedy
+Local Kung Fu 3,89,5.1,259.0,Comedy
+Hannah Berner: We Ride at Dawn,96,5.6,1300.0,Comedy
+Dog Days,93,5.4,118.0,Comedy
+The Mick and the Trick,156,6.2,61.0,Comedy
+Love You to Debt,95,5.1,96.0,Comedy
+I Want to Be Neenja! The Movie,93,4.3,191.0,Comedy
+Gracie and Pedro: Pets to the Rescue,86,4.4,778.0,Comedy
+Klaus & Barroso,85,5.7,199.0,Comedy
+Fruitcake,105,7.7,89.0,Comedy
+You Are Not Alone,88,4.8,795.0,Comedy
+Mountain Shark,112,3.5,126.0,Comedy
+SuperKlaus,140,7.9,22.0,Comedy
+Thaanara,133,4.7,204.0,Comedy
+The Happiness I Have,146,8.1,39.0,Comedy
+Shukrana,101,7.0,358.0,Comedy
+Erdal ile Ece 2,61,4.7,289.0,Comedy
+4 Zéros,95,6.2,14.0,Comedy
+Mustafar Takes Los Angeles: A Live Staged Reading of Star Wars: Episode III,99,6.6,116.0,Comedy
+Cupido confuso,90,8.0,50.0,Comedy
+Idiyan Chandhu,148,3.8,2800.0,Comedy
+One Night in Tokyo,87,6.4,497.0,Comedy
+Air Fryer Slaughter,82,6.6,65.0,Comedy
+Pressure Cooker,90,7.8,29.0,Comedy
+Messy,85,8.0,176.0,Comedy
+Wishing on a Star,100,7.5,99.0,Comedy
+Citizen Weiner,95,6.4,1500.0,Comedy
+"LSD 2: Love, Sex Aur Dhokha 2",129,5.8,299.0,Comedy
+Breakfast with Giraffes,119,3.9,305.0,Comedy
+Sad Jokes,90,4.8,432.0,Comedy
+Nado snimat filmy o lyubvi,96,5.6,652.0,Comedy
+Double or Nothing,98,2.4,977.0,Comedy
+Shannon Matthews the Musical the Movie,125,5.0,72.0,Comedy
+Female 4,103,4.7,319.0,Comedy
+Matt Rife: Lucid - A Crowd Work Special,115,8.8,10.0,Comedy
+That Kind of Love,104,5.3,69.0,Comedy
+Thekku Vadakku,150,9.1,414.0,Comedy
+Wieczór kawalerski,146,8.9,60.0,Comedy
+The Casagrandes Movie,110,5.7,50.0,Comedy
+Takintilar,95,5.6,520.0,Comedy
+Vidente por Acidente,90,6.2,530.0,Comedy
+Karataka Dhamanaka,107,7.1,21.0,Comedy
+The Great Nick D,113,8.6,63.0,Comedy
+"María, Me Muero",148,8.1,1200.0,Comedy
+I Left My Heart in Colombia,110,7.1,1300.0,Comedy
+Jon Vardar protiv Galaksijata,101,5.6,111.0,Comedy
+The Big Trip 3: Race Around the World,110,6.4,728.0,Comedy
+Maybe Baby 2,142,6.4,47.0,Comedy
+Big City Greens the Movie: Spacecation,131,4.8,500.0,Comedy
+100 litraa sahtia,94,4.8,745.0,Comedy
+Nick and Nicky,91,3.2,204.0,Comedy
+Vanilla Ice Cream,90,5.2,436.0,Comedy
+Laughing Buddha,86,7.5,377.0,Comedy
+Ek Daav Bhootacha,139,4.7,202.0,Comedy
+My Wifes X,105,2.6,347.0,Comedy
+"Maya, donne-moi un titre",108,5.3,1500.0,Comedy
+Cuerpo escombro,77,6.2,50.0,Comedy
+The Infallibles,122,7.4,1500.0,Comedy
+Som van Twee,106,7.6,2800.0,Comedy
+Empire Queen: The Golden Age of Magic,90,5.4,166.0,Comedy
+Nugget Is Dead: A Christmas Story,93,6.1,53.0,Comedy
+Massacre at Femur Creek,99,6.7,33.0,Comedy
+Belyakovy v otpuske,96,8.3,1100.0,Comedy
+Game On,95,6.9,84.0,Comedy
+Honeymoonish,88,6.8,817.0,Comedy
+¿Quién es quién?,92,4.4,61.0,Comedy
+Jolly O Gymkhana,77,5.7,449.0,Comedy
+Agak Laen,88,7.9,79.0,Comedy
+Morando com o Crush,88,6.2,1000.0,Comedy
+Another German Tank Story,82,6.7,401.0,Comedy
+Spirit Riser,87,8.5,43.0,Comedy
+Delivery Boy,109,7.5,142.0,Comedy
+Kyuka: Before Summer's End,96,6.2,3100.0,Comedy
+Illegal Hayatlar: Meclis,113,5.3,181.0,Comedy
+Cult of Blood,105,4.8,13.0,Comedy
+Os Farofeiros 2,87,9.2,375.0,Comedy
+Hrashwo Deergha,76,7.6,51.0,Comedy
+Vadakkupatti Ramasamy,69,4.9,349.0,Comedy
+Troubleshooters,110,6.2,750.0,Comedy
+My Ex's Wedding,88,5.3,443.0,Comedy
+Bocchi the Rock! Re:,80,4.7,136.0,Comedy
+Kahan Shuru Kahan Khatam,93,3.3,33.0,Comedy
+Amazon Bullseye,104,7.1,102.0,Comedy
+My Boyfriend Is a Sex Worker,98,5.3,199.0,Comedy
+Bidurbhai,88,4.7,152.0,Comedy
+The Property,85,6.2,24.0,Comedy
+Hotel Bitcoin,83,9.0,11.0,Comedy
+Pilot,107,4.2,649.0,Comedy
+Nadikar,105,5.4,104.0,Comedy
+The Boys,166,5.8,40.0,Comedy
+Kya Masti Kya Dhoom,137,6.3,426.0,Comedy
+Staycation,122,4.6,13.0,Comedy
+L'heureuse élue,90,7.2,17.0,Comedy
+Members Club,100,6.4,760.0,Comedy
+Group Therapy,97,5.6,7100.0,Comedy
+The Entertainer,110,7.1,12.0,Comedy
+Swargathile Katturumbu,75,7.8,63.0,Comedy
+For Prophet,93,5.2,366.0,Comedy
+Re:Human,100,7.4,87.0,Comedy
+Maybe More,112,3.3,230.0,Comedy
+Best Friends Forever,88,8.6,16.0,Comedy
+Perdiendo el Juicio,110,4.7,163.0,Comedy
+Kang Mak,127,5.3,84.0,Comedy
+Ishq Vishk Rebound,107,7.0,23.0,Comedy
+Amiche mai,71,3.0,139.0,Comedy
+Rent Free,88,5.6,19.0,Comedy
+Mala persona,97,8.8,156.0,Comedy
+Filthy Animals,74,5.8,433.0,Comedy
+Flat Blood,136,4.7,101.0,Comedy
+Don't Be Embarrassed 2,90,6.3,5200.0,Comedy
+"Aku Jati, Aku Asperger",108,5.4,152.0,Comedy
+Yolki 11,104,2.8,164.0,Comedy
+Minor Leaguer,102,6.1,204.0,Comedy
+King Baby,75,4.5,335.0,Comedy
+Amityville Bigfoot,106,6.5,56.0,Comedy
+More na dvoikh,89,5.3,483.0,Comedy
+A Little Family Drama,124,7.8,100.0,Comedy
+Breaking and Re-entering,105,7.4,198.0,Comedy
+Cholo Zombies,87,6.8,51.0,Comedy
+Bandaa Singh Chaudhary,96,7.9,48.0,Comedy
+Lyubvi ne byvaet?,96,2.8,2100.0,Comedy
+Killington,81,8.5,28.0,Comedy
+Scared Shitless,107,6.8,273.0,Comedy
+Carnage for Christmas,109,7.6,19.0,Comedy
+Matchmaking 2,145,7.5,90.0,Comedy
+Kyllä isä osaa -elokuva,151,5.9,128.0,Comedy
+Living Large,104,7.4,22.0,Comedy
+Don't F**k with Ghosts,95,6.6,4100.0,Comedy
+Portraits of Dangerous Women,95,6.0,1200.0,Comedy
+Odd Fish,90,5.8,1500.0,Comedy
+Kolpaçino: 4 4'lük,91,5.9,45.0,Comedy
+Micro Budget,120,9.0,53.0,Comedy
+December 31st Express,96,3.5,107.0,Comedy
+Mi Perfecto Ex,108,6.5,50.0,Comedy
+Holly by Nightfall,112,6.1,575.0,Comedy
+Feste & Freunde - Ein Hoch auf uns!,114,2.8,335.0,Comedy
+Ma chi ti conosce,121,5.2,29.0,Comedy
+Final Wager,89,6.3,87.0,Comedy
+Varshangalkku Shesham,136,6.1,1200.0,Comedy
+Singapore Saloon,100,6.6,345.0,Comedy
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,88,6.1,601.0,Comedy
+Jameelante Poovan Kozhi,95,8.8,75.0,Comedy
+Stinky Summer,173,6.9,624.0,Comedy
+Intention,91,6.6,226.0,Comedy
+Zim Zim Ala Kazim,97,6.4,54.0,Comedy
+Intercambiadas,115,5.9,250.0,Comedy
+50 km/h,114,6.0,15.0,Comedy
+Snow Valley,100,9.5,9.0,Comedy
+200KG Vampire,90,5.0,7.0,Comedy
+Badaa Saat Fi Yawman Ma,141,5.8,2200.0,Comedy
+Isla Monstro,106,7.8,28.0,Comedy
+Vijay 69,76,7.0,30.0,Comedy
+The Holiday Club,125,6.2,47.0,Comedy
+Lagan Special,81,4.6,45.0,Comedy
+Poppay Ki Wedding,156,6.3,181.0,Comedy
+Fortune Feimster: Crushing It,98,3.3,35.0,Comedy
+Kidnapping Inc.,88,5.9,339.0,Comedy
+Hiçbir Sey Normal Degil,106,6.2,73.0,Comedy
+Being Blanche Houellebecq,94,7.8,1100.0,Comedy
+Day Trippers,76,7.1,41.0,Comedy
+A Country Called Ghana,122,5.5,51.0,Comedy
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,99,4.4,349.0,Comedy
+Little Hearts,105,7.1,37.0,Comedy
+Cabaret Total,106,7.1,53.0,Comedy
+Foul Evil Deeds,137,5.2,585.0,Comedy
+K3 en Het Lied van de Zeemeermin,77,9.0,53.0,Comedy
+Stealing Jokes,125,7.5,69.0,Comedy
+De Break-Up Club,84,7.9,992.0,Comedy
+One Million Babes BC,92,6.6,977.0,Comedy
+Culpa cero,86,5.9,123.0,Comedy
+Powder Pup,94,4.8,92.0,Comedy
+Porattu Nadakam,88,7.8,453.0,Comedy
+The Fisherman,98,6.4,348.0,Comedy
+Double Blended,99,9.2,57.0,Comedy
+Alien Country,111,4.7,42.0,Comedy
+Lula Leblanc,90,7.7,27.0,Comedy
+Bloody Bridget,122,7.2,270.0,Comedy
+The Man Who Loved UFOs,135,5.7,1000.0,Comedy
+Karkhanu,99,6.0,992.0,Comedy
+Frka,114,6.7,1300.0,Comedy
+35-Chinna Katha Kaadu,93,6.5,61.0,Comedy
+Jhamkudi,107,3.8,82.0,Comedy
+404 Run Run,93,6.8,67.0,Comedy
+Father-in-law and Son-in-law,150,9.2,67.0,Comedy
+O Clube das Mulheres de Negócios,138,6.0,50.0,Comedy
+Chico Bento e a Goiabeira Maraviosa,99,3.9,260.0,Comedy
+Enchanting Christmas,95,6.2,168.0,Comedy
+Just Now Jeffrey,118,6.7,773.0,Comedy
+Can't Let It Go,114,3.8,290.0,Comedy
+Gone with the Dead,119,9.0,11.0,Comedy
+Goreyan Naal Lagdi Zameen Jatt Di,110,7.5,12.0,Comedy
+Aumenta que é Rock'n'Roll,82,7.9,99.0,Comedy
+Son of a Rich 2,95,6.4,70.0,Comedy
+Mandira,115,6.0,1300.0,Comedy
+Perdiendo mi virginidad 4,111,4.3,34.0,Comedy
+Vishesham,116,5.9,1400.0,Comedy
+Samana Sunrise,76,9.1,46.0,Comedy
+Terrornet,91,6.8,219.0,Comedy
+ReEmigrantai 2,87,5.8,92.0,Comedy
+Kodaikanal,104,7.1,90.0,Comedy
+Un lío de millones,104,6.5,685.0,Comedy
+"Snow, Tea and Love 2: With a Little Luck",103,7.5,26.0,Comedy
+Honey Money Phony,105,6.6,166.0,Comedy
+Citizen of a Kind,132,6.6,590.0,Comedy
+Letuchiy korabl,104,6.4,444.0,Comedy
+Mikka Bannada Hakki,139,8.6,14.0,Comedy
+Clown II,134,9.0,3100.0,Comedy
+About Family,82,4.3,147.0,Comedy
+"Die Heinzels: Neue Mützen, Neue Mission",97,6.7,1600.0,Comedy
+Ni Main Sass Kuttni 2,100,5.5,327.0,Comedy
+Kiyma: Orman Kanunlari,87,6.5,45.0,Comedy
+Adios Amigo,62,6.2,20.0,Comedy
+The Naboo Movie: A Live Staged Reading of Star Wars: The Phantom Menace,103,5.8,356.0,Comedy
+Head South,97,5.3,710.0,Comedy
+Solos en la noche,107,6.5,147.0,Comedy
+2 Fingers Honey 2,98,8.2,80.0,Comedy
+Andrea Gets a Divorce,114,8.6,15.0,Comedy
+Mud Key,99,6.2,36.0,Comedy
+Builder Boys,92,6.1,150.0,Comedy
+Tulnukas 2 ehk Valdise tagasitulek 17 osas,98,5.4,1800.0,Comedy
+Riders,90,7.3,89.0,Comedy
+Negeri Para Ketua,130,5.3,86.0,Comedy
+Bhale Unnade,86,6.7,69.0,Comedy
+The Rebellious,92,6.9,74.0,Comedy
+Sons of Rizk 3,82,6.0,946.0,Comedy
+Last ExMas,100,5.1,2800.0,Comedy
+The French Italian,82,7.3,339.0,Comedy
+Boo Main Dargi,114,6.8,365.0,Comedy
+Bis Repetita,145,4.9,270.0,Comedy
+The Heartbreak Agency,130,4.0,23.0,Comedy
+Bodegón con fantasmas,105,7.2,53.0,Comedy
+I Don't Know,135,6.7,279.0,Comedy
+Dongeng Sang Kancil,109,5.5,51.0,Comedy
+Lady Parts,136,7.0,11.0,Comedy
+4PM,85,7.0,38.0,Comedy
+The Beast of No-Mans Land,104,4.8,663.0,Comedy
+Family Therapy,131,5.3,33.0,Comedy
+Jatt & Juliet 3,89,6.1,85.0,Comedy
+To nie mój film,107,9.4,42.0,Comedy
+C'est le monde à l'envers !,100,7.8,15.0,Comedy
+Le panache,89,6.0,60.0,Comedy
+Chapter 51,125,6.9,38.0,Comedy
+An Abandoned Team,85,4.3,381.0,Comedy
+Luottomies-elokuva: All In,125,6.0,128.0,Comedy
+Pavi Caretaker,93,6.0,199.0,Comedy
+Face Off 7: One Wish,95,6.8,126.0,Comedy
+Zamora,99,7.3,19.0,Comedy
+Yo no soy esa,76,6.5,214.0,Comedy
+Seoulmeyt,98,6.5,162.0,Comedy
+Vil & Misérable,120,7.0,1600.0,Comedy
+Teasing Master Takagi-san Movie,143,7.7,311.0,Comedy
+The Desperate Chase,125,9.2,11.0,Comedy
+Martín García,90,3.8,303.0,Comedy
+Tulang Belulang Tulang,108,5.8,558.0,Comedy
+For Sale,109,5.2,71.0,Comedy
+Sous écrous,97,5.7,847.0,Comedy
+Joli joli,90,4.5,124.0,Comedy
+The Realtor,98,9.2,18.0,Comedy
+Scrambled,82,4.3,4200.0,Comedy
+Gandriz Vecpuisis,93,6.8,5.0,Comedy
+The Heirloom,97,6.6,34.0,Comedy
+Checkmate,70,4.4,113.0,Comedy
+Na Baligh Afraad,93,4.5,115.0,Comedy
+What We Got Wrong,98,8.2,125.0,Comedy
+Just a Couple of Days,84,5.2,571.0,Comedy
+La Petite et le Vieux,123,8.7,2200.0,Comedy
+Puddysticks,76,8.3,8.0,Comedy
+I Not Stupid 3,77,7.5,15.0,Comedy
+Zahradníkuv rok,100,5.2,20.0,Comedy
+Mathu Vadalara 2,95,8.2,412.0,Comedy
+Udan Chhoo,90,8.7,27.0,Comedy
+Artist Unknown,105,5.7,256.0,Comedy
+Arap Kadri,81,2.5,250.0,Comedy
+Birds Flying East,108,8.9,28.0,Comedy
+All the Wrong Ingredients,101,5.2,333.0,Comedy
+Kevin James: Irregardless,96,6.1,38.0,Comedy
+Caras Vemos,71,6.2,318.0,Comedy
+Do I Shock U Like Lightning,88,5.8,611.0,Comedy
+Erdal and Ece,106,4.3,168.0,Comedy
+Penguin Girl,105,7.2,266.0,Comedy
+Soft Love,90,4.6,307.0,Comedy
+Baba Yaga spasaet Novyy god,97,3.6,615.0,Comedy
+Guy Manley: Super Spy,103,5.3,81.0,Comedy
+Doctor Doctor,115,5.5,188.0,Comedy
+How to Make Her Leave,75,6.3,50.0,Comedy
+Políticamente incorrectos,98,2.2,153.0,Comedy
+Veeranjaneyulu Vihara Yatra,114,6.2,301.0,Comedy
+Fragments of Us,105,5.5,5000.0,Comedy
+Heads or Fails,77,6.2,295.0,Comedy
+Christmas Overtime,94,7.3,113.0,Comedy
+Cash Storm,85,6.1,653.0,Comedy
+Miracle Mile,100,3.0,13.0,Comedy
+Salsa,100,5.7,55.0,Comedy
+Hawaii,85,5.4,231.0,Comedy
+Bring on the Damned!,104,5.1,468.0,Comedy
+February,109,2.6,428.0,Comedy
+1 Bad Azz Day,73,6.1,1500.0,Comedy
+Bachelor Party,117,7.7,117.0,Comedy
+Lambran da Laana,90,5.3,497.0,Comedy
+This is Not a Christmas Movie,115,9.1,23.0,Comedy
+Shinda Shinda No Papa,125,5.1,2900.0,Comedy
+Çakallarla Dans 7,74,5.3,247.0,Comedy
+Fakt Purusho Maate,118,5.3,61.0,Comedy
+The Late Game,89,6.4,107.0,Comedy
+Sevmek Yüzünden,94,3.8,170.0,Comedy
+Bad Director,161,7.0,48.0,Comedy
+The Perfect Candidate,90,6.6,120.0,Comedy
+Døde menn går på ski,112,4.4,384.0,Comedy
+Vive e Deixa Andar,147,5.5,158.0,Comedy
+Türkler Çildirmis Olmali 2: Mavi Vatan,106,8.1,14.0,Comedy
+A Nice Jewish Boy,122,8.1,106.0,Comedy
+Kuch Khattaa Ho Jaay,101,5.8,87.0,Comedy
+Ilana Glazer: Human Magic,97,6.1,114.0,Comedy
+Drie dagen vis,107,4.2,1700.0,Comedy
+My Boo,111,3.9,109.0,Comedy
+Saint Young Men: Holy Men vs Demon Army,107,4.5,61.0,Comedy
+La Pena Maxima 2,125,7.9,87.0,Comedy
+Konets Slavy,104,6.2,242.0,Comedy
+Lantrani,93,6.7,2500.0,Comedy
+Anunnakiler,115,8.9,39.0,Comedy
+Rob N Roll,81,7.0,22.0,Comedy
+The Ring,98,3.8,47.0,Comedy
+Navra Maza Navsacha 2,113,9.0,11.0,Comedy
+Marriage Mansion,96,4.6,201.0,Comedy
+Vasco Da Gama,134,5.3,110.0,Comedy
+Ici et là-bas,133,7.9,17.0,Comedy
+Al otro barrio,121,7.6,12.0,Comedy
+Rhapsody in Justice,102,5.6,115.0,Comedy
+"Don't Cry, Butterfly",135,7.0,27.0,Comedy
+The Haunted Studio,90,3.8,208.0,Comedy
+Don Dukun,122,7.7,52.0,Comedy
+Future Date,67,5.4,343.0,Comedy
+La familia Benetón,97,6.1,49.0,Comedy
+Férias Trocadas,84,5.6,84.0,Comedy
+Carole & Grey,111,4.8,397.0,Comedy
+Young Lion of the West,110,7.6,59.0,Comedy
+Chicken Coop,129,7.1,55.0,Comedy
+Spre punctul G,90,3.5,145.0,Comedy
+Petta Rap,112,5.6,26.0,Comedy
+Bored Games,100,6.7,13.0,Comedy
+Night Harvest,118,7.7,32.0,Comedy
+Bocchi the Rock! Re: Re:,113,8.5,42.0,Comedy
+Sign Here,89,2.7,302.0,Comedy
+Jimmy Carr: Natural Born Killer,78,2.3,59.0,Comedy
+Swamp Dogg Gets His Pool Painted,150,5.8,77.0,Comedy
+"Gulay lang, manong",98,6.8,107.0,Comedy
+Momma's Boy,100,6.0,18.0,Comedy
+The Premiere,86,5.1,374.0,Comedy
+Lobola Man,90,5.0,304.0,Comedy
+Výjimecný stav,87,3.2,332.0,Comedy
+Sunlight,130,5.9,35.0,Comedy
+Dirty Laundry,84,7.3,54.0,Comedy
+Der Vierer,97,5.2,585.0,Comedy
+Larry Dean: Fudnut,88,5.3,116.0,Comedy
+Bakkal Amca: Mahmut Tuncer,118,6.6,150.0,Comedy
+La storia del Frank e della Nina,103,5.4,35.0,Comedy
+Buscando a Coque,71,6.5,122.0,Comedy
+The Grand Siege,98,7.7,26.0,Comedy
+All In,118,8.6,19.0,Comedy
+Pee Nak 4,115,6.2,831.0,Comedy
+Bad Substitute,135,8.4,282.0,Comedy
+Vampire Zombies... From Space!,80,3.5,23.0,Comedy
+K-Pops!,115,6.2,387.0,Comedy
+Her Seyin Basi Merkür,98,5.9,42.0,Comedy
+Alpacalypse,96,4.8,133.0,Comedy
+Undying,86,7.7,85.0,Comedy
+Twin's Love Trap for Billionaire Dad,92,7.7,2300.0,Comedy
+Queens of Christmas,95,5.3,214.0,Comedy
+Amityville Turkey Day,105,6.7,75.0,Comedy
+Koparan Kardesler,85,3.9,132.0,Comedy
+Finché notte non ci separi,122,5.4,39.0,Comedy
+Up the Catalogue,109,9.4,11.0,Comedy
+¿Es el enemigo? La película de Gila,100,6.2,48.0,Comedy
+Venus Effect,95,8.8,88.0,Comedy
+Lakeview,91,4.5,26.0,Comedy
+Scotoe,114,6.0,183.0,Comedy
+The Shakedown,83,6.3,376.0,Comedy
+Complotul Bonelor,90,5.3,293.0,Comedy
+Babe Mansion,90,6.8,565.0,Comedy
+Honeko Akabane's Bodyguards,103,5.4,312.0,Comedy
+Yall Drawn,103,3.9,1400.0,Comedy
+L'àvia i el foraster,112,7.5,59.0,Comedy
+OMG: O Manchi Ghost,83,8.0,1500.0,Comedy
+Operation War Thunder,97,5.5,126.0,Comedy
+Life Hotel,115,6.6,844.0,Comedy
+Blood Mountain Massacre,120,6.0,54.0,Comedy
+Ababooned,109,5.4,33.0,Comedy
+"Kiss Me, Kate: The Musical",159,6.6,357.0,Comedy
+Oye Bhootni Ke,97,5.2,539.0,Comedy
+Emma,75,6.0,27.0,Comedy
+Could Have Waited for August,128,4.3,118.0,Comedy
+Kundannoorile Kulsitha Lahala,62,7.6,55.0,Comedy
+Çilgin Dersane 5: Updated,118,4.0,124.0,Comedy
+Sundaram Master,96,5.3,137.0,Comedy
+Keep Rolling,95,5.7,66.0,Comedy
+Neuilly-Poissy,70,5.4,2800.0,Comedy
+Modal Nekad,121,6.7,245.0,Comedy
+Daaru Na Peenda Hove,165,5.6,146.0,Comedy
+The Last Frenzy,118,7.3,15.0,Comedy
+Teriyaan Meriyaan Hera Pheriyan,91,7.4,9.0,Comedy
+3. Gun,107,6.6,184.0,Comedy
+Die geschützten Männer,82,7.3,48.0,Comedy
+Njan Kandhatha Sare,119,5.8,176.0,Comedy
+Yumi's Cells: The Movie,112,5.4,111.0,Comedy
+Üç Günlük Dünya,102,7.5,64.0,Comedy
+On aurait dû aller en Grèce,115,6.8,1700.0,Comedy
+Nakon ljeta,162,7.1,98.0,Comedy
+Balas & Bolinhos: Só Mais uma Coisa,112,5.4,62.0,Comedy
+The Honest Candidate,138,7.0,25.0,Comedy
+Babli,118,8.4,175.0,Comedy
+Table for Six 2,103,5.8,140.0,Comedy
+Vivekanandan Viralaanu,90,7.0,26.0,Comedy
+The Requiem Boogie,130,4.6,274.0,Comedy
+Our Church Thinks We're Dating,61,8.0,49.0,Comedy
+Sthanarthi Sreekuttan,117,6.9,1100.0,Comedy
+Mind on kaks,135,6.6,123.0,Comedy
+Fasel Men El Lahazat El Lazeeza,93,5.7,608.0,Comedy
+Lepattanó,132,6.5,130.0,Comedy
+Pretty Boys,150,7.0,22.0,Comedy
+Gepack,100,5.9,177.0,Comedy
+Isleen Pines,92,5.4,128.0,Comedy
+Una Historia de Amor y Guerra,103,8.5,24.0,Comedy
+Lail Nahar,100,6.5,901.0,Comedy
+Jamalaye Jibonto Bhanu,117,8.8,6.0,Comedy
+Ducobu passe au vert!,60,5.7,106.0,Comedy
+Jeonde Raho Bhoot Ji,105,6.8,315.0,Comedy
+Die Chaosschwestern und Pinguin Paul,114,7.8,50.0,Comedy
+Lohusa,88,4.2,137.0,Comedy
+Chabuca,95,6.1,347.0,Comedy
+Karaoké,94,5.6,106.0,Comedy
+Un monde merveilleux,90,8.1,25.0,Comedy
+Tomten är far till alla barnen,123,7.5,38.0,Comedy
+Mielensäpahoittajan rakkaustarina,117,7.6,11.0,Comedy
+Dünya Varmis,148,6.9,480.0,Comedy
+The Disruptors,123,3.1,105.0,Comedy
+Two's a Crowd in Orlando,100,5.3,109.0,Comedy
+Marianengraben,118,7.2,22.0,Comedy
+PT Sir,140,7.8,7.0,Comedy
+The Proud Princess,98,4.5,585.0,Comedy
+"Goodbye, Hello",109,6.3,16.0,Comedy
+Dreaming of Lions,78,5.3,161.0,Comedy
+Pad Gaye Pange,121,8.5,45.0,Comedy
+Sei fratelli,88,7.4,3100.0,Comedy
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,101,5.6,815.0,Comedy
+Bad Things,117,4.6,351.0,Comedy
+Ca Fetele,81,7.7,12.0,Comedy
+Oscar Wilde About America,100,4.3,46.0,Comedy
+A Thousand Cuts,129,8.7,37.0,Comedy
+"Nosotros, los De la Fe",80,5.3,193.0,Comedy
+Gaganachari,87,6.0,52.0,Comedy
+Grand Finale,107,3.1,123.0,Comedy
+Pop the Pickel,88,4.1,192.0,Comedy
+Un altro ferragosto,128,5.6,77.0,Comedy
+Perhoset,151,8.4,150.0,Comedy
+Divine Remedy,140,5.6,13.0,Comedy
+Opa Cor,84,7.5,30.0,Comedy
+Håkan Bråkan 2,104,7.4,148.0,Comedy
+Blue Boy,103,7.5,6.0,Comedy
+Dreaming of You,80,6.2,36.0,Comedy
+Traces of Love,100,5.2,138.0,Comedy
+Wine Thief,85,8.7,46.0,Comedy
+Elle & lui & le reste du monde,96,6.2,306.0,Comedy
+How to Survive a Marriage?,114,6.7,851.0,Comedy
+Paul and Paulette Take a Bath,87,7.7,12.0,Comedy
+Fortune Cookies,90,5.9,83.0,Comedy
+Io e te dobbiamo parlare,103,6.7,32.0,Comedy
+Jeff Dunham's Scrooged-Up Holiday Special,91,8.4,2100.0,Comedy
+Headwind,87,8.0,20.0,Comedy
+Harta Tahta Boru Ni Raja,153,6.5,107.0,Comedy
+TKT,155,4.2,284.0,Comedy
+Froggie,83,8.8,30.0,Comedy
+Zbory OSBB,80,4.4,51.0,Comedy
+Bratya,90,7.1,26.0,Comedy
+Falla girare 2,82,5.2,109.0,Comedy
+Un paseo por el Borne,94,5.9,1100.0,Comedy
+Best Man Dead Man,104,9.3,67.0,Comedy
+A Hipster in Rural Spain,118,9.4,327.0,Comedy
+All's Fair in Love,103,7.7,3000.0,Comedy
+Buenas Chicas,83,5.3,281.0,Comedy
+My Future You,89,8.9,351.0,Comedy
+Krishnam Pranaya Sakhi,123,7.8,457.0,Comedy
+We Are Tourists,62,7.2,533.0,Comedy
+Monster Metaverse,72,4.6,241.0,Comedy
+Hannah Gadsby's Gender Agenda,86,4.0,117.0,Comedy
+Vithaikkaran,92,6.0,17.0,Comedy
+The 3_2 Pulldown,114,5.1,78.0,Comedy
+Me Contro Te - Il film: Operazione Spie,96,7.0,77.0,Comedy
+Paranoya,147,7.2,1400.0,Comedy
+I Am Not Big Bird,98,4.6,116.0,Comedy
+Touched by Eternity,104,8.7,10.0,Comedy
+De Bellinga's: Pretpark op stelten,110,7.5,26.0,Comedy
+Raju Yadav,74,4.3,66.0,Comedy
+Chhakka Panja 5,142,4.4,629.0,Comedy
+Screams from the Tower,131,9.2,2400.0,Comedy
+3 Schmucks,153,6.4,67.0,Comedy
+The Drunken Prodigy,103,7.5,26.0,Comedy
+Fuuto PI: Portrait of Kamen Rider Skull,103,5.4,562.0,Comedy
+Kyle Kinane: Dirt Nap,90,5.3,307.0,Comedy
+Advent,146,7.9,19.0,Comedy
+The Trophy Bride,169,6.6,66.0,Comedy
+Cortina Express,94,5.1,234.0,Comedy
+Oru Bharatha Sarkar Ulppannam,89,6.3,60.0,Comedy
+Kudi Haryane Val Di,132,4.1,160.0,Comedy
+Five Friends,111,8.7,38.0,Comedy
+Suswagatam Khushamadeed,134,4.7,66.0,Comedy
+Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,135,8.7,79.0,Comedy
+The Dadchelor,120,9.7,11.0,Comedy
+Honeymoon Express,124,5.7,58.0,Comedy
+The Waiter,72,6.0,264.0,Comedy
+Miracle Mirrors,132,6.0,114.0,Comedy
+Hunting Season 2,95,7.6,12.0,Comedy
+The Disinvited,90,7.7,44.0,Comedy
+Pagpag 24/7,98,6.2,552.0,Comedy
+Silent Trilogy,109,6.3,2300.0,Comedy
+My Sassy Girl,120,6.9,54.0,Comedy
+Hubba,101,6.7,665.0,Comedy
+The Drop,90,4.2,108.0,Comedy
+Aaram Aravinda Swamy,101,5.7,130.0,Comedy
+Swag,96,5.7,252.0,Comedy
+This Is the Goat!,86,6.5,98.0,Comedy
+A New Year's Ride,90,6.1,11.0,Comedy
+Too Many Christmases,125,6.8,14.0,Comedy
+G for Gap,107,6.7,1200.0,Comedy
+Partiu América,90,7.9,38.0,Comedy
+Prathibha Tutorials,70,5.9,15.0,Comedy
+Luigi's Mansion,100,7.5,2500.0,Comedy
+My Zombabe,122,4.3,628.0,Comedy
+I symmoria tis symforas,95,5.7,610.0,Comedy
+Neal Brennan: Crazy Good,103,7.1,19.0,Comedy
+Ghosted,71,2.2,387.0,Comedy
+Garlic Parmesan,112,7.5,56.0,Comedy
+Tô de Graça: O Filme,105,6.2,84.0,Comedy
+¿Quién quiere casarse con un Astronauta?,105,5.1,103.0,Comedy
+Top 10 Must,84,5.4,148.0,Comedy
+Panchavalsarapadhathi,105,7.9,142.0,Comedy
+Amar Prem Ki Prem Kahani,93,7.2,17.0,Comedy
+Ramnagar Bunny,115,8.6,37.0,Comedy
+Daghabaaz Dil,90,4.5,11.0,Comedy
+The Mother and the Bear,108,6.2,200.0,Comedy
+Our Folks: The Beginning,110,4.5,15.0,Comedy
+Gam Gam Ganesha,91,6.4,72.0,Comedy
+Choke,108,6.0,308.0,Comedy
+Die Ironie des Lebens,107,6.9,474.0,Comedy
+Un mal día lo tiene cualquiera,106,7.9,474.0,Comedy
+Lineman,83,6.1,135.0,Comedy
+Sharkers,102,8.3,83.0,Comedy
+Magnetosphere,120,7.3,245.0,Comedy
+The Legacy of Cloudy Falls,102,3.8,291.0,Comedy
+Brattt,68,8.1,162.0,Comedy
+60 Miles North,74,8.0,17.0,Comedy
+Rocky and Bullwinkle,90,7.6,19.0,Comedy
+Or Utopia,97,2.6,220.0,Comedy
+Tie Die,93,6.9,119.0,Comedy
+Striking the Palace,99,5.6,56.0,Comedy
+Si Juki the Movie: Harta Pulau Monyet,109,6.4,790.0,Comedy
+The Wash,87,7.0,959.0,Comedy
+Hinter dem Eisernen Horizont,83,8.0,12.0,Comedy
+Doctor X: The Movie,107,6.3,367.0,Comedy
+Degree Maila M.A 3rd Class,148,6.4,149.0,Comedy
+Brother,122,4.7,76.0,Comedy
+Le beau rôle,140,5.0,75.0,Comedy
+The Hedgehog,73,8.5,181.0,Comedy
+Melukis Harapan Di Langit India,84,5.7,1600.0,Comedy
+Zyat,94,6.7,850.0,Comedy
+Nemlizade,138,8.0,10.0,Comedy
+Down Town,128,3.0,32.0,Comedy
+Pourquoi tu souris?,86,7.2,357.0,Comedy
+Abracadaver,98,6.2,4400.0,Comedy
+Static Cling,90,4.0,421.0,Comedy
+Mükemmel Aile,137,4.1,663.0,Comedy
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,91,3.5,80.0,Comedy
+Rocket Driver,122,5.7,135.0,Comedy
+The Nut Farm,95,5.8,55.0,Comedy
+Look at Me,115,8.2,17.0,Comedy
+Roti Kapda Romance,134,6.3,21.0,Comedy
+Viswam,90,5.9,324.0,Comedy
+Jorgovani,114,4.6,167.0,Comedy
+Him,82,5.1,229.0,Comedy
+Kasada Parti,77,6.5,801.0,Comedy
+Trizombie,98,4.4,282.0,Comedy
+Amor en toda la cara,78,5.8,144.0,Comedy
+Molière's Last Stage,95,8.5,32.0,Comedy
+Es por su bien,94,6.7,113.0,Comedy
+Bhalle Padharya,90,4.5,55.0,Comedy
+Nature Cat's Nature Movie Special Extraordinaire,125,8.2,13.0,Comedy
+Pérez Rodríguez,112,7.6,10.0,Comedy
+La spiaggia dei gabbiani,100,8.8,45.0,Comedy
+Bed & Breakfast,78,7.3,43.0,Comedy
+The Influencer,87,7.4,71.0,Comedy
+Majdnem menyasszony,125,6.5,124.0,Comedy
+Listy do M. Pozegnania i powroty,88,6.3,2000.0,Comedy
+Tom Papa: Home Free,90,7.5,51.0,Comedy
+CHAAW: Chapter 3 - Christmas Time Is Here,155,7.7,55.0,Comedy
+Good Guys Go to Heaven,160,8.1,55.0,Comedy
+Skinny Love,127,8.4,10.0,Comedy
+Love Lies,97,6.7,46.0,Comedy
+Happiness Is,93,8.6,15.0,Comedy
+Tschugger - Der Lätscht Fall,60,6.6,12.0,Comedy
+Puffing Iron,95,5.9,271.0,Comedy
+"Please, Kiss Me",153,5.7,22.0,Comedy
+SkyFly,126,7.9,36.0,Comedy
+Pattaapakal,132,3.8,170.0,Comedy
+Greice,100,6.5,76.0,Comedy
+Tudo por um Pop Star 2,93,6.7,80.0,Comedy
+#AAY,111,7.7,124.0,Comedy
+Family Padam,93,6.2,120.0,Comedy
+Astral Plane Drifter,98,7.5,15.0,Comedy
+Upadhyaksha,122,4.8,74.0,Comedy
+Nenormalnyy,86,5.5,171.0,Comedy
+Mana Man,140,8.9,37.0,Comedy
+A Wall Away,96,7.8,25.0,Comedy
+Frendo,81,7.1,82.0,Comedy
+Hijo de familia,99,6.9,2000.0,Comedy
+Bharathanatyam,84,5.8,56.0,Comedy
+Jacqueline Novak: Get on Your Knees,165,7.3,12.0,Comedy
+Neelan & Kevin,120,7.3,207.0,Comedy
+Yeni Hayat,112,3.1,25.0,Comedy
+Locha Laapsi,107,7.8,21.0,Comedy
+Bloody Beggar,105,8.5,20.0,Comedy
+C Takimi,122,6.6,749.0,Comedy
+Guardian,90,5.7,29.0,Comedy
+The Last 12 Days,91,5.8,83.0,Comedy
+Askepote,102,5.3,431.0,Comedy
+Chal Bhajj Chaliye,94,7.0,496.0,Comedy
+BROKE. ALONE. A kinky love story,90,5.0,75.0,Comedy
+The Million Dollar Bet,75,8.3,8.0,Comedy
+Heavens: The Boy and His Robot,77,4.5,48.0,Comedy
+Pasutri Gaje,93,6.0,261.0,Comedy
+Christmas in Lagos,78,5.8,271.0,Comedy
+Jo Tera Hai Woh Mera Hai,98,5.4,10.0,Comedy
+Domovyonok Kuzya,100,7.3,89.0,Comedy
+A Soweto Love Story,80,9.2,66.0,Comedy
+Mallandro: O Errado que Deu Certo,96,7.8,60.0,Comedy
+Scarpedicemente,142,5.8,230.0,Comedy
+Steal the Naughty List,98,5.3,71.0,Comedy
+Oru Kattil Oru Muri,78,5.0,75.0,Comedy
+Boda Love,102,7.0,152.0,Comedy
+Home-less for the Holidays,69,8.2,17.0,Comedy
+Paradise: A Town of Sinners and Saints,114,4.1,86.0,Comedy
+Idiot Girls and School Ghost: School Anniversary,93,6.2,559.0,Comedy
+Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,100,6.9,53.0,Comedy
+Khushkhabri,84,8.9,54.0,Comedy
+Passagrana,125,8.9,17.0,Comedy
+ED: Extra Decent,90,7.1,997.0,Comedy
+Swargarath,125,3.0,101.0,Comedy
+Fin de fiesta,128,5.3,306.0,Comedy
+Shanghai Story,113,4.7,218.0,Comedy
+DND Betches!,109,6.4,34.0,Comedy
+Betting with Ghost,93,6.2,14.0,Comedy
+Meeting Funmi's Parents,91,4.6,223.0,Comedy
+Un día en Culiacán,98,7.2,62.0,Comedy
+Draugu lazybos,98,6.3,65.0,Comedy
+Guy Friends,97,4.2,363.0,Comedy
+City of Second Chances,121,6.4,53.0,Comedy
+Expeditie Cupido,95,4.3,2300.0,Comedy
+"De Repente, Miss!",90,5.4,114.0,Comedy
+Parahuna 2,89,5.7,101.0,Comedy
+Arzé,125,5.1,3900.0,Comedy
+Road Trip,74,5.6,5000.0,Comedy
+Here She Comes,107,8.0,278.0,Comedy
+JAPA,104,5.8,32.0,Comedy
+On fait quoi maintenant?,74,2.7,93.0,Comedy
+Mame snova 17,96,8.3,13.0,Comedy
+Good Luck,94,9.3,9.0,Comedy
+Kill the Children first,93,8.5,56.0,Comedy
+Love & Vodka,96,9.2,533.0,Comedy
+The WeedHacker Massacre,72,9.0,69.0,Comedy
+Welcome to My Side,90,6.0,66.0,Comedy
+The Heist,80,5.7,157.0,Comedy
+Belle enfant,89,4.3,73.0,Comedy
+Surge of Power: Where There's Smoke,122,6.2,43.0,Comedy
+Athens Midnight Radio,81,6.9,52.0,Comedy
+100 di questi anni,94,9.0,39.0,Comedy
+Satilik Degildir,103,8.5,149.0,Comedy
+Sea of Madness,120,7.2,45.0,Comedy
+Hollywood Dreams,87,3.4,39.0,Comedy
+Jo Koy: Live from Brooklyn,90,6.0,743.0,Comedy
+Itutumba ka ng tatay ko,112,7.5,13.0,Comedy
+Amo-te Imenso,147,7.7,78.0,Comedy
+BreakThrough,135,8.2,11.0,Comedy
+Rock and Doris (try to) Write a Movie,86,6.1,22.0,Comedy
+The Roast of Have a Word,95,3.8,134.0,Comedy
+Vayasethrayaayi? Muppathiee..!!,125,8.0,15.0,Comedy
+Bairi,88,6.8,12.0,Comedy
+Ext. Masina. Noapte,142,5.4,11.0,Comedy
+Mr. Easy Loo,124,5.0,1200.0,Comedy
+A Christmas Dream,135,7.8,47.0,Comedy
+Money No Enough 3,139,5.0,100.0,Comedy
+BhamaKalapam 2,144,6.9,42.0,Comedy
+Son Sans,132,7.3,951.0,Comedy
+Salty Amazons,85,5.2,110.0,Comedy
+Ismo - maailman hauskin ulkopuolinen,90,4.8,34.0,Comedy
+Disorder,93,5.2,100.0,Comedy
+Tasty,107,8.4,295.0,Comedy
+Perumani,83,5.5,241.0,Comedy
+Fêlés,113,6.5,8.0,Comedy
+The Good Loan Sharks,77,6.7,124.0,Comedy
+Anyone Else But Me,88,3.8,251.0,Comedy
+Queen of Knives,85,7.7,9.0,Comedy
+Yamas!,130,7.8,5.0,Comedy
+Raghu Thatha,101,4.7,71.0,Comedy
+Genis Aile 4: Cevahir & Ulvi,90,6.2,11.0,Comedy
+Broken Strings,74,5.3,70.0,Comedy
+Maxxie LaWow: Drag Super-shero,98,4.8,246.0,Comedy
+Check Please,120,5.6,984.0,Comedy
+Dave Attell: Hot Cross Buns,106,5.4,18.0,Comedy
+Entra en mi Vida,64,5.5,65.0,Comedy
+Flaminia,125,7.3,9.0,Comedy
+Game Changers,79,3.5,51.0,Comedy
+Veda Partisi,90,7.0,7.0,Comedy
+Muxmäuschenstill X,102,5.8,64.0,Comedy
+Noche De Bodas,96,5.0,119.0,Comedy
+Once Upon a Time in Kochi,90,8.6,5.0,Comedy
+Lopaliki Ra Chepta,69,5.8,20.0,Comedy
+Dalej jazda!,106,5.8,143.0,Comedy
+Christmas Is Cancelled,104,6.5,169.0,Comedy
+La gardav,95,8.8,31.0,Comedy
+Thookudurai,99,5.0,901.0,Comedy
+Micha denkt groß,99,5.2,302.0,Comedy
+Je Suis Auto,80,2.4,19.0,Comedy
+Dona Lurdes: O Filme,93,8.0,21.0,Comedy
+Jatt Nuu Chudail Takri,70,6.0,41.0,Comedy
+Malayalee from India,90,3.0,37.0,Comedy
+Vaar Tahevaar,100,5.8,58.0,Comedy
+Santa Hunters,83,6.8,446.0,Comedy
+Move Like a Boss,96,3.5,540.0,Comedy
+LOL Surprise! The Skate Dance Movie,90,7.6,8.0,Comedy
+Baxti Tery,90,4.5,76.0,Comedy
+Royal Façade,107,7.0,13.0,Comedy
+Mr Shudai,90,6.8,18.0,Comedy
+Glassmates,98,7.3,22.0,Comedy
+Ame no naka no yokujô,133,6.3,35.0,Comedy
+The Love Buzz,77,7.2,12.0,Comedy
+Coffee House Chronicles: The Final Movie,95,5.1,241.0,Comedy
+Christmas Carole,105,5.9,287.0,Comedy
+Pochivkata,84,7.1,8.0,Comedy
+The Gesuidouz,105,2.6,148.0,Comedy
+"Step Back, Doors Closing",71,9.4,20.0,Comedy
+Kanni,82,5.1,249.0,Comedy
+When Santa Was a Communist,86,4.3,156.0,Comedy
+Caindo na Real,96,8.3,37.0,Comedy
+Iyer in Arabia,95,5.1,49.0,Comedy
+Twelve,128,7.9,68.0,Comedy
+SottoCoperta,77,5.4,8.0,Comedy
+Reel Hard,105,5.1,55.0,Comedy
+10 Pasimatymu,106,5.2,310.0,Comedy
+Tu madre o la mía,106,6.5,301.0,Comedy
+#lovemyselfie,83,7.5,79.0,Comedy
+Meen Yasadaq,79,6.7,66.0,Comedy
+Fire Supply,110,7.6,30.0,Comedy
+Royal Runaways,121,8.4,3300.0,Comedy
+Double Tuckerr,88,4.5,351.0,Comedy
+Keluar Main 1994,85,7.8,20.0,Comedy
+My Crazy Rich Girlfriend,90,2.8,121.0,Comedy
+Porch Pirates,112,6.0,65.0,Comedy
+Butterfly,137,7.3,65.0,Comedy
+Second Life,93,6.8,169.0,Comedy
+Hot Spot,91,6.6,1300.0,Comedy
+Super papa,116,7.7,18.0,Comedy
+The Pickleball Murders,118,3.9,4500.0,Comedy
+Bar MoskvaChiki,61,5.0,662.0,Comedy
+Rudy's,86,4.9,2200.0,Comedy
+Ruki vverkh!,98,5.3,442.0,Comedy
+Za3zou3,90,4.7,60.0,Comedy
+The Ballad of Hortensia,94,7.3,12.0,Comedy
+Lolipop Gang,145,5.3,355.0,Comedy
+A Most Atrocious Thing,107,5.4,12.0,Comedy
+Lump,111,8.6,6.0,Comedy
+El Tiburón,115,6.3,7.0,Comedy
+"Ovid, New York",146,6.3,35.0,Comedy
+Franta mimozemstan,98,5.4,44.0,Comedy
+E se mio padre,100,6.9,19.0,Comedy
+Zénithal,85,4.5,36.0,Comedy
+Tratamos demasiado bien a las mujeres,110,7.3,43.0,Comedy
+Kalvan,97,4.9,53.0,Comedy
+I Can't Sleep Without You,87,7.6,60.0,Comedy
+Nanoshark,98,7.3,224.0,Comedy
+Beyond the Lake,117,4.5,64.0,Comedy
+Sisters,103,4.5,29.0,Comedy
+Pandasaurus,129,7.9,11.0,Comedy
+L'BATAL,95,5.6,273.0,Comedy
+Pui Pui Molcar the Movie: Molmax,119,4.7,32.0,Comedy
+Baskan,85,5.5,372.0,Comedy
+Operation Portugal 2 - La vie de chateau,82,7.4,24.0,Comedy
+Puang Bos!,73,4.1,79.0,Comedy
+Amor Platónico,91,8.9,28.0,Comedy
+The Hitmen,93,6.6,92.0,Comedy
+Alibaba Aani Chalishitale Chor,86,7.8,6.0,Comedy
+A Christmas Storm,90,3.7,60.0,Comedy
+Cliff Cash: The Long Road,72,7.6,17.0,Comedy
+Thundu,95,2.6,20.0,Comedy
+Hitler,144,5.6,114.0,Comedy
+Leydi Di,81,2.7,106.0,Comedy
+Ben and Suzanne: A Reunion in 4 Parts,91,7.1,41.0,Comedy
+It's the Gravy,90,6.8,530.0,Comedy
+Art Work,106,6.4,5.0,Comedy
+Housekeeping,125,6.7,22.0,Comedy
+Gidersen Gitme,90,5.5,203.0,Comedy
+B4S: Truoc Gio Yeu,60,7.6,13.0,Comedy
+Kaka Boss,95,5.2,73.0,Comedy
+Kardes Takimi,89,5.9,86.0,Comedy
+Nobody Leaves 'til Jesus Comes,132,6.0,14.0,Comedy
+Canta Y No Llores,106,6.2,70.0,Comedy
+Pears,138,6.9,10.0,Comedy
+I racconti del mare,87,8.7,11.0,Comedy
+Little Thomas,68,6.1,159.0,Comedy
+Love and Work,95,5.2,103.0,Comedy
+La Hayde Maske,87,5.4,144.0,Comedy
+Gecenin Nakarati,80,6.7,76.0,Comedy
+Just Nesh: Self Served,94,4.2,2300.0,Comedy
+Amigos Sem Compromisso,65,4.3,134.0,Comedy
+Taptym-au seni 2,110,3.1,144.0,Comedy
+El Elixir del Amor,92,5.1,48.0,Comedy
+Cast & Crew,83,7.4,20.0,Comedy
+Call Me Agnes,90,7.1,101.0,Comedy
+Seventy Thirty,120,4.9,61.0,Comedy
+Father's Haunted House,66,8.4,28.0,Comedy
+The Stork,111,7.1,18.0,Comedy
+Easter Evil,122,6.8,10.0,Comedy
+Mustard Man,95,5.3,125.0,Comedy
+14 Days to Feel Better,80,6.7,20.0,Comedy
+"Please, After You",86,5.3,2100.0,Comedy
+Andrew Tate: Icon or Toxic? A Faking It Special,88,4.1,199.0,Comedy
+"I'm Dead, You're Welcome",98,7.7,12.0,Comedy
+Bionico's Bachata,93,7.7,40.0,Comedy
+Liebling Kreuzberg 2.0,109,8.8,13.0,Comedy
+Panchak,95,5.3,130.0,Comedy
+The Greatest Surf Movie in the Universe,141,6.4,72.0,Comedy
+Killer Kabbage,105,5.9,27.0,Comedy
+Chinatown Chacha,95,6.7,1600.0,Comedy
+Yesterday After Tomorrow,84,9.2,33.0,Comedy
+Adrienne Iapalucci: The Dark Queen,82,8.0,19.0,Comedy
+2020,118,6.1,61.0,Comedy
+History and Geography,166,8.7,10.0,Comedy
+Oh My Ghost: The Finale,61,6.8,18.0,Comedy
+Maruthi Nagar Subramanyam,93,5.6,16.0,Comedy
+Molar,79,6.5,85.0,Comedy
+Voditel-oligarkh,144,8.8,17.0,Comedy
+Blindgänger,135,5.9,133.0,Comedy
+Faith in the Family,120,7.1,59.0,Comedy
+Never Stop Talking,84,4.6,14.0,Comedy
+Be My Friend,122,4.8,50.0,Comedy
+Ordinary Things,80,2.7,219.0,Comedy
+Dicono di te,80,8.2,16.0,Comedy
+Hello My Beautiful Creatures,85,6.3,112.0,Comedy
+Patang,90,2.7,42.0,Comedy
+Kamthaan,112,4.8,67.0,Comedy
+Mesru Gayrimesru,107,5.5,92.0,Comedy
+Luv Ki Arrange Marriage,134,5.4,64.0,Comedy
+Panchayat Jetty,103,5.6,323.0,Comedy
+Geethanjali Malli Vachindi,92,5.8,30.0,Comedy
+Inga Naan Thaan Kingu,92,8.9,13.0,Comedy
+Filme Gel,73,7.0,28.0,Comedy
+Il complottista,147,5.9,105.0,Comedy
+Pare parecchio Parigi,99,3.7,154.0,Comedy
+Bodrum Seferi,83,9.2,55.0,Comedy
+Abhirami,100,6.1,44.0,Comedy
+Un mexicano en la luna,91,6.0,104.0,Comedy
+Spotlight International Film Festival: Best of the Festival - Volume 1,91,7.2,65.0,Comedy
+Grimmwood,80,6.4,53.0,Comedy
+Mirg,112,7.9,7.0,Comedy
+Crew Without a Clue,95,6.5,10.0,Comedy
+Our Christmas House,74,5.6,12.0,Comedy
+Loss of Essence,95,3.0,7.0,Comedy
+Family Gbese,103,9.2,12.0,Comedy
+African Giants,93,7.0,17.0,Comedy
+Psycho Ape: Part II - The Wrath of Kong,131,3.9,46.0,Comedy
+Underground Orange,81,7.1,25.0,Comedy
+El Harifa 2: El Remontada,115,5.1,16.0,Comedy
+Za slova otvechayu,86,7.8,27.0,Comedy
+Les boules de Noël,122,5.1,92.0,Comedy
+Sexagenarian,100,8.7,9.0,Comedy
+Ricomincio da TAAAC,84,8.2,402.0,Comedy
+Welcome Wedding,74,3.2,11.0,Comedy
+Paper Plates,108,5.0,73.0,Comedy
+Michelle Buteau: A Buteau-ful Mind at Radio City Music Hall,102,5.4,716.0,Comedy
+Badtameej Gill,84,9.0,852.0,Comedy
+Achilles Curse and the Curse of Treasure,63,8.6,53.0,Comedy
+Ne odna doma,84,3.7,92.0,Comedy
+Hope's Hollywood Christmas,157,5.3,75.0,Comedy
+Vidya Vasula Aham,160,5.4,59.0,Comedy
+"Fallen Leaves, Broken Lighters",89,8.4,16.0,Comedy
+Women Want Everything!,109,10.0,8.0,Comedy
+23 Horas,96,7.7,20.0,Comedy
+Me contro Te: Cattivissimi a Natale,97,6.3,50.0,Comedy
+Double Engine,102,6.1,357.0,Comedy
+Gholhak,120,8.7,19.0,Comedy
+80 Plus,107,6.0,50.0,Comedy
+Christmas Bae,102,7.2,27.0,Comedy
+Demetri Martin: Demetri Deconstructed,83,5.0,28.0,Comedy
+Top Love: Só e Bem Acompanhado,104,5.8,30.0,Comedy
+Ed Asner Unscripted,140,6.1,11.0,Comedy
+Viva a Vida,129,2.7,35.0,Comedy
+El molino,134,8.2,87.0,Comedy
+Critic,87,3.8,52.0,Comedy
+Odin den v Stambule,88,6.7,11.0,Comedy
+Iron Nest of the Moon,80,5.3,157.0,Comedy
+Inazuma Eleven Movie: The Legendary Kickoff,80,4.3,157.0,Comedy
+The Winning Ticket,110,4.9,27.0,Comedy
+V de Victor,96,6.1,32.0,Comedy
+The Legend of Crick Foot,70,6.9,28.0,Comedy
+Holy Irresistible,93,2.3,198.0,Comedy
+Lion of Judah Legacy,115,7.3,160.0,Comedy
+Twisted Hearts,62,5.5,91.0,Comedy
+Seymour the Unfortunate Vampire,120,6.7,34.0,Comedy
+Maqsoom,119,7.0,13.0,Comedy
+Doce Família,149,6.1,35.0,Comedy
+Perra Vida,104,8.3,285.0,Comedy
+Noches de Sol,72,5.1,44.0,Comedy
+Maloney - Die ersten drei haarsträubenden Fälle,100,4.7,7.0,Comedy
+Switched at Death,62,5.9,114.0,Comedy
+Market Mahalakshmi,100,8.3,18.0,Comedy
+Incredulous,80,2.1,158.0,Comedy
+Apaixonada,89,9.1,16.0,Comedy
+Aile Çikmazi,91,6.4,15.0,Comedy
+Les cadeaux,141,7.2,45.0,Comedy
+Baba Beni Güldürsene,100,6.9,1500.0,Comedy
+Sal Vulcano: Terrified,88,5.4,366.0,Comedy
+Presque légal,113,6.4,339.0,Comedy
+One Night Rental,93,4.0,1700.0,Comedy
+Front Row,127,4.7,10.0,Comedy
+Eho kati na po,135,8.8,2100.0,Comedy
+Elevator,92,6.8,25.0,Comedy
+Moon Ghost Returns,85,6.7,913.0,Comedy
+Paraagan,87,8.9,49.0,Comedy
+Kismath,90,9.5,9.0,Comedy
+Succede anche nelle migliori famiglie,91,3.6,28.0,Comedy
+The Yoshi Movie,127,8.2,87.0,Comedy
+Uang Panai' 2 Maha(r)l,93,7.3,68.0,Comedy
+Brakpan Bruilof,80,7.3,385.0,Comedy
+Toxic,125,3.6,12.0,Comedy
+Topolinyy pukh,93,9.7,12.0,Comedy
+Los Justos,104,6.1,9.0,Comedy
+Moshimo Tokugawa Ieyasu Ga Souridaijin Ni Nattara,89,8.5,151.0,Comedy
+Bharathanatyam,120,6.0,23.0,Comedy
+Inheritance to Love,133,6.5,42.0,Comedy
+My First Year Off Campus,110,4.9,21.0,Comedy
+El Precio de Educarlos,89,5.9,24.0,Comedy
+Dr. Spiderwack's Mind-Boggling Compendium of Fantastic Urban Beasts,101,6.5,8.0,Comedy
+Svetlyachok,83,5.0,53.0,Comedy
+Pushpaka Vimanam,85,7.5,14.0,Comedy
+shukrddosh,91,8.1,8.0,Comedy
+Sonnenplätze,90,7.3,21.0,Comedy
+Gunfighter Paradise,65,7.8,14.0,Comedy
+Juanpis González: The People's President,106,6.0,56.0,Comedy
+Aaichya Gavat Marathit Bol,81,7.0,19.0,Comedy
+30 to 45,127,6.5,385.0,Comedy
+The Fall of 2008,70,5.6,142.0,Comedy
+Gider Ayak,94,8.3,572.0,Comedy
+Bantay-bahay,73,2.9,61.0,Comedy
+"Goons, Guns and the Gumshoe",104,6.2,7.0,Comedy
+Nikoga ne e prosto seks,103,8.0,24.0,Comedy
+Pool & Party,84,5.3,385.0,Comedy
+Gull Lake Vice II: The Delusion Continues,106,6.0,59.0,Comedy
+The Compatriots,90,5.0,17.0,Comedy
+Alaap,105,6.3,79.0,Comedy
+Balayi Olayi,87,4.0,71.0,Comedy
+Ari-cassamortari,116,7.0,231.0,Comedy
+Walk the Line,106,9.0,9.0,Comedy
+Kral Sakir: Devler Uyandi,131,4.8,17.0,Comedy
+Apocalypse Love,103,7.6,1100.0,Comedy
+Shri Swapankumarer Badami Hyenar Kobole,106,7.5,266.0,Comedy
+Bapu Ni Manda Mera,99,7.0,67.0,Comedy
+Hum Tum Aur Woo,98,3.8,9.0,Comedy
+The Satire,127,4.7,72.0,Comedy
+Casa de Novia,77,3.8,15.0,Comedy
+Sleep with Your Eyes Open,87,9.3,16.0,Comedy
+Baby boom czyli Kogel Mogel 5,106,7.6,30.0,Comedy
+El Cas Àngelus. La fascinació de Dalí,72,4.9,22.0,Comedy
+"The Other, Gold",63,6.6,7.0,Comedy
+Gangs of Sukumara Kurup,83,6.8,42.0,Comedy
+Muri & Ko,85,9.5,6.0,Comedy
+Cymbeline,60,6.2,395.0,Comedy
+O nomos tou Merfy,84,7.7,21.0,Comedy
+Duel in trei,81,3.8,559.0,Comedy
+Migawari Mission,61,3.7,196.0,Comedy
+Víctor Presidente,83,7.8,1000.0,Comedy
+Geister,86,5.7,107.0,Comedy
+La Tercera Edad,90,8.3,45.0,Comedy
+Life with Quincy 3,133,8.8,21.0,Comedy
+Stalker,72,7.1,1200.0,Comedy
+Rennie,77,9.1,89.0,Comedy
+Hidden Flora,115,7.1,374.0,Comedy
+Separati (Separated),110,3.7,26.0,Comedy
+Rain for Christmas,104,7.5,46.0,Comedy
+Ayo Balikan,96,5.2,61.0,Comedy
+Husband for Sale,88,2.4,169.0,Comedy
+Motu Patlu & The Race to the Diamond Valley,96,9.0,11.0,Comedy
+Adam i Eva,152,4.8,63.0,Comedy
+Il sogno dei pastori,98,8.4,10.0,Comedy
+Kattis Gang,96,4.8,318.0,Comedy
+Dank Frank,129,3.3,19.0,Comedy
+Have You Seen My Man?,84,8.3,21.0,Comedy
+Saint Nick,150,7.8,17.0,Comedy
+10 Years A Dog,71,5.3,64.0,Comedy
+Megdan: Between Water and Fire,89,7.4,14.0,Comedy
+Pailam Pilaga,90,7.5,164.0,Comedy
+Die Kwiksilwers (The Quicksilvers),105,4.6,33.0,Comedy
+Cholay,98,1.8,25.0,Comedy
+Uralochka,93,5.3,92.0,Comedy
+Norbert(a),60,4.2,55.0,Comedy
+"You, Me and Christmas Makes Three",80,5.9,2900.0,Comedy
+Rush Hour,130,9.3,205.0,Comedy
+Scream: The Fan Favorite,111,3.9,38.0,Comedy
+The Premiere,108,4.8,58.0,Comedy
+Mansarra,108,5.4,51.0,Comedy
+The Terrible Killers,109,9.4,186.0,Comedy
+Fallen Fruit,80,6.2,8.0,Comedy
+Marlon Wayans: Good Grief,87,4.6,49.0,Comedy
+Rosetta Stoned,83,8.3,2000.0,Comedy
+Retro Therapy,120,7.4,5.0,Comedy
+BAM!,88,8.6,125.0,Comedy
+Oflu Hoca 4,105,4.8,103.0,Comedy
+Couple in the Woods,81,5.3,14.0,Comedy
+Al Eid Eiden,103,5.7,266.0,Comedy
+Oyunda Kal: Eglence Arenasi,105,7.5,2300.0,Comedy
+Pulp Modern: Die Laughing,161,7.9,10.0,Comedy
+Safari,115,5.4,57.0,Comedy
+A Danfo Christmas,75,6.3,78.0,Comedy
+Operation Wakaliga: Fate and Blood,99,9.5,61.0,Comedy
+Tur s Ivanushkami,113,9.0,10.0,Comedy
+Kunddala Puranam,87,6.3,29.0,Comedy
+Coppia aperta quasi spalancata,77,4.6,26.0,Comedy
+Amici per caso,105,3.5,65.0,Comedy
+Trip-Tych,86,7.7,7.0,Comedy
+Hep Yek: Asiret,109,8.9,64.0,Comedy
+Curry Scent,83,3.3,184.0,Comedy
+A Postcard from Rome,98,3.2,357.0,Comedy
+Jafaican,97,5.3,980.0,Comedy
+Come far litigare mamma e papà,94,3.3,47.0,Comedy
+East of Noon,145,6.6,176.0,Comedy
+The Answer to All Questions,157,4.2,27.0,Comedy
+A Very Flattened Christmas,83,6.6,110.0,Comedy
+Con Job,93,4.6,20.0,Comedy
+Ajab Gajab Dhamal,125,5.4,42.0,Comedy
+Cingene Kizi Zeugma,94,9.4,8.0,Comedy
+Anxious.,136,8.0,14.0,Comedy
+Manyunya. Priklyucheniya v derevne,119,3.4,47.0,Comedy
+Teddy and the Mountain,91,6.7,14.0,Comedy
+Teddiscare,60,6.3,15.0,Comedy
+7 Days Without Sex,127,3.7,83.0,Comedy
+My Eyes Only,87,7.6,50.0,Comedy
+Miss Merkel - Ein Uckermark-Krimi 2,112,7.8,33.0,Comedy
+Cinta Tak Seindah Drama Korea,93,7.0,7.0,Comedy
+Blue Star,112,6.2,8.0,Comedy
+Mike Epps: Ready to Sell Out,80,7.2,53.0,Comedy
+I Brake for Caterpillars,94,7.1,8.0,Comedy
+Vstretimsya vchera,90,4.5,38.0,Comedy
+Bootcut Balaraju,90,7.8,6.0,Comedy
+Scorned Waifu,100,4.9,12.0,Comedy
+Blue Caveman,70,4.9,11.0,Comedy
+Darshini,102,2.2,145.0,Comedy
+La scommessa - Una notte in corsia,110,6.3,585.0,Comedy
+Uruku Patela,70,4.7,42.0,Comedy
+One Cut Monk,90,6.4,6.0,Comedy
+10 Things about Sally,112,7.5,32.0,Comedy
+Near Miss,100,8.9,15.0,Comedy
+Youn'G,115,4.4,2200.0,Comedy
+Lakhe's Matric,142,8.9,15.0,Comedy
+COMA,110,4.4,10.0,Comedy
+Palacio Estilistas,91,5.3,44.0,Comedy
+Dois Caipiras em Colombo,101,5.2,45.0,Comedy
+Happy Birthday to Me,85,8.1,29.0,Comedy
+Il Signore,91,7.0,8.0,Comedy
+Dead Serious,90,5.2,21.0,Comedy
+Boomerang,90,4.3,33.0,Comedy
+You Are Here: A Dylan Brody Project,79,7.8,669.0,Comedy
+Siapa Buka Lampu?,89,5.1,57.0,Comedy
+Christmas with the Pups 2: Pups Alone,89,6.9,20.0,Comedy
+Nothing Unusual,120,1.2,3000.0,Comedy
+Conte nuptial,85,5.7,22.0,Comedy
+Best Supporting Actors,91,6.7,6.0,Comedy
+Abbabba,124,6.3,16.0,Comedy
+Petualangan Anak Penangkap Hantu,152,8.9,8.0,Comedy
+Bring Me Home,102,5.0,77.0,Comedy
+Bienvenidos al paraíso,109,7.2,16.0,Comedy
+Mukidi,100,7.4,25.0,Comedy
+Love Live! Nijigasaki High School Idol Club Final Chapter Part 1,98,5.0,23.0,Comedy
+Saka Perawan,95,8.4,11.0,Comedy
+Mind Body & Soul,96,3.8,39.0,Comedy
+Los Mecánicos 2,96,6.5,114.0,Comedy
+A Tuesday Wedding,95,4.9,93.0,Comedy
+A Cheesy Christmas,81,6.0,9.0,Comedy
+Lovers and Friends,101,8.9,460.0,Comedy
+Licença para Enlouquecer,82,8.4,6.0,Comedy
+Fainéant.e.s,121,3.7,36.0,Comedy
+V dobrém i zlém,61,7.6,8.0,Comedy
+Rachel Feinstein: Big Guy,86,6.3,21.0,Comedy
+Super Zindagi,136,4.0,48.0,Comedy
+Ghostlight,102,6.9,438.0,Comedy
+Nalla Perai Vaanga Vendum Pillaigale,100,3.7,464.0,Comedy
+Koresha,96,6.3,34.0,Comedy
+Sundays with Dad,76,6.2,40.0,Comedy
+Rajakaran Gela Mishit,87,5.3,53.0,Comedy
+Yashan yev Leonid Brezhnevy,80,5.8,53.0,Comedy
+Last Defenders of Monogamy,155,5.4,26.0,Comedy
+Salvation,128,5.2,41.0,Comedy
+Let Me Be Corey,77,9.2,10.0,Comedy
+Pauline grandeur nature,114,5.2,10.0,Comedy
+Cat's Luck,96,5.8,54.0,Comedy
+Kiralik Baba,86,6.3,403.0,Comedy
+Long Division,110,8.5,46.0,Comedy
+Una película barata,124,4.9,61.0,Comedy
+Matka v trapu,83,9.5,30.0,Comedy
+Especial Este,63,8.9,38.0,Comedy
+Kamley,112,4.8,2300.0,Comedy
+Deal,116,6.9,8.0,Comedy
+Sinapsi,78,6.9,10.0,Comedy
+Master Dragon,164,6.6,210.0,Comedy
+Real Estate Sisters,105,7.5,38.0,Comedy
+Indrani: Epic-1 Dharam vs Karam,81,6.5,2300.0,Comedy
+Mahajatra,78,5.4,123.0,Comedy
+Merz gegen Merz - Geheimnisse,87,7.2,65.0,Comedy
+Barbenheimer and the Cult of Walt Disney,120,4.1,59.0,Comedy
+Ukraine Mon Amour,75,5.4,39.0,Comedy
+The Haunting of Lanquetot,90,7.1,97.0,Comedy
+Lyubov so vtorogo vzglyada,92,3.4,92.0,Comedy
+Amityville Webcam,94,8.8,8.0,Comedy
+A Mary Little Christmas,200,4.2,38.0,Comedy
+The Puffins & the Magic Portal,94,6.9,11.0,Comedy
+30 anni di meno,93,4.1,96.0,Comedy
+Idu Entha Lokavayya,90,2.8,43.0,Comedy
+What a Kismat,61,7.1,2200.0,Comedy
+De Dans van Natasja,106,5.7,236.0,Comedy
+Gde nashi dengi?,107,3.3,43.0,Comedy
+Lyubov zla,93,7.0,39.0,Comedy
+Lo carga el diablo,82,8.6,39.0,Comedy
+For Regn,77,4.6,60.0,Comedy
+Soodhu Kavvum 2: Naatum Naatu Makkalum,124,4.3,26.0,Comedy
+Aflatoon,68,6.7,154.0,Comedy
+Manyunya. Priklyucheniya v Moskve,78,7.0,6.0,Comedy
+Office Madness,99,6.7,12.0,Comedy
+Back to 2005,151,5.8,46.0,Comedy
+Sneaking Around,63,7.8,12.0,Comedy
+Paradise,101,7.3,40.0,Comedy
+Chow Chow Bath,86,4.0,30.0,Comedy
+Adam Bol,104,5.2,82.0,Comedy
+Opportunity,103,6.5,7.0,Comedy
+Clay,78,8.7,7.0,Comedy
+Brian Simpson: Live from the Mothership,75,8.9,12.0,Comedy
+Una fottuta bugia,72,6.1,21.0,Comedy
+Kadin Kafasi,99,7.2,5.0,Comedy
+Where Elephants Go,98,4.3,15.0,Comedy
+Slasher Days of Summer,129,3.9,70.0,Comedy
+Woodapple Jam,73,5.8,231.0,Comedy
+Pushcart Tales,92,8.1,35.0,Comedy
+Don Zhuan iz Zhashkova,99,5.0,16.0,Comedy
+Rangeet,105,7.8,20.0,Comedy
+When Magic Hurts,74,4.7,17.0,Comedy
+SangharshYoddha Manoj Jarange Patil,125,6.0,42.0,Comedy
+Una famiglia sottosopra,73,8.7,18.0,Comedy
+Povesti Moldovenesti,92,9.0,2000.0,Comedy
+Red Ollero: Mabuhay Is a Lie,89,7.3,10.0,Comedy
+Because of Mika,90,6.5,65.0,Comedy
+I soliti idioti 3: Il ritorno,114,8.9,12.0,Comedy
+Hishkenstien: After Dark,152,8.0,18.0,Comedy
+The Ghost House,72,5.0,11.0,Comedy
+Malik Salah,111,6.2,18.0,Comedy
+Echoes of Dreams,150,3.2,10.0,Comedy
+Cuñados,110,5.5,30.0,Comedy
+Reeza GTR,80,5.9,36.0,Comedy
+Moorane Krishnappa,73,3.3,54.0,Comedy
+Poklad,110,5.8,9.0,Comedy
+I Heard You Buy Souls,74,7.9,73.0,Comedy
+The Hutong Cowboy,76,3.9,43.0,Comedy
+Sovsem oshaleli,118,6.4,17.0,Comedy
+Mandakini,93,8.8,1100.0,Comedy
+Kunwarapur,113,4.8,11.0,Comedy
+Home & Away,107,3.1,25.0,Comedy
+Boy,122,5.1,35.0,Comedy
+Sáquenme de Aquí,85,7.6,8.0,Comedy
+Odna doma. Velikolepnaya pyatyorka,80,8.7,9.0,Comedy
+Semeynyy perepolokh,93,5.5,34.0,Comedy
+Alien Attack: Area 51,72,3.7,34.0,Comedy
+Numéro 10,90,8.4,3100.0,Comedy
+Chor Chor,80,5.9,66.0,Comedy
+Cuando te toca,91,7.7,8.0,Comedy
+Mr. Engineer and Miss Doctor,105,4.3,14.0,Comedy
+Mostly Sunny,94,6.3,21.0,Comedy
+Dragons on the Hill,115,4.5,26.0,Comedy
+Babu (No.1 Bullshit Guy),90,6.1,13.0,Comedy
+Pink Is In: The Movie,80,8.7,13.0,Comedy
+Bernadette will töten,86,5.0,62.0,Comedy
+Manasa Vacha,104,9.1,183.0,Comedy
+Man & Ghost,61,7.7,8.0,Comedy
+Monster Metaverse: Monster Hunter Academy,60,9.3,14.0,Comedy
+Fallen from the Truck,102,5.2,69.0,Comedy
+Shrek Crack,76,6.3,16.0,Comedy
+Pon Ondru Kanden,70,9.7,37.0,Comedy
+Paarijathaparvam,88,7.0,8.0,Comedy
+Momiwa,108,6.5,67.0,Comedy
+Bigfoot the Movie: The Sequel,75,7.0,142.0,Comedy
+Bed & Breakfast,109,4.0,6.0,Comedy
+The Uncertainty Principle,82,7.5,15.0,Comedy
+The Sweet Life,110,8.9,22.0,Comedy
+Eternal Playground,75,7.4,1000.0,Comedy
+Lucky Strikes,93,8.5,1100.0,Comedy
+Kalaawati,133,5.5,14.0,Comedy
+Buffalo Travels,72,6.2,25.0,Comedy
+Home Tour - A Bachelor Party,78,7.4,17.0,Comedy
+Naale Rajaa Koli Majaa,114,6.6,10.0,Comedy
+Los De La Culpa,107,6.7,10.0,Comedy
+Felicia Madison: Better Than Sex,72,8.3,1000.0,Comedy
+Rickey Smiley Presents: 3 the Hard Way,95,9.0,9.0,Comedy
+Papu mame zaverni,88,4.8,36.0,Comedy
+Cuadrilátero,63,5.8,9.0,Comedy
+Marigold,88,6.4,5.0,Comedy
+Can't Knock the Hustle,147,4.3,49.0,Comedy
+Por tus muertos,79,6.5,192.0,Comedy
+Home Swiss Home,76,3.6,35.0,Comedy
+The Year of Cat,107,4.6,23.0,Comedy
+Alligator Blood,95,4.8,62.0,Comedy
+The Ghost of Annie Lee,83,6.9,12.0,Comedy
+Maoussi,129,5.0,29.0,Comedy
+La reina del convento,106,5.9,12.0,Comedy
+The Eggsplosive Easter,91,5.2,58.0,Comedy
+Yano-kun no Futsu no Hibi,90,4.6,662.0,Comedy
+Príncipe Lu e a Lenda do Dragão,61,6.7,24.0,Comedy
+The Diarrhea Brothers Save the Day,97,5.7,43.0,Comedy
+Prisoner Trump: The Don of Cell Block B,99,7.9,10.0,Comedy
+Govorit Zemlya!,118,4.5,26.0,Comedy
+El Casero,72,9.4,35.0,Comedy
+Amoriental,98,3.8,49.0,Comedy
+El Vendedor,97,3.8,32.0,Comedy
+Two Sisters,121,8.8,12.0,Comedy
+Kallanmaarude Veedu,86,9.5,13.0,Comedy
+The Empathizer,91,8.1,9.0,Comedy
+The Resellers,170,4.2,9.0,Comedy
+Uranus Attacks,96,9.5,15.0,Comedy
+Ayrilik A.S.,87,6.3,61.0,Comedy
+UnichtoZhanna,90,5.4,25.0,Comedy
+Basta!,108,9.5,91.0,Comedy
+Sleaze Please: The World of Bill Margold,90,6.0,7.0,Comedy
+Al Leib Maa Al Eyal,90,7.1,9.0,Comedy
+Zvyozdy v Sibiri,71,5.6,42.0,Comedy
+Azul de niño,118,5.9,26.0,Comedy
+Neath's Love Story,96,8.7,2000.0,Comedy
+The Russian at Christmas,76,7.4,22.0,Comedy
+The Old Man and the Demon Sword,109,4.5,24.0,Comedy
+And Through the Portal We Go,99,4.5,45.0,Comedy
+Baby Bird,112,2.9,19.0,Comedy
+Goodbye Hamdi,92,4.2,31.0,Comedy
+Stock Shark,112,9.5,14.0,Comedy
+God Dam,90,6.3,12.0,Comedy
+Afacanlar Kampta,89,5.6,16.0,Comedy
+Hazegras,122,6.2,71.0,Comedy
+First Person Savior,68,8.6,8.0,Comedy
+The Best Day of Your Life,62,7.3,14.0,Comedy
+Being Robin,80,3.6,8.0,Comedy
+La Culpa de Nada,90,7.1,8.0,Comedy
+Go Free,90,7.9,10.0,Comedy
+Neprilichnye gosti,109,7.2,2000.0,Comedy
+Lgunya,99,7.3,12.0,Comedy
+Öldüm Bittim,100,8.3,7.0,Comedy
+Tuesday's Trash,96,4.6,10.0,Comedy
+El carné,63,5.2,14.0,Comedy
+Just One Last Thing,118,5.5,35.0,Comedy
+Local Sarakku,66,5.5,136.0,Comedy
+Todo Mundo (Ainda) Tem Problemas Sexuais,90,5.6,74.0,Comedy
+Einmal richtig,158,3.9,33.0,Comedy
+Tuesday,70,8.8,10.0,Comedy
+XXL,112,4.3,41.0,Comedy
+A Frozen Rage,90,8.8,1100.0,Comedy
+Love Game,105,9.0,6.0,Comedy
+Pro moyu mamu i pro menya,103,9.2,14.0,Comedy
+Vovó Ninja,143,4.3,13.0,Comedy
+Traffic Lane,70,3.5,36.0,Comedy
+Where in the Hell,100,8.0,14.0,Comedy
+Maximum Strollerdrive,73,9.4,7.0,Comedy
+Follow Bear to Adventure,68,9.7,8.0,Comedy
+Ravike Prasanga,80,6.8,21.0,Comedy
+Tapakovci,69,9.3,299.0,Comedy
+Obe dve,72,5.3,16.0,Comedy
+Earlybird,88,6.0,8.0,Comedy
+Tyrus: Here and Now,148,9.3,9.0,Comedy
+We Love Bad Boys,90,9.8,14.0,Comedy
+Tayna Chyornoy Ruki,108,6.3,14.0,Comedy
+Hellfire Hades II: 1980's Voodoo,208,8.3,8.0,Comedy
+Give Me Babies,125,8.6,14.0,Comedy
+Jama,98,5.5,10.0,Comedy
+I Need Your Love,97,7.9,13.0,Comedy
+Month to Month,105,4.9,9.0,Comedy
+Byvshiy v pomoshch,85,3.4,17.0,Comedy
+My Only Relative.,86,5.8,26.0,Comedy
+Chong · Zhuang,64,4.9,11.0,Comedy
+Ingiliz Anahtari: Recep Usta,107,8.8,10.0,Comedy
+TapewormZ,90,9.0,2000.0,Comedy
+Waning Poetic,131,5.8,11.0,Comedy
+Uncanny Alley: A New Day,89,5.7,27.0,Comedy
+No Reception,84,4.5,41.0,Comedy
+Cici Anne,157,8.7,14.0,Comedy
+Kavej,78,8.1,8.0,Comedy
+Neposlushniki,100,9.7,8.0,Comedy
+Corridor,90,5.2,18.0,Comedy
+Eppura,93,6.3,15.0,Comedy
+Jesterpus: A Musical Comedy of Horrors,128,9.4,18.0,Comedy
+Weedsgiving,127,7.5,40.0,Comedy
+Rest and Relax,92,4.5,8.0,Comedy
+Perfect Wife,111,4.5,49.0,Comedy
+Heart Brakers,104,7.8,7.0,Comedy
+Kartolo Numpak Terang Bulan,141,6.3,8.0,Comedy
+Pravo na levo,72,8.6,11.0,Comedy
+Aloha Also Means Goodbye,92,8.5,31.0,Comedy
+A Time to Die,69,5.2,22.0,Comedy
+Curve Bro's Parents Gets Arrested and Executed: The Movie,60,8.2,6.0,Comedy
+Il mio regno per una farfalla,137,4.4,27.0,Comedy
+Eksie Perfeksie,73,6.9,17.0,Comedy
+Dünya Evi,81,8.8,9.0,Comedy
+Osomoy,141,7.0,5.0,Comedy
+Texas 3,107,5.8,7.0,Comedy
+Pelesenk Ailesi,106,7.5,8.0,Comedy
+Sounds Like A Great Project!,98,1.2,21.0,Comedy
+Love Buzz,85,7.4,16.0,Comedy
+James,99,5.6,17.0,Comedy
+Aristokratka ve varu,97,7.4,7.0,Comedy
+Bar Wars: Attack of the Shots,118,9.2,322.0,Comedy
+Mezhdu nami leto,88,6.9,28.0,Comedy
+Devojacko vece,90,8.5,7.0,Comedy
+Moyo sobache delo,113,7.6,11.0,Comedy
+The Ballad of Straw Hat Sam,93,6.1,13.0,Comedy
+Hayatimiz Roman,85,4.0,10.0,Comedy
+Illegal Ask,104,4.9,19.0,Comedy
+Pink Butterfly,90,8.7,10.0,Comedy
+FL Man,103,8.1,16.0,Comedy
+As tres outras vidas de María Santiso,72,8.9,12.0,Comedy
+Bye Bye Kitty,113,3.3,23.0,Comedy
+"7 dney, 7 nochey",80,8.7,11.0,Comedy
+Inazuma Eleven the Movie: Prologue to the New Heroes,90,6.0,15.0,Comedy
+O Procedimento,67,4.9,15.0,Comedy
+YA - medved,73,7.2,7.0,Comedy
+Casebre,112,8.4,7.0,Comedy
+Rez Comedy,73,7.3,12.0,Comedy
+AusWeg,80,3.6,20.0,Comedy
+Chhota Bheem and the Curse of Damyaan,111,3.7,8.0,Comedy
+Guru Chela,135,9.5,12.0,Comedy
+My Little Sister's Wedding,92,5.6,16.0,Comedy
+Removal of the Eye,80,6.3,9.0,Comedy
+Paranormal Cuma,105,3.0,12.0,Comedy
+Papá Por Sorpresa,90,6.5,11.0,Comedy
+Just Pass,87,6.3,11.0,Comedy
+Ya Boy Kongming! Road to Summer Sonia,109,7.2,23.0,Comedy
+Maid to Kill,90,6.5,11.0,Comedy
+In Your Own Time,89,9.5,22.0,Comedy
+Vey Dharuvey,126,5.1,18.0,Comedy
+Prázdniny s Brouckem,62,5.7,7.0,Comedy
+Konjam Pesinaal Yenna,135,7.0,10.0,Comedy
+Vozvrashchenie popugaya Keshi,83,8.6,11.0,Comedy
+Saideira,127,7.2,10.0,Comedy
+Yokelish Yeggs,98,6.3,10.0,Comedy
+Novyy god v Beryozovke,113,9.0,9.0,Comedy
+The Partners,83,7.7,6.0,Comedy
+I kaltsa,94,8.9,8.0,Comedy
+Jak ukradlem 100 milionów,78,5.3,10.0,Comedy
+Hello Pot,114,5.6,8.0,Comedy
+The Kills,95,3.3,12.0,Comedy
+My Love from Another Land,62,5.6,10.0,Comedy
+Here We Go,108,6.6,7.0,Comedy
+He's Not Ready,172,9.0,7.0,Comedy
+Vipers,93,7.1,16.0,Comedy
+One Night Guests,72,7.2,8.0,Comedy
+Kunst der farbe,123,9.5,23.0,Comedy
+Maa Da Sohna,72,7.1,10.0,Comedy
+Meri Maa Karma,131,4.6,251.0,Comedy
+Apollon by Day Athena by Night,78,4.0,12.0,Comedy
+Love in the Time of Corona,85,7.9,14.0,Comedy
+Para Nerede,96,9.5,8.0,Comedy
+Masthu Shades Unnai Ra,99,9.2,11.0,Comedy
+Chappelle's Home Team: Donnell Rawlings - A New Day,100,5.9,8.0,Comedy
+The Mollusk Murders,106,7.5,31.0,Comedy
+Çiftligimin Hanimi,65,8.5,7.0,Comedy
+A Way Out 3,77,8.0,13.0,Comedy
+Tochka opory,116,7.0,9.0,Comedy
+Fresh Off Markham,100,7.4,10.0,Comedy
+Eine zweite Chance,109,6.2,22.0,Comedy
+"Stella Mantoni, Il Ritorno",84,6.1,23.0,Comedy
+Vtroyom,101,6.1,15.0,Comedy
+Cedo Demais,74,6.9,11.0,Comedy
+AJ Goes to the Dog Park,90,5.2,12.0,Comedy
+Langston Kerman: Bad Poetry,85,9.5,22.0,Comedy
+G! LU!,105,6.8,10.0,Comedy
+How to Train A Princess,93,8.9,12.0,Comedy
+Killing Cookie,101,7.0,15.0,Comedy
+The Canfather,76,5.6,94.0,Comedy
+"Hello, Welcome",63,7.2,8.0,Comedy
+Emilia Pérez,132,5.4,84000.0,Crime
+Trap,105,5.8,130000.0,Crime
+Longlegs,101,6.6,179000.0,Crime
+Pushpa: The Rule - Part 2,201,6.1,54000.0,Crime
+The Order,116,6.8,38000.0,Crime
+Juror #2,114,7.0,91000.0,Crime
+Despicable Me 4,94,6.2,62000.0,Crime
+Riff Raff,103,6.3,813.0,Crime
+MaXXXine,103,6.3,67000.0,Crime
+The Beekeeper,105,6.3,153000.0,Crime
+Carry-On,119,6.5,159000.0,Crime
+Marco,145,6.9,20000.0,Crime
+Rebel Ridge,131,6.8,86000.0,Crime
+Wolfs,108,6.5,79000.0,Crime
+The Crow,111,4.7,32000.0,Crime
+The Seed of the Sacred Fig,167,7.6,12000.0,Crime
+Bad Boys: Ride or Die,115,6.5,98000.0,Crime
+Love Lies Bleeding,104,6.6,56000.0,Crime
+Lucky Baskhar,148,8.0,30000.0,Crime
+Monkey Man,121,6.8,90000.0,Crime
+Freaky Tales,106,6.5,365.0,Crime
+Greedy People,112,6.2,11000.0,Crime
+Jönssonligan kommer tillbaka,104,6.0,1000.0,Crime
+Absolution,112,5.2,7400.0,Crime
+Sleeping Dogs,110,6.2,21000.0,Crime
+The Instigators,101,6.2,37000.0,Crime
+Lift,107,5.5,49000.0,Crime
+Beverly Hills Cop: Axel F,118,6.4,80000.0,Crime
+Hitpig,86,5.1,829.0,Crime
+The Silent Hour,99,6.1,7000.0,Crime
+Maharaja,141,8.4,65000.0,Crime
+Beating Hearts,166,7.0,4100.0,Crime
+Misericordia,104,6.9,1600.0,Crime
+Brothers,89,5.4,13000.0,Crime
+Killer Heat,95,5.6,13000.0,Crime
+Long Gone Heroes,101,5.2,969.0,Crime
+Force of Nature: The Dry 2,120,5.9,6700.0,Crime
+The Shadow Strays,144,6.5,8900.0,Crime
+Armor,89,3.5,3600.0,Crime
+Trigger Warning,106,4.6,19000.0,Crime
+Blackwater Lane,108,4.6,1800.0,Crime
+Twilight of the Warriors: Walled In,126,7.0,8900.0,Crime
+Boneyard,96,4.1,4800.0,Crime
+The Thicket,108,5.8,2900.0,Crime
+The Calendar Killer,97,5.4,3900.0,Crime
+Santosh,128,7.0,1400.0,Crime
+The Unholy Trinity,93,7.9,49.0,Crime
+Inside,104,7.0,214.0,Crime
+Mea Culpa,120,4.2,6900.0,Crime
+Megamind vs. The Doom Syndicate,83,2.5,5500.0,Crime
+Dead Sea,88,5.3,5200.0,Crime
+Sector 36,123,7.1,25000.0,Crime
+Damaged,97,4.7,7100.0,Crime
+Colors of Evil: Red,111,6.4,8300.0,Crime
+Trouble,98,6.2,6600.0,Crime
+Faultline,92,6.0,71.0,Crime
+"I, the Executioner",118,6.3,1600.0,Crime
+Code 8: Part II,100,5.7,16000.0,Crime
+Depravity,117,4.3,916.0,Crime
+Bogota: City of the Lost,108,5.4,1800.0,Crime
+City Hunter,102,6.3,5500.0,Crime
+Drugstore June,91,5.3,1700.0,Crime
+Maharaj,131,6.5,15000.0,Crime
+Lake George,118,6.3,846.0,Crime
+Duchess,114,4.6,1200.0,Crime
+Harbin,108,6.5,485.0,Crime
+Do Patti,126,6.4,68000.0,Crime
+Detained,97,4.9,1500.0,Crime
+Badland Hunters,107,5.9,12000.0,Crime
+The Courier,101,6.0,4300.0,Crime
+The Soul Eater,108,5.9,2400.0,Crime
+Sikandar Ka Muqaddar,142,6.0,24000.0,Crime
+Broken Rage,62,6.1,1200.0,Crime
+The Roundup: Punishment,109,6.6,5100.0,Crime
+Here Now,118,4.9,296.0,Crime
+Marmalade,99,6.2,3500.0,Crime
+Raayan,145,6.5,11000.0,Crime
+What Jennifer Did,87,6.1,11000.0,Crime
+First Shift,89,4.4,2000.0,Crime
+El Jockey,96,6.5,1600.0,Crime
+Lover Stalker Killer,90,7.0,13000.0,Crime
+Barron's Cove,116,8.0,28.0,Crime
+Ride,114,5.9,372.0,Crime
+Golam,120,7.2,5500.0,Crime
+Laws of Man,98,4.1,322.0,Crime
+Officer Black Belt,108,6.8,7900.0,Crime
+Strictly Confidential,94,2.8,832.0,Crime
+The Quiet Ones,110,6.5,523.0,Crime
+Darkness of Man,109,4.8,3100.0,Crime
+Rats!,85,8.0,77.0,Crime
+Justice,113,6.3,3800.0,Crime
+Cult Killer,105,4.8,2700.0,Crime
+In Her Place,96,6.2,1400.0,Crime
+Bougainvillea,138,6.4,3000.0,Crime
+A Place Called Silence,119,6.5,1200.0,Crime
+Papa,131,7.5,292.0,Crime
+The Trainer,95,7.2,52.0,Crime
+Pani,143,6.9,2800.0,Crime
+The Thundermans Return,70,5.0,1800.0,Crime
+Cookster: The Darkest Days,119,8.3,36.0,Crime
+Crescent City,103,3.9,1300.0,Crime
+Boundless,121,5.6,1800.0,Crime
+5lbs of Pressure,111,5.3,1600.0,Crime
+Freedom,110,5.9,1300.0,Crime
+Guns & Moses,94,8.2,38.0,Crime
+Sicilian Letters,122,6.1,583.0,Crime
+The Smile Man,122,7.6,1500.0,Crime
+Ferry 2,94,5.6,3700.0,Crime
+King Ivory,130,7.2,62.0,Crime
+Compulsion,94,4.8,1500.0,Crime
+The Park Maniac,103,4.8,2500.0,Crime
+Wanted Man,85,7.3,435.0,Crime
+To a Land Unknown,105,6.8,3200.0,Crime
+Hijack 1971,100,7.2,4400.0,Crime
+Thalavan,131,6.9,475.0,Crime
+Shoutai,120,3.8,4400.0,Crime
+Daredevil vs Punisher,83,7.2,7100.0,Crime
+Bloodline Killer,105,7.0,8900.0,Crime
+Bhakshak,134,4.1,1100.0,Crime
+Saripodhaa Sanivaaram,166,6.4,24000.0,Crime
+The Clean Up Crew,95,8.0,15000.0,Crime
+The Sabarmati Report,127,5.4,819.0,Crime
+Viduthalai Part 2,170,5.1,530.0,Crime
+Revolver,114,6.0,692.0,Crime
+Ma Este Gyilkolunk,116,6.2,35000.0,Crime
+Two to One,126,6.0,24000.0,Crime
+Savi,150,8.3,1200.0,Crime
+Ulajh,147,7.4,10000.0,Crime
+Operation Raavan,142,6.1,1400.0,Crime
+Anweshippin Kandethum,85,3.8,255.0,Crime
+Biggest Heist Ever,104,4.3,595.0,Crime
+Dead Wrong,117,7.0,39000.0,Crime
+The Lockdown,163,4.2,1200.0,Crime
+Vettaiyan,92,3.6,672.0,Crime
+Nice Girls,90,7.0,625.0,Crime
+Roadkill,108,5.0,1200.0,Crime
+The Kingdom,100,6.7,279.0,Crime
+GTMax,106,4.3,375.0,Crime
+Dead Mail,106,7.1,534.0,Crime
+Strangers,155,5.8,273.0,Crime
+Maldoror,112,6.1,2500.0,Crime
+Serpent's Path,105,6.0,26.0,Crime
+Mission: Cross,100,6.6,4100.0,Crime
+Belle,88,6.4,3100.0,Crime
+How to Rob a Bank,88,7.1,6100.0,Crime
+Jailbreak: Love on the Run,145,9.4,69.0,Crime
+Toofan,102,6.3,46.0,Crime
+The Birds Who Fear Death,72,6.6,2300.0,Crime
+Kingsmen,134,4.6,622.0,Crime
+Anand Sreebala,99,5.8,504.0,Crime
+Untamed Royals,119,6.3,1300.0,Crime
+High Forces,110,7.5,35.0,Crime
+Last Known Location,99,4.4,174.0,Crime
+La Familia,89,5.9,3200.0,Crime
+Bermondsey Tales: Fall of the Roman Empire,98,6.7,22.0,Crime
+They Called Him Mostly Harmless,132,7.8,66.0,Crime
+The Seven Sorrows of Mary,132,5.8,6700.0,Crime
+In Youth We Trust,103,4.3,489.0,Crime
+Phir Aayi Hasseen Dillruba,81,4.9,45.0,Crime
+Hellhound,150,6.6,40000.0,Crime
+A Gangster's Kiss,114,5.6,189.0,Crime
+Auron Mein Kahan Dum Tha,110,5.2,1300.0,Crime
+The Shameless,82,5.2,11.0,Crime
+Borderless Fog,101,6.7,508.0,Crime
+The Girl Who Wore Yellow Lace,107,6.5,5200.0,Crime
+Scorched Earth,143,6.5,4100.0,Crime
+Dhakshina,130,5.7,1100.0,Crime
+Abraham Ozler,150,7.0,45.0,Crime
+Visfot,110,6.5,321.0,Crime
+She's Got No Name,150,4.9,57.0,Crime
+Fyre Rises,97,3.6,5200.0,Crime
+Lóve 2,120,5.8,50.0,Crime
+Mr. Bachchan,121,6.7,691.0,Crime
+Peg O' My Heart,60,7.5,3000.0,Crime
+Crisis Negotiators,139,2.2,199.0,Crime
+The Truth vs. Alex Jones,103,5.6,1100.0,Crime
+Diddy: Summit to Plummet,87,7.3,269.0,Crime
+Rakshana,85,7.0,138.0,Crime
+Baby Assassins: Nice Days,120,6.3,95.0,Crime
+Le Mohican,138,8.2,47.0,Crime
+Bangkok Dog,128,6.6,1300.0,Crime
+Unspoken,137,3.3,722.0,Crime
+Sorgavaasal,96,6.6,3400.0,Crime
+The Actor,164,6.7,2800.0,Crime
+Tillu Square,92,4.5,116.0,Crime
+"MoviePass, MovieCrash",133,8.0,3200.0,Crime
+Dirty Ice Cream,106,4.7,62.0,Crime
+Zebra,110,5.6,2000.0,Crime
+Jersey Bred,95,7.9,85.0,Crime
+Untold: The Murder of Air McNair,122,5.4,140.0,Crime
+The Kingdom,101,5.8,1200.0,Crime
+Un homme en fuite,95,6.3,589.0,Crime
+10 Days of a Curious Man,100,4.7,1100.0,Crime
+Plastic Guns,125,3.6,361.0,Crime
+Nahir,89,5.0,107.0,Crime
+Lady Scorpions,85,2.3,161.0,Crime
+Team of Two,94,5.1,251.0,Crime
+Ballistic,120,6.8,2900.0,Crime
+(Pri)sons,154,4.3,85.0,Crime
+Nunakuzhi,121,8.1,14.0,Crime
+"Hemet, or the Landlady Don't Drink Tea",79,7.0,52.0,Crime
+A Bronx Tale: The Original One Man Show,98,3.5,282.0,Crime
+Nefarious,120,6.7,495.0,Crime
+Killer Babes,110,6.4,2900.0,Crime
+Conquer: Lahad Datu,102,6.2,366.0,Crime
+Siren,146,5.6,44.0,Crime
+ChiefsAholic: A Wolf in Chiefs Clothing,131,8.4,15.0,Crime
+Krista,128,5.7,266.0,Crime
+The Pee Pee Poo Poo Man,111,8.0,1000.0,Crime
+Sayara,82,5.2,30.0,Crime
+Reloaded 2,114,7.3,216.0,Crime
+Abudeka Is Back,88,7.0,442.0,Crime
+Havnaa,89,5.8,652.0,Crime
+Kahar: Kapla High Council,100,5.8,311.0,Crime
+Bangkok Breaking: Heaven and Hell,142,8.1,33.0,Crime
+Estômago II: O Poderoso Chef,108,7.2,58.0,Crime
+Castillo,145,3.6,302.0,Crime
+Bozji gnjev,90,3.0,494.0,Crime
+9 Windows,96,4.0,357.0,Crime
+Silvio,135,7.9,83.0,Crime
+Murder and Cocktails,118,5.9,139.0,Crime
+The Waterboyz,114,6.7,1200.0,Crime
+Desperado,88,5.8,33.0,Crime
+Andhagan,133,7.5,1300.0,Crime
+No Cap,94,5.7,312.0,Crime
+Shakhahaari,119,5.0,75.0,Crime
+Drive,107,6.2,747.0,Crime
+The Mick and the Trick,119,8.8,20.0,Crime
+Love You to Debt,98,4.5,93.0,Crime
+Quotation Gang Part 1,109,7.1,22.0,Crime
+Red,85,6.9,1100.0,Crime
+Plea,99,4.6,77.0,Crime
+Sheriff,93,8.8,33.0,Crime
+Suspect,82,6.1,232.0,Crime
+Kingdom Reign,99,3.8,2800.0,Crime
+Hovering Blade,119,6.5,419.0,Crime
+"LSD 2: Love, Sex Aur Dhokha 2",133,9.4,56.0,Crime
+Loverboy: Emoties Uit,100,5.8,461.0,Crime
+Double or Nothing,136,4.8,432.0,Crime
+Happy Birthday Luci,137,5.3,99.0,Crime
+Troll Factory,172,4.6,228.0,Crime
+Wieczór kawalerski,135,5.4,306.0,Crime
+Miséria,105,4.8,745.0,Crime
+Prepare to Die,85,6.7,147.0,Crime
+Chris Brown: A History of Violence,86,6.0,30.0,Crime
+The Infallibles,142,5.0,290.0,Crime
+Priyo Maloti,89,5.0,44.0,Crime
+Chameleon,96,6.1,544.0,Crime
+The Texas Cheerleader Murder Plot,127,5.9,1300.0,Crime
+Dracula: The Count's Kin,138,8.0,31.0,Crime
+Bhaje Vaayu Vegam,108,7.6,136.0,Crime
+Dandupalayam,102,5.8,971.0,Crime
+Ten Toes Down,124,7.2,58.0,Crime
+Samandar,65,6.0,19.0,Crime
+Sentimentaaal,100,3.7,111.0,Crime
+Ghost Killer,90,5.5,199.0,Crime
+Zabt,156,6.2,1900.0,Crime
+Vares X,100,5.0,16.0,Crime
+Amish Affair,105,7.4,87.0,Crime
+Silence 2: The Night Owl Bar Shootout,95,5.7,145.0,Crime
+Below the Rim,106,5.0,1600.0,Crime
+Filthy Animals,82,6.3,184.0,Crime
+The Worst Man in London,114,5.3,106.0,Crime
+Saindhav,121,7.4,60.0,Crime
+Passages of Nexus,135,8.0,2200.0,Crime
+Hunt the Wicked,124,5.4,571.0,Crime
+Cubic Zirconia,90,4.9,60.0,Crime
+Sattam En Kaiyil,115,9.0,603.0,Crime
+Sinful Lies,114,4.7,572.0,Crime
+Vina: Before 7 Days,88,7.5,51.0,Crime
+Tumbadores,81,9.2,161.0,Crime
+Where Is Gilgamesh?,82,8.1,7.0,Crime
+Matka,95,7.0,28.0,Crime
+Passport,96,5.5,80.0,Crime
+"Extraction, USA",125,4.1,260.0,Crime
+Jamalinte Punjiri,113,6.3,1900.0,Crime
+Vrutos,96,7.9,3000.0,Crime
+RapeD,102,7.4,37.0,Crime
+Who Killed Terrance Brown?,143,6.4,3300.0,Crime
+Hustlers Take All,90,8.7,173.0,Crime
+Remedy,135,6.4,721.0,Crime
+Rautu Ka Raaz,110,6.7,773.0,Crime
+Shivam Bhaje,102,2.5,157.0,Crime
+Chor Dil,100,4.3,34.0,Crime
+Bastar: The Naxal Story,90,6.3,2400.0,Crime
+Swing Bout,95,4.5,126.0,Crime
+"Pooja, Sir",109,7.7,179.0,Crime
+Citizen of a Kind,139,6.7,1600.0,Crime
+Texas Twister,94,3.9,289.0,Crime
+Kiyma: Orman Kanunlari,117,6.2,38.0,Crime
+The Final: Attack on Wembley,90,6.9,15.0,Crime
+Kaulayaw,91,5.7,44.0,Crime
+Green Bones,79,7.4,5.0,Crime
+Sons of Rizk 3,108,5.8,571.0,Crime
+Tòkunbò,89,6.5,242.0,Crime
+Remember Us,125,5.8,23.0,Crime
+Silver Star,83,5.5,51.0,Crime
+Get Close 2,100,4.6,124.0,Crime
+Perfect Blue,110,4.8,361.0,Crime
+Case of Kondana,86,5.7,984.0,Crime
+The Shadow,132,6.4,509.0,Crime
+Chapter 51,89,5.1,204.0,Crime
+Bars,90,7.0,1600.0,Crime
+The Desperate Chase,115,5.3,75.0,Crime
+Wannabe,98,8.0,25.0,Crime
+The Plot,80,8.7,30.0,Crime
+Bodiless,93,5.5,249.0,Crime
+Breaking the Silence: The Maria Soledad Case,129,5.2,59.0,Crime
+Dead Man,116,4.1,141.0,Crime
+Mathu Vadalara 2,89,6.2,223.0,Crime
+The Unwavering Brotherhood,147,5.5,309.0,Crime
+Kiss of the Con Queen,80,9.2,6.0,Crime
+Uno,104,5.7,107.0,Crime
+Poslednji strelac,115,7.9,2300.0,Crime
+Dream Team,95,2.6,10.0,Crime
+The Star City Murders,107,2.8,249.0,Crime
+The Moon Thieves,104,5.9,1500.0,Crime
+The Best of Me,150,5.5,188.0,Crime
+Hit List,121,6.3,141.0,Crime
+Reputation,80,5.7,267.0,Crime
+Dirty Money,130,6.1,1500.0,Crime
+S.I.T,101,6.5,108.0,Crime
+Rock,86,8.1,106.0,Crime
+They Turned Us Into Killers,80,6.5,124.0,Crime
+Satyabhama,120,6.4,66.0,Crime
+Døde menn går på ski,109,6.7,251.0,Crime
+The Murder of Sandra Rivett,109,5.4,762.0,Crime
+Go for Broke,95,8.1,24.0,Crime
+Rob N Roll,83,5.0,304.0,Crime
+State of Silence,126,3.6,204.0,Crime
+Young Lion of the West,88,6.9,56.0,Crime
+Gold Boy,68,5.8,69.0,Crime
+Cry of Silence,97,7.7,85.0,Crime
+Svemu dodje kraj,103,8.8,43.0,Crime
+Kondal,135,8.2,308.0,Crime
+Searching for Amani,150,7.7,65.0,Crime
+The Shakedown,94,6.2,259.0,Crime
+Suspicion,108,8.9,13.0,Crime
+Duffle Bag Boy,93,8.0,31.0,Crime
+The Epidemic,101,8.2,19.0,Crime
+Modal Nekad,96,6.8,1700.0,Crime
+Breathe,84,5.9,239.0,Crime
+Vivekam,151,9.0,9.0,Crime
+Haunting Trophies,64,5.1,149.0,Crime
+The Experts,88,9.8,12.0,Crime
+M30 OXY,127,4.6,472.0,Crime
+Saint Michael of the City,150,8.3,43.0,Crime
+Cursed in Baja,140,6.2,151.0,Crime
+PT Sir,89,4.2,137.0,Crime
+Thirumbipaar,117,7.8,7.0,Crime
+The Donor,137,6.2,462.0,Crime
+Danger in the Dorm,90,2.5,19.0,Crime
+Pop the Pickel,138,5.4,105.0,Crime
+A Brothers Bond,91,8.9,166.0,Crime
+Formed Police Unit,148,6.5,336.0,Crime
+Nico,95,7.8,18.0,Crime
+Octopus with Broken Arms,100,6.0,47.0,Crime
+Io e te dobbiamo parlare,82,6.7,18.0,Crime
+Best Man Dead Man,100,6.5,343.0,Crime
+Tiger Wolf Rabbit,72,5.9,40.0,Crime
+Bond of Justice: Kizuna Part II - Judgement,73,5.2,13.0,Crime
+Common Sense,156,6.8,21.0,Crime
+We Are Tourists,147,6.7,85.0,Crime
+Martingale,130,6.5,87.0,Crime
+Yalakunni,154,6.0,551.0,Crime
+Vojna policajtov,165,6.5,48.0,Crime
+Nastupit leto,122,7.3,12.0,Crime
+Una ballena,126,6.5,30.0,Crime
+Mani nude,123,6.7,2200.0,Crime
+Pathological: The Lies of Joran van der Sloot,120,5.3,307.0,Crime
+La mort viendra,79,5.6,64.0,Crime
+Piano Love,100,4.7,66.0,Crime
+Killerwood,98,7.0,2400.0,Crime
+Dutch II: Angel's Revenge,145,4.3,218.0,Crime
+The Notorious Finster,100,6.6,32.0,Crime
+Chithini,117,5.8,947.0,Crime
+Diari de la meva sextorsió,90,2.9,45.0,Crime
+Bury Him,117,6.6,59.0,Crime
+Routa,93,6.8,65.0,Crime
+Kaliyugam Pattanamlo,120,7.9,474.0,Crime
+Gam Gam Ganesha,86,4.6,229.0,Crime
+Holiday Hold-Up,84,8.1,162.0,Crime
+Brattt,63,5.9,26.0,Crime
+Nasha Jurm Aur Gangsters,138,7.7,3000.0,Crime
+What Happens in Miami,128,5.0,899.0,Crime
+Raqeeb Pashto New Film,116,6.1,525.0,Crime
+Shu Si Yi Bo,100,5.7,63.0,Crime
+Bheema,122,4.9,488.0,Crime
+Hain,95,6.1,1500.0,Crime
+Protein,132,7.0,16.0,Crime
+The Troll Hunter,87,5.8,20.0,Crime
+GATAO: Like Father Like Son,102,6.0,42.0,Crime
+CHAAW: Chapter 3 - Christmas Time Is Here,85,5.8,497.0,Crime
+Hani,100,6.5,124.0,Crime
+Thankamani,93,8.3,148.0,Crime
+Baba Yaga,96,5.8,61.0,Crime
+Tschugger - Der Lätscht Fall,103,5.6,220.0,Crime
+RTI,82,6.7,70.0,Crime
+Harom Hara,80,7.2,18.0,Crime
+Gangs of Godavari,107,6.9,2000.0,Crime
+Nirangal Moondru,105,8.7,21.0,Crime
+Murder in the Village: Who Killed the Doctor's Wife?,74,6.4,22.0,Crime
+Pepe,95,6.0,261.0,Crime
+Yevam,110,6.7,502.0,Crime
+Assault in Progress,85,8.1,417.0,Crime
+Stealing Vows,90,3.2,64.0,Crime
+Blue Christmas,97,5.0,75.0,Crime
+Scopophobia,109,7.0,152.0,Crime
+The Storm,107,5.9,125.0,Crime
+Gumasthan,80,7.0,43.0,Crime
+Passagrana,115,4.6,332.0,Crime
+Secret Home,84,8.0,36.0,Crime
+Welcome to the Game,90,8.0,26.0,Crime
+Pattaya Heat,146,6.3,147.0,Crime
+Uninvited,87,7.0,19.0,Crime
+Hyde Out,79,9.0,8.0,Crime
+The Heist,122,6.0,10.0,Crime
+Nietzsche's Umbrella,98,7.0,15.0,Crime
+We Run These Streets,116,8.0,23.0,Crime
+Unknown Caller,125,5.0,100.0,Crime
+Money No Enough 3,105,6.9,42.0,Crime
+Oru Nodi,107,5.6,145.0,Crime
+Chacaleria,144,6.6,118.0,Crime
+Rebel,133,6.4,27.0,Crime
+The Good Loan Sharks,106,7.0,22.0,Crime
+Anyone Else But Me,89,4.0,17.0,Crime
+Blackia 2,89,6.3,10.0,Crime
+The Legend of DOC MAYS,74,6.6,529.0,Crime
+Kunstroof,108,7.8,15.0,Crime
+Midas,120,7.9,23.0,Crime
+All That Glitters,135,6.5,496.0,Crime
+The Legend of the Vagabond Queen of Lagos,100,5.8,18.0,Crime
+Murder in a Teacup,90,7.7,7.0,Crime
+Dirty Thirty,81,6.4,63.0,Crime
+Vergüenza,123,6.6,530.0,Crime
+Ryding Durty,93,6.6,27.0,Crime
+The Hostage,82,6.8,15.0,Crime
+One Last Time,96,6.0,41.0,Crime
+Beneath the Fold,96,4.7,10.0,Crime
+Porch Pirates,107,4.6,12.0,Crime
+Second Life,88,8.2,11.0,Crime
+Kokuhaku Confession,68,9.5,49.0,Crime
+Taxali Gate,76,6.2,635.0,Crime
+Historias invisibles,98,9.3,46.0,Crime
+Scapegoat,93,9.5,39.0,Crime
+Lolipop Gang,98,4.3,18.0,Crime
+Vampire's House of Cain,115,7.4,777.0,Crime
+Die Bloedhonde,104,5.9,59.0,Crime
+Kurukku,79,5.5,41.0,Crime
+Pinwheelz,94,5.1,49.0,Crime
+The Brokenhearted,134,6.1,18.0,Crime
+Jog 101,82,5.6,18.0,Crime
+The Sin of Flowers,80,5.4,34.0,Crime
+Con Queens,138,4.8,97.0,Crime
+Muroi Shinji: Yaburezaru Mono,127,7.4,8.0,Crime
+The Hitmen,96,6.5,29.0,Crime
+Landkrimi: Steirergift,152,4.5,13.0,Crime
+Prasanna Vadanam,135,7.0,38.0,Crime
+The Bodyguard,86,7.1,35.0,Crime
+Then Came the Bottle Girls,115,6.2,152.0,Crime
+We Came to Wreck Everything,163,5.7,73.0,Crime
+Kala Ratri,177,7.1,31.0,Crime
+Housekeeping,141,6.2,36.0,Crime
+Push,94,7.3,27.0,Crime
+Lipstick on the Glass,101,5.0,21.0,Crime
+Above the Trees,81,7.8,6.0,Crime
+Marine Drive,78,7.0,10.0,Crime
+Illusions for Sale: The Rise and Fall of Generation Zoe,99,6.3,32.0,Crime
+Bigul,65,6.8,11.0,Crime
+Metamorfosi dell'essere,112,8.2,1100.0,Crime
+Treasures of Terror Vol 1,120,9.4,20.0,Crime
+Accident or Conspiracy: Godhra,98,6.7,76.0,Crime
+Telekinesis,106,8.3,14.0,Crime
+Charlotte Link - Ohne Schuld,86,8.8,37.0,Crime
+Liebling Kreuzberg 2.0,100,5.2,33.0,Crime
+The 6th,105,6.5,56.0,Crime
+Goon Squad,94,6.4,20.0,Crime
+Game Over,123,6.4,72.0,Crime
+Wicked Season,85,5.3,81.0,Crime
+Three Old Boys,135,4.4,25.0,Crime
+Gini Avi Saha Gini Keli 2,94,9.3,100.0,Crime
+Evil Among Us: The Grim Sleeper,110,7.0,180.0,Crime
+Aaro,156,4.5,14.0,Crime
+Molar,86,8.2,16.0,Crime
+Little Jaffna,73,8.8,41.0,Crime
+Dickweed,85,4.5,14.0,Crime
+Meitantei Conan Bâsasu Kaitô Kiddo,100,7.0,15.0,Crime
+Dengeler,90,5.5,92.0,Crime
+Cafe 404,183,9.3,70.0,Crime
+Dark Deceptions,84,7.9,1500.0,Crime
+Road to Terzetto,108,8.9,156.0,Crime
+Find Me,90,6.4,17.0,Crime
+"Fallen Leaves, Broken Lighters",133,5.9,81.0,Crime
+The Ties That Bind,78,7.3,12.0,Crime
+The Bottom Line,165,4.6,86.0,Crime
+Deadly Ruphoria,117,5.1,37.0,Crime
+The Last Vendetta,63,6.7,8.0,Crime
+Gumbo 2,96,7.0,17.0,Crime
+Blood and Black,91,2.4,14.0,Crime
+7vens Law,145,8.2,38.0,Crime
+The Clan,83,8.6,21.0,Crime
+Maloney - Die ersten drei haarsträubenden Fälle,68,6.8,9.0,Crime
+Whatever It Takes,113,6.4,15.0,Crime
+Valleyheart,104,5.5,184.0,Crime
+Blood Dried Hands,115,7.0,30.0,Crime
+Vallavan Vaguthadhada,96,8.9,49.0,Crime
+A Question of Guilt,130,7.8,13.0,Crime
+Paraagan,84,9.5,37.0,Crime
+Los Justos,133,6.4,459.0,Crime
+Gossip to Die For,117,6.9,146.0,Crime
+Indelebile,118,5.2,209.0,Crime
+Lady Thug,90,2.9,61.0,Crime
+Raja Rani,127,7.9,19.0,Crime
+Red Night at Skye's,111,7.5,33.0,Crime
+G - 21 scener från Gottsunda,111,6.7,11.0,Crime
+Raavsaheb,122,5.7,8.0,Crime
+Chitram Choodara,117,5.7,2400.0,Crime
+Gull Lake Vice II: The Delusion Continues,127,4.8,17.0,Crime
+Rhino Man,85,5.7,57.0,Crime
+The Cold Ground,88,7.4,1600.0,Crime
+Dark World,91,9.5,6.0,Crime
+West End Murders,110,4.2,78.0,Crime
+Desperate Sniper,94,6.8,236.0,Crime
+Walk the Line,115,6.4,5.0,Crime
+Supplier Shankara,87,7.5,47.0,Crime
+Don't Love,120,9.1,89.0,Crime
+Villain - Life of a Gangster,71,4.7,91.0,Crime
+You Can Only Blink Once,91,6.3,27.0,Crime
+His Truth Her Truth the Truth,100,7.9,24.0,Crime
+Take Good Care,130,7.3,258.0,Crime
+Dank Frank,99,7.2,33.0,Crime
+Myall Creek Day of Justice,72,7.5,51.0,Crime
+The Victims,90,6.8,174.0,Crime
+Shadows of Betrayal: Chronicles of Ian Blair,115,8.2,9.0,Crime
+East Bay Confidential,82,3.8,39.0,Crime
+"Fear, Forget My Name",90,7.0,152.0,Crime
+Untouchable,98,9.0,11.0,Crime
+Thozhar Che Guevara,109,7.5,2300.0,Crime
+Jafaican,81,4.1,96.0,Crime
+Common Creed: Trafficking,104,8.5,1400.0,Crime
+The Cold Father,76,5.6,27.0,Crime
+Break War,129,7.5,406.0,Crime
+Soch - A perception,76,3.4,13.0,Crime
+Dream Lock,77,7.5,141.0,Crime
+The Bitter Sugar,82,7.9,551.0,Crime
+Miss Merkel - Ein Uckermark-Krimi 2,90,9.7,61.0,Crime
+Nero,135,8.3,28.0,Crime
+Nelma Kodama: The Queen of Dirty Money,94,8.0,12.0,Crime
+The Stix,121,8.8,25.0,Crime
+Youn'G,70,9.2,545.0,Crime
+"Bullets, Brothers and Blood",70,7.0,10.0,Crime
+Maven,84,5.5,14.0,Crime
+Mafia,126,5.2,45.0,Crime
+Muzhskoe slovo,88,5.3,9.0,Crime
+Insurance Jimmy,120,6.4,8.0,Crime
+DNA,123,6.3,16.0,Crime
+Koresha,101,8.8,25.0,Crime
+Super Vixens 6,120,5.3,13.0,Crime
+Hocus Focus,92,6.6,10.0,Crime
+Leaf Life,125,8.9,12.0,Crime
+Midnight Taxi,102,4.0,37.0,Crime
+Pungut,97,6.2,28.0,Crime
+The Film Café,114,7.5,7.0,Crime
+I Awoke Early the Day I Died,89,5.8,54.0,Crime
+The Essex Boys Tapes,123,8.0,7.0,Crime
+Lorry Chapter-1,81,6.2,22.0,Crime
+Real Estate Sisters,146,8.8,577.0,Crime
+Light House,110,7.8,9.0,Crime
+Salvajes,114,8.9,20.0,Crime
+Theppa Samudram,86,7.1,97.0,Crime
+Gde nashi dengi?,140,5.5,55.0,Crime
+Lesní vrah,108,8.8,8.0,Crime
+Mirza: Part 1 - Joker,104,8.5,46.0,Crime
+My Home Hero the Movie,127,8.6,35.0,Crime
+Tiempo de Pagar,125,8.0,18.0,Crime
+Malvila Farm,90,5.4,16.0,Crime
+Opportunity,106,6.0,9.0,Crime
+The London Underground Killer,96,8.8,15.0,Crime
+Lipstick,102,8.2,11.0,Crime
+Tikri Farai,161,8.2,5.0,Crime
+Agent Jayne,121,5.5,19.0,Crime
+Rangeet,78,5.0,16.0,Crime
+Rancor,75,8.8,23.0,Crime
+Her Majesty the Queen: Behind Closed Doors,90,3.2,1100.0,Crime
+Dangerous Rumors,106,9.8,99.0,Crime
+Niyathi,84,7.7,43.0,Crime
+La Reserva,80,7.2,13.0,Crime
+La Tamalera,94,9.2,34.0,Crime
+Who Do You Trust?,100,6.5,25.0,Crime
+Siragan,81,4.0,6.0,Crime
+Dead Name,107,9.4,93.0,Crime
+Paarijathaparvam,146,6.2,14.0,Crime
+Laandhar,97,9.4,209.0,Crime
+Section 302 - Aynamohol,92,9.1,183.0,Crime
+Raktaksha,82,6.0,113.0,Crime
+Abnormal: Buas,90,8.7,2100.0,Crime
+Aranam,88,7.3,27.0,Crime
+Memphganistan,87,3.6,18.0,Crime
+Jin Qian Bao Lei,107,8.2,1600.0,Crime
+Crime Reel,140,7.5,1100.0,Crime
+Ugravatara,100,8.4,20.0,Crime
+4N6,143,7.7,34.0,Crime
+Yathabhava,97,6.5,44.0,Crime
+The Burned Hand,91,7.2,2100.0,Crime
+Bayamariya Brammai,66,6.4,9.0,Crime
+Duplicitous Minds,95,6.9,28.0,Crime
+Buenas noches,75,5.2,58.0,Crime
+Jalandhara,90,6.7,11.0,Crime
+Jimmy's Friends,71,6.1,17.0,Crime
+Atlanta 10.02,80,8.6,10.0,Crime
+A Frozen Rage,84,6.8,31.0,Crime
+Sonti,106,2.2,18.0,Crime
+Vanished: The Lucie Blackman Mystery,92,6.0,26.0,Crime
+Seeruwen,98,6.7,29.0,Crime
+The Hole Story,105,8.2,9.0,Crime
+Angry Squad: Civil Servants & Seven Swindlers,63,7.2,8.0,Crime
+Jama,112,6.1,18.0,Crime
+Los Alamos,82,8.2,25.0,Crime
+Sounds of the Streets,86,7.8,10.0,Crime
+Halfway House Series,82,7.0,34.0,Crime
+Varchasva,119,9.5,14.0,Crime
+Jada,70,4.5,13.0,Crime
+The Deal,109,6.4,42.0,Crime
+The Station Strangler,137,2.3,42.0,Crime
+The Place Between,81,6.6,22.0,Crime
+What Lies Within,157,9.0,6.0,Crime
+Tricks,130,8.7,8.0,Crime
+ONENESS,83,8.5,8.0,Crime
+The Siege: Archangel One,127,9.0,2000.0,Crime
+Thirsty for Likes,133,8.2,11.0,Crime
+Mafia Temptation,77,7.2,10.0,Crime
+The Real Story of January 6: Part 2 - The Long Road Home,90,8.0,11.0,Crime
+Shina,82,3.9,18.0,Crime
+Pink Butterfly,114,5.3,7.0,Crime
+Bloody Money,154,8.8,14.0,Crime
+¿Quién Mató al Patrón?,75,4.1,27.0,Crime
+The Mother God,85,6.7,9.0,Crime
+Kaçkin,72,3.5,156.0,Crime
+Who Killed Angel Adams?,90,9.2,11.0,Crime
+5D,68,7.6,11.0,Crime
+A Hateful Enemy,129,9.2,10.0,Crime
+Treasures of Terror Vol 2,83,6.8,5.0,Crime
+Shades of Sapphire,91,9.2,12.0,Crime
+Sniper Elite: Nanocrisis,79,8.4,9.0,Crime
+The Codfather,126,6.4,10.0,Crime
+Kenda,76,8.0,10.0,Crime
+Up North,90,3.3,19.0,Crime
+An Ordinary Killer,122,5.7,136.0,Crime
+Novyy god v Beryozovke,103,8.0,9.0,Crime
+Dai jia fa de ren,80,7.3,44.0,Crime
+The Kills,93,6.9,57.0,Crime
+Vipers,99,8.0,9.0,Crime
+Oppa,120,8.2,5.0,Crime
+Samhain,77,8.2,34.0,Crime
+Abduction Chronicles,78,3.0,13.0,Crime
+Mothers of Chibok,133,8.5,7.0,Crime
+Public Defender,140,8.0,9.0,Crime
+Even the Score,113,8.7,8.0,Crime
+The Great British Heist,95,5.9,8.0,Crime
+SMB-plush presents trick or death,85,9.4,33.0,Crime
+Moana 2,100,6.7,87000.0,Fantasy
+Flow,85,7.9,58000.0,Fantasy
+Nosferatu,132,7.3,178000.0,Fantasy
+Wicked,160,7.5,141000.0,Fantasy
+Sonic the Hedgehog 3,110,6.9,52000.0,Fantasy
+Parthenope,137,6.7,9000.0,Fantasy
+Mufasa: The Lion King,118,6.6,47000.0,Fantasy
+Better Man,135,7.6,22000.0,Fantasy
+The Lord of the Rings: The War of the Rohirrim,134,6.3,28000.0,Fantasy
+The Life of Chuck,110,7.7,459.0,Fantasy
+Megalopolis,138,4.7,34000.0,Fantasy
+The Watchers,102,5.7,55000.0,Fantasy
+Beetlejuice Beetlejuice,105,6.7,143000.0,Fantasy
+Inside Out 2,96,7.5,211000.0,Fantasy
+The Crow,111,4.7,32000.0,Fantasy
+Red One,123,6.3,137000.0,Fantasy
+Transformers One,104,7.6,47000.0,Fantasy
+Solo Leveling: ReAwakening,121,8.7,6800.0,Fantasy
+Damsel,110,6.1,108000.0,Fantasy
+IF,104,6.4,57000.0,Fantasy
+Ghostbusters: Frozen Empire,115,6.1,92000.0,Fantasy
+Godzilla x Kong: The New Empire,115,6.1,119000.0,Fantasy
+Harold and the Purple Crayon,90,5.7,7900.0,Fantasy
+Uglies,100,4.7,32000.0,Fantasy
+Kung Fu Panda 4,94,6.3,67000.0,Fantasy
+The Garfield Movie,101,5.7,24000.0,Fantasy
+Kalki 2898 AD,180,7.0,66000.0,Fantasy
+Descendants: The Rise of Red,91,4.7,6900.0,Fantasy
+Rebel Moon - Part Two: The Scargiver,122,5.3,59000.0,Fantasy
+Spellbound,109,5.7,6300.0,Fantasy
+Hagen,139,6.1,1000.0,Fantasy
+The End,148,5.5,1600.0,Fantasy
+Monster Summer,97,5.7,3500.0,Fantasy
+The Tearsmith,103,5.2,12000.0,Fantasy
+Saving Bikini Bottom: The Sandy Cheeks Movie,82,3.7,3700.0,Fantasy
+Girl Haunts Boy,100,6.3,2800.0,Fantasy
+Irish Wish,93,5.2,21000.0,Fantasy
+Family Pack,94,5.5,8700.0,Fantasy
+The Wonderful Story of Henry Sugar and Three More,88,7.1,6200.0,Fantasy
+The American Society of Magical Negroes,104,3.7,12000.0,Fantasy
+Orion and the Dark,93,6.3,17000.0,Fantasy
+Dear Santa,107,5.4,18000.0,Fantasy
+The Best Christmas Pageant Ever,99,6.8,6000.0,Fantasy
+Bhool Bhulaiyaa 3,158,4.7,77000.0,Fantasy
+The Balconettes,104,6.3,738.0,Fantasy
+The Sand Castle,98,4.7,1600.0,Fantasy
+Justice League: Crisis on Infinite Earths - Part One,93,6.2,8300.0,Fantasy
+Pedro Páramo,130,6.3,2800.0,Fantasy
+That Christmas,91,6.8,17000.0,Fantasy
+Thelma the Unicorn,93,5.7,2900.0,Fantasy
+A Dog's Will 2,104,6.3,2700.0,Fantasy
+This Is Me... Now,65,4.1,7100.0,Fantasy
+Justice League: Crisis on Infinite Earths - Part Three,94,6.1,4300.0,Fantasy
+The Tiger's Apprentice,84,5.7,2100.0,Fantasy
+The Lost Tiger,90,7.8,34.0,Fantasy
+Hot Frosty,92,5.3,14000.0,Fantasy
+200% Wolf,98,6.0,1300.0,Fantasy
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,104,7.1,8300.0,Fantasy
+Unspeakable: Beyond the Wall of Sleep,90,5.9,37.0,Fantasy
+The Witch: Revenge,100,5.3,775.0,Fantasy
+Timestalker,89,5.5,2900.0,Fantasy
+Ultraman: Rising,117,6.9,6200.0,Fantasy
+Angels Fallen: Warriors of Peace,103,4.9,5800.0,Fantasy
+10 Lives,88,5.9,1800.0,Fantasy
+Doraemon the Movie: Nobita's Earth Symphony,115,6.6,1400.0,Fantasy
+Cinderella's Curse,82,3.3,1300.0,Fantasy
+The Magician's Raincoat,70,5.6,87.0,Fantasy
+The Thundermans Return,100,5.0,1800.0,Fantasy
+Woody Woodpecker Goes to Camp,84,4.5,2500.0,Fantasy
+Mars,83,8.9,19.0,Fantasy
+Dan Da Dan: First Encounter,94,8.2,2600.0,Fantasy
+Justice League: Crisis on Infinite Earths - Part Two,152,5.5,5200.0,Fantasy
+Harry Potter and the Stone,93,8.0,155.0,Fantasy
+Buffalo Kids,158,6.6,633.0,Fantasy
+Hanu Man,103,7.7,29000.0,Fantasy
+Woodwalkers,98,5.4,348.0,Fantasy
+Dragonkeeper,84,5.7,1600.0,Fantasy
+Seven Cemeteries,85,4.5,497.0,Fantasy
+Cinderella's Revenge,94,3.7,1100.0,Fantasy
+Man and Witch: The Dance of a Thousand Steps,152,5.5,326.0,Fantasy
+Kanguva,107,4.5,14000.0,Fantasy
+Witch,109,5.1,1400.0,Fantasy
+Cells at Work!,86,6.8,168.0,Fantasy
+The Slave and the Sorcerer,118,6.7,37.0,Fantasy
+Chantal in Fairyland,97,4.6,2600.0,Fantasy
+Ghost Cat Anzu,107,6.5,701.0,Fantasy
+Dalia y el Libro Rojo,135,6.7,49.0,Fantasy
+Overlord: The Sacred Kingdom,94,7.0,699.0,Fantasy
+Rebellious,150,6.0,160.0,Fantasy
+A.R.M,100,7.1,8500.0,Fantasy
+Robin and the Hoods,80,4.4,504.0,Fantasy
+The Night Before Christmas in Wonderland,95,6.3,508.0,Fantasy
+Tim Travers & the Time Travelers Paradox,90,6.9,273.0,Fantasy
+Devil's Knight,156,5.4,777.0,Fantasy
+Thangalaan,89,6.6,6500.0,Fantasy
+Mononoke the Movie: The Phantom in the Rain,105,6.8,1200.0,Fantasy
+School of Magical Animals 3,93,5.9,297.0,Fantasy
+A Trip Elsewhere,94,5.6,95.0,Fantasy
+Warchief,87,2.5,602.0,Fantasy
+Lesbian Space Princess,145,8.1,96.0,Fantasy
+Balestra,111,5.1,510.0,Fantasy
+The Invisibles,80,5.9,453.0,Fantasy
+Super-Charlie,80,6.3,104.0,Fantasy
+Ryan's World the Movie: Titan Universe Adventure,79,1.8,643.0,Fantasy
+"Love, Danielle",92,8.9,38.0,Fantasy
+Sketch,122,8.3,42.0,Fantasy
+Alienoid: The Return to the Future,112,6.5,2500.0,Fantasy
+My Oni Girl,100,6.0,1700.0,Fantasy
+Else,70,6.1,223.0,Fantasy
+Snatched a Billionaire to Be My Husband,94,7.6,649.0,Fantasy
+Spirit World,84,5.8,56.0,Fantasy
+Shrek 5: The Contract - A Fan Made Film,133,7.0,18.0,Fantasy
+White Snake: Afloat,80,6.9,429.0,Fantasy
+Witch Hunter,109,5.2,21.0,Fantasy
+The Keepers of the 5 Kingdoms,83,4.1,216.0,Fantasy
+Orang Ikan,84,6.5,31.0,Fantasy
+Panda Bear in Africa,100,5.5,308.0,Fantasy
+The Goat,112,6.0,90.0,Fantasy
+The Yin Yang Master Zero,103,5.7,257.0,Fantasy
+The Legend Hunters,147,5.0,17.0,Fantasy
+Assassin's Guild,119,3.7,111.0,Fantasy
+Gaami,93,6.4,2000.0,Fantasy
+The Phantom Warrior,90,2.4,552.0,Fantasy
+Nonostante,90,5.9,68.0,Fantasy
+Once Upon a Christmas Wish,106,6.1,313.0,Fantasy
+Seven Seas Seven Hills,155,8.6,85.0,Fantasy
+The Opera!,85,7.1,45.0,Fantasy
+Barroz: Guardian of Treasures,70,3.5,943.0,Fantasy
+Witchy Ways,113,6.9,35.0,Fantasy
+Zak & Wowo: The Legend of Lendarys,122,5.7,86.0,Fantasy
+Schneewittchen,101,8.8,129.0,Fantasy
+Mayan,111,4.7,144.0,Fantasy
+The Sisters,88,5.2,116.0,Fantasy
+Phallacies,80,4.3,191.0,Fantasy
+Vertical,84,2.4,458.0,Fantasy
+SuperKlaus,103,6.7,505.0,Fantasy
+The Woods Are Real,89,5.6,153.0,Fantasy
+We Work for the Dead,93,5.6,652.0,Fantasy
+Schirkoa: In Lies We Trust,61,6.9,21.0,Fantasy
+The Casagrandes Movie,98,5.0,72.0,Fantasy
+Heartsping : Teenieping of Love,148,6.2,530.0,Fantasy
+Vidente por Acidente,98,6.4,47.0,Fantasy
+Big City Greens the Movie: Spacecation,86,6.3,634.0,Fantasy
+"Maya, donne-moi un titre",101,3.2,204.0,Fantasy
+Dr. Sander's Sleep Cure,95,6.7,33.0,Fantasy
+Empire Queen: The Golden Age of Magic,107,5.0,89.0,Fantasy
+Spirit Riser,90,3.4,64.0,Fantasy
+Elli and the Ghostly Ghost Train,120,9.6,42.0,Fantasy
+The Vord,88,6.4,23.0,Fantasy
+The Heartsmith,102,7.6,1800.0,Fantasy
+Fureru,134,7.0,136.0,Fantasy
+Nyctophobia,74,7.2,17.0,Fantasy
+Dead Dead Demon's Dededede Destruction,97,7.0,23.0,Fantasy
+Perdiendo el Juicio,71,3.0,301.0,Fantasy
+King Baby,96,5.2,201.0,Fantasy
+River of Ghosts,105,5.4,169.0,Fantasy
+The Traveller,105,6.5,50.0,Fantasy
+Universal Groove,110,6.4,54.0,Fantasy
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,100,5.8,172.0,Fantasy
+Intercambiadas,91,4.8,2200.0,Fantasy
+Hiçbir Sey Normal Degil,112,7.1,41.0,Fantasy
+Captain Avispa,134,7.3,89.0,Fantasy
+A Song from the Dark,100,6.4,348.0,Fantasy
+The Fisherman,76,6.4,15.0,Fantasy
+Last Song for You,107,8.8,43.0,Fantasy
+Taisu Xilie,82,3.8,290.0,Fantasy
+Enchanting Christmas,88,6.4,70.0,Fantasy
+Nie Xiaoqian,99,5.8,264.0,Fantasy
+Deadlands - A Fly Story,137,8.4,65.0,Fantasy
+Bhairadevi,90,6.5,147.0,Fantasy
+Letuchiy korabl,156,7.4,5.0,Fantasy
+"Die Heinzels: Neue Mützen, Neue Mission",84,8.2,80.0,Fantasy
+Rita,98,6.3,1100.0,Fantasy
+Dragon Ball Z Kai,99,7.2,12.0,Fantasy
+Bodegón con fantasmas,112,6.3,170.0,Fantasy
+Perfect Blue,98,3.7,168.0,Fantasy
+Dongeng Sang Kancil,129,6.8,5.0,Fantasy
+Aalan,82,4.4,113.0,Fantasy
+Joachim and the Apocalypse,93,8.3,8.0,Fantasy
+Kajolrekha,97,6.1,98.0,Fantasy
+Letters at Christmas,98,6.6,9.0,Fantasy
+Penguin Girl,86,7.7,92.0,Fantasy
+Case Files,115,5.8,68.0,Fantasy
+Baba Yaga spasaet Novyy god,110,3.0,13.0,Fantasy
+Fragments of Us,103,6.4,107.0,Fantasy
+Videotheque,110,7.0,48.0,Fantasy
+Hold Me Close,90,7.8,7.0,Fantasy
+Oshi no Ko: The Final Act,135,8.3,47.0,Fantasy
+The Time Travel Hills,96,7.6,66.0,Fantasy
+Saint Young Men: Holy Men vs Demon Army,86,5.6,84.0,Fantasy
+"Don't Cry, Butterfly",130,5.2,546.0,Fantasy
+Don Dukun,95,5.6,45.0,Fantasy
+Fidil Ghorm,80,6.9,669.0,Fantasy
+Carol,109,7.8,49.0,Fantasy
+Planet 7693,102,6.8,95.0,Fantasy
+All In,72,6.3,299.0,Fantasy
+The Sleeping Woman,84,5.7,7.0,Fantasy
+The Evil Fairy Queen,71,5.8,69.0,Fantasy
+UmroAyyar - A New Beginning,110,3.8,152.0,Fantasy
+Noaptea lui Vlad,105,6.8,12.0,Fantasy
+Hanami,105,7.0,16.0,Fantasy
+Niko: Beyond the Northern Lights,107,5.3,13.0,Fantasy
+Naag Bhoomi,109,7.5,20.0,Fantasy
+The Epidemic,103,7.1,98.0,Fantasy
+Princesa Adormecida,82,7.0,26.0,Fantasy
+River Returns,119,5.5,1500.0,Fantasy
+The Seductress from Hell,108,4.4,36.0,Fantasy
+Gypsy Moon,138,6.5,901.0,Fantasy
+Sunce nikad vise,105,7.4,92.0,Fantasy
+The Proud Princess,107,8.5,45.0,Fantasy
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,118,7.2,36.0,Fantasy
+Pechi,108,7.5,30.0,Fantasy
+Vampire Genesis,71,7.5,6.0,Fantasy
+Traces of Love,72,6.0,47.0,Fantasy
+The Secret of Pin-Up Island,90,5.9,83.0,Fantasy
+My Future You,84,5.4,213.0,Fantasy
+War of the Ninja Monsters: Jaron vs Goura,79,6.0,114.0,Fantasy
+Un cuento de pescadores,102,6.8,137.0,Fantasy
+Fuuto PI: Portrait of Kamen Rider Skull,102,5.4,61.0,Fantasy
+Advent,102,8.5,24.0,Fantasy
+Una ballena,120,4.7,59.0,Fantasy
+Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,110,7.2,17.0,Fantasy
+Ognivo,120,3.5,80.0,Fantasy
+Si Juki the Movie: Harta Pulau Monyet,123,6.5,801.0,Fantasy
+Into the Mortal World,114,5.7,21.0,Fantasy
+Mephisto,90,5.8,20.0,Fantasy
+Il ladro di stelle cadenti,84,6.0,87.0,Fantasy
+Princess Halle and the Jester,156,3.5,144.0,Fantasy
+Nature Cat's Nature Movie Special Extraordinaire,83,4.8,37.0,Fantasy
+Wayward Sisters,93,8.0,36.0,Fantasy
+Askepote,93,7.5,15.0,Fantasy
+Domovyonok Kuzya,81,8.1,21.0,Fantasy
+Les tempêtes,120,6.8,12.0,Fantasy
+Blue Christmas,99,7.9,29.0,Fantasy
+Spin the Wheel,112,8.9,54.0,Fantasy
+Ebenezer: The Traveler,100,5.2,24.0,Fantasy
+The Jester from Transylvania,94,5.1,51.0,Fantasy
+The Worlds Divide,88,6.0,4100.0,Fantasy
+JAPA,95,4.1,19.0,Fantasy
+Two Breaths,81,6.7,66.0,Fantasy
+Dream Thief,121,6.9,52.0,Fantasy
+Four Nights in Fear Forest,120,4.7,8.0,Fantasy
+Wonderland,101,5.0,1200.0,Fantasy
+Nueva Tierra,133,6.1,32.0,Fantasy
+Maxxie LaWow: Drag Super-shero,105,6.8,24.0,Fantasy
+White Cobra Diamond Fox vs the Golden Eye,125,5.8,277.0,Fantasy
+Cedric & Alysia,96,6.3,11.0,Fantasy
+Malaikottai Vaaliban,149,6.7,124.0,Fantasy
+Snake Skin Beauty,103,2.8,256.0,Fantasy
+Yao Shen Ling,115,7.9,20.0,Fantasy
+Bloody Mary,105,9.0,2000.0,Fantasy
+The Gesuidouz,70,7.0,137.0,Fantasy
+Fights Break Sphere 3,98,5.4,34.0,Fantasy
+Double Tuckerr,94,5.7,1700.0,Fantasy
+Mother Maker Lover Taker,87,2.4,127.0,Fantasy
+Beast of Two Worlds,92,7.4,24.0,Fantasy
+Respati,98,7.8,6.0,Fantasy
+The Beads,137,5.8,71.0,Fantasy
+The Ballad of Hortensia,96,7.9,15.0,Fantasy
+Turma da Mônica Jovem: Reflexos do Medo,95,6.9,59.0,Fantasy
+PinkCity: A Psychedelic Meditation,80,6.5,39.0,Fantasy
+The Eye of the Salamander,74,7.6,13.0,Fantasy
+Wedding Diaries,110,7.1,29.0,Fantasy
+Dead Dead Demon's Dededede Destruction Zenpen,97,7.3,19.0,Fantasy
+Wicked Season,81,5.3,6.0,Fantasy
+Paralokam,82,5.6,17.0,Fantasy
+Ooru Peru Bhairavakona,91,8.5,33.0,Fantasy
+Samaya bolshaya luna,90,3.1,66.0,Fantasy
+Achilles Curse and the Curse of Treasure,65,5.6,16.0,Fantasy
+"Fallen Leaves, Broken Lighters",86,5.5,48.0,Fantasy
+Hakkenden,95,5.6,63.0,Fantasy
+Fushigi Dagashiya Zenitendo,73,6.5,13.0,Fantasy
+Ienai Himitsu,205,3.9,25.0,Fantasy
+Woof Woof Daddy,122,4.8,23.0,Fantasy
+Iron Nest of the Moon,115,9.3,63.0,Fantasy
+Tokusou Sentai Dekaranger 20th: Fireball Booster,80,3.9,134.0,Fantasy
+Inazuma Eleven Movie: The Legendary Kickoff,64,5.8,30.0,Fantasy
+"The Girl, the Hunter & the Firefly",80,4.3,27.0,Fantasy
+Keo=peul-ji-ok,76,7.6,16.0,Fantasy
+10/31 Part 4,66,5.4,424.0,Fantasy
+Vincent,102,6.2,16.0,Fantasy
+Vasilisa i khraniteli vremeni,99,8.6,18.0,Fantasy
+Pushpaka Vimanam,101,7.5,26.0,Fantasy
+Estación Wadley,110,5.7,9.0,Fantasy
+The Umbrella Fairy,61,6.1,23.0,Fantasy
+Princezna na hrásku,72,3.7,8.0,Fantasy
+Brush of the God,114,4.3,289.0,Fantasy
+Casa de Novia,103,8.6,113.0,Fantasy
+The Journey of Flower,98,3.5,12.0,Fantasy
+Young Love,105,7.6,9.0,Fantasy
+Dank Frank,63,5.7,62.0,Fantasy
+Darker Than Night,83,7.7,11.0,Fantasy
+Ella,61,3.4,47.0,Fantasy
+Supersiostry,145,6.4,9.0,Fantasy
+Couple in the Woods,63,7.8,33.0,Fantasy
+Formula vody,112,7.0,7.0,Fantasy
+Anxious.,90,3.9,24.0,Fantasy
+Witches of God,80,9.0,5.0,Fantasy
+RB&O Live: Alice's Adventures in Wonderland,86,8.9,338.0,Fantasy
+Maya Puthagam,80,8.4,6.0,Fantasy
+Salomé,90,4.8,2300.0,Fantasy
+Blue Caveman,113,7.0,9.0,Fantasy
+Demon Host,90,6.9,11.0,Fantasy
+Apokrif,106,6.6,19.0,Fantasy
+Jíkuri,96,9.9,10.0,Fantasy
+Fenómenos naturales,69,5.9,32.0,Fantasy
+Bloodspawn,104,6.8,52.0,Fantasy
+Knight,90,8.7,18.0,Fantasy
+Lilla spöket Laban spökar igen,112,7.2,28.0,Fantasy
+Self Harm,73,5.5,34.0,Fantasy
+Megalodon Returns,194,4.2,21.0,Fantasy
+Domovoy,85,9.1,183.0,Fantasy
+Sith Wars: Episódio III - Fantasmas Dos Sith,94,7.0,8.0,Fantasy
+Xiao zi,115,6.3,6.0,Fantasy
+Lo chiamavano Marcus,110,7.7,68.0,Fantasy
+The Alpha Kings Wolfless Luna,76,4.6,23.0,Fantasy
+Napoleon Street,64,4.6,662.0,Fantasy
+Tri bogatyrya. Ni dnya bez podviga,99,6.5,7.0,Fantasy
+Horse with No Name,70,3.6,8.0,Fantasy
+Cloud Chamber,75,3.9,9.0,Fantasy
+The Ghost of Annie Lee,81,8.0,8.0,Fantasy
+UnichtoZhanna,65,4.5,12.0,Fantasy
+Chyortov kamen,70,6.0,48.0,Fantasy
+The Old Man and the Demon Sword,73,7.2,11.0,Fantasy
+And Through the Portal We Go,90,5.2,10.0,Fantasy
+Fatal Expedition,90,5.3,7.0,Fantasy
+Amigo,85,4.8,12.0,Fantasy
+Avaidh,74,5.6,17.0,Fantasy
+Code Duello: From the Tithebanner Saga,89,8.0,5.0,Fantasy
+Heart Brakers,62,7.8,5.0,Fantasy
+The Guardians: The Chosen Ones,75,8.4,7.0,Fantasy
+Inazuma Eleven the Movie: Prologue to the New Heroes,78,8.0,9.0,Fantasy
+Chhota Bheem and the Curse of Damyaan,260,7.2,6.0,Fantasy
+Asher and Ruth,106,3.2,5.0,Fantasy
+Wanderer,90,7.4,15.0,Fantasy
+Apollon by Day Athena by Night,80,3.3,12.0,Fantasy
+Antappante Athbudha Pravarthikal (Miracles of Antappan),108,5.9,8.0,Fantasy
+Dance with the Finless Promise,127,8.6,29.0,Fantasy
+Tara - The Lost Star,82,7.8,12.0,Fantasy
+Sahmeran Efsanesi-Tulhan,86,6.4,7.0,Fantasy
+Painted Skin,100,7.2,14.0,Fantasy
+Anora,139,7.6,151000.0,Romance
+Wicked,160,7.5,141000.0,Romance
+Babygirl,114,6.0,47000.0,Romance
+It Ends with Us,130,6.4,81000.0,Romance
+We Live in Time,108,7.0,48000.0,Romance
+The Count of Monte-Cristo,178,7.6,32000.0,Romance
+Queer,137,6.5,18000.0,Romance
+The Fall Guy,126,6.8,216000.0,Romance
+F*** Marry Kill,97,5.2,1800.0,Romance
+The Crow,111,4.7,32000.0,Romance
+Fly Me to the Moon,132,6.6,48000.0,Romance
+Love Lies Bleeding,104,6.6,56000.0,Romance
+My Old Ass,89,6.9,37000.0,Romance
+The Idea of You,115,6.3,72000.0,Romance
+All We Imagine as Light,118,7.1,8900.0,Romance
+A Family Affair,111,5.3,36000.0,Romance
+Sidelined: The QB and Me,99,5.9,3500.0,Romance
+Culpa Tuya,118,5.2,12000.0,Romance
+Beating Hearts,166,7.0,4100.0,Romance
+Your Monster,103,6.4,5400.0,Romance
+Jane Austen Wrecked My Life,94,6.5,151.0,Romance
+Killer Heat,95,5.6,13000.0,Romance
+Guilty Pleasure,119,5.5,74.0,Romance
+Emmanuelle,107,4.2,1500.0,Romance
+Loveable,101,8.1,1300.0,Romance
+Young Woman and the Sea,129,7.5,17000.0,Romance
+Lonely Planet,94,5.7,11000.0,Romance
+A Nice Indian Boy,96,7.2,149.0,Romance
+Grafted,96,5.6,2000.0,Romance
+Find Me Falling,93,6.3,12000.0,Romance
+Love Me,91,5.2,2200.0,Romance
+Someone Like You,118,5.8,2000.0,Romance
+Upgraded,104,6.1,29000.0,Romance
+Boot Camp,94,5.8,1000.0,Romance
+La Cocina,139,7.2,2300.0,Romance
+Lisa Frankenstein,101,6.1,28000.0,Romance
+We're All Gonna Die,110,8.4,79.0,Romance
+The Tearsmith,103,5.2,12000.0,Romance
+Touch,121,7.4,5200.0,Romance
+Mother of the Bride,88,4.8,17000.0,Romance
+Die Alone,91,5.7,2600.0,Romance
+Girl Haunts Boy,100,6.3,2800.0,Romance
+Mon Potongo,149,6.7,130.0,Romance
+Lilies Not for Me,99,7.8,75.0,Romance
+Irish Wish,93,5.2,21000.0,Romance
+Chosen Family,88,4.6,258.0,Romance
+Winter Spring Summer or Fall,97,6.5,392.0,Romance
+Players,105,5.7,12000.0,Romance
+Swap,86,3.0,326.0,Romance
+Our Little Secret,101,5.7,23000.0,Romance
+Five Blind Dates,83,5.1,1900.0,Romance
+The Dead Thing,94,4.7,810.0,Romance
+Ask Me What You Want,114,3.6,312.0,Romance
+My Favourite Cake,97,7.4,6900.0,Romance
+Grand Tour,128,6.5,1400.0,Romance
+Girls Will Be Girls,118,7.1,2300.0,Romance
+The Best Christmas Pageant Ever,99,6.8,6000.0,Romance
+Lick,75,6.3,719.0,Romance
+Turn Me On,99,5.6,436.0,Romance
+Role Play,100,5.5,19000.0,Romance
+How to Date Billy Walsh,98,5.2,3900.0,Romance
+Turtles All the Way Down,111,6.6,6800.0,Romance
+Beautiful Wedding,100,4.1,4100.0,Romance
+Vulgar,103,6.7,104.0,Romance
+The Merry Gentlemen,87,4.8,10000.0,Romance
+Gone Running,105,7.1,3800.0,Romance
+City Hunter,102,6.3,5500.0,Romance
+Pedro Páramo,130,6.3,2800.0,Romance
+The Greatest Hits,94,6.2,7200.0,Romance
+This Is Me... Now,65,4.1,7100.0,Romance
+This Time Next Year,116,5.6,2100.0,Romance
+You Are the Apple of My Eye,101,7.6,3300.0,Romance
+Through My Window: Looking at You,105,5.4,5100.0,Romance
+Take My Hand,102,6.3,282.0,Romance
+Romance on the Ranch,88,6.8,288.0,Romance
+Darkest Miriam,87,6.9,29.0,Romance
+Hot Frosty,92,5.3,14000.0,Romance
+Marmalade,99,6.2,3500.0,Romance
+High Tide,101,6.6,488.0,Romance
+Wallbanger,118,5.7,640.0,Romance
+Three Friends,117,6.6,602.0,Romance
+Timestalker,89,5.5,2900.0,Romance
+The Astronaut Lovers,116,7.1,550.0,Romance
+A True Gentleman,110,4.5,2000.0,Romance
+The Silence of Marcos Tremmer,112,6.0,128.0,Romance
+Cinderella's Curse,82,3.3,1300.0,Romance
+Plan B,90,5.9,1100.0,Romance
+Premalu,156,7.8,19000.0,Romance
+Qalb,147,6.6,2300.0,Romance
+Amar Singh Chamkila,145,7.8,16000.0,Romance
+5lbs of Pressure,111,5.3,1600.0,Romance
+Freedom,110,5.9,1300.0,Romance
+The Family Star,159,5.4,5400.0,Romance
+I Can Never Be Yours,125,8.7,123.0,Romance
+Sex,101,6.7,858.0,Romance
+Young Werther,118,5.7,202.0,Romance
+Love in the Big City,85,7.5,1300.0,Romance
+Cinderella's Revenge,100,3.7,1100.0,Romance
+Layla,106,6.1,332.0,Romance
+The Air He Breathes,120,6.4,357.0,Romance
+The Southern Chronicles,107,8.8,2300.0,Romance
+Drained,100,4.6,289.0,Romance
+Perfect Endings,82,5.5,184.0,Romance
+The Groomsmen: First Look,107,6.1,377.0,Romance
+The Lifeguards,116,3.9,136.0,Romance
+Two to One,126,6.0,692.0,Romance
+Savi,119,6.2,35000.0,Romance
+Love,141,7.3,266.0,Romance
+Now or Never!,131,2.1,17000.0,Romance
+Teri Baaton Mein Aisa Uljha Jiya,128,6.2,54000.0,Romance
+My Name Is Loh Kiwan,92,6.7,4300.0,Romance
+Christmas Cowboy,98,6.8,99.0,Romance
+Haunted Heart,123,4.8,452.0,Romance
+Still Fabulous,110,4.9,839.0,Romance
+The Glassworker,129,7.5,1500.0,Romance
+Her Story,91,7.7,1700.0,Romance
+Bonjour Tristesse,130,6.0,84.0,Romance
+The Groomsmen Last Dance,94,6.9,332.0,Romance
+Another End,117,6.5,703.0,Romance
+Música,101,6.4,5000.0,Romance
+Uranus 2324,118,6.6,4700.0,Romance
+Books & Drinks,115,6.5,75.0,Romance
+Previously Saved Version,130,5.5,400.0,Romance
+Langue Étrangère,65,6.7,476.0,Romance
+Intoxicated by Love,122,8.5,12000.0,Romance
+The Private Eye,96,3.6,126.0,Romance
+Bau: Artist at War,105,7.1,52.0,Romance
+Private Tutor,111,4.9,182.0,Romance
+"Hello, Love, Again",121,6.8,790.0,Romance
+Good Bad Things,89,5.8,187.0,Romance
+Meet Me Next Christmas,109,5.7,8400.0,Romance
+No Pressure,113,5.1,1100.0,Romance
+Eks,99,4.5,183.0,Romance
+Karma's a Bitch,84,5.0,31.0,Romance
+Wild Wild Punjab,98,6.2,15000.0,Romance
+Daniela Forever,138,6.3,199.0,Romance
+Futra Days,110,4.1,138.0,Romance
+Love Across Time,88,7.2,384.0,Romance
+From Contract Lover to the Billionaire's Bride,66,7.1,491.0,Romance
+"Love, Divided",90,5.9,4500.0,Romance
+Love Reddy,87,8.2,2300.0,Romance
+Mr. Manhattan,102,6.7,430.0,Romance
+Passport to Love,88,6.2,393.0,Romance
+Undergrads,84,5.6,41.0,Romance
+Believe in Christmas,105,6.1,820.0,Romance
+Stag,142,5.1,109.0,Romance
+A Christmas Castle Proposal: A Royal in Paradise 2,123,6.4,325.0,Romance
+Breakup Season,103,5.8,303.0,Romance
+The Holiday Junkie,108,6.3,440.0,Romance
+The Groomsmen: Second Chances,148,6.1,424.0,Romance
+Mascarpone: The Rainbow Cake,140,6.1,476.0,Romance
+Bad Newz,87,4.7,26000.0,Romance
+18×2 Beyond Youthful Days,140,7.3,1800.0,Romance
+Why Do You?,94,5.4,398.0,Romance
+Duino,102,8.3,99.0,Romance
+Rasavathi,134,6.4,553.0,Romance
+Bachhala Malli,102,8.3,3900.0,Romance
+Lesbian Space Princess,118,8.1,96.0,Romance
+He Loves Me Not,132,6.9,49.0,Romance
+Murder Mubarak,109,5.8,51000.0,Romance
+Super Happy Forever,105,6.9,165.0,Romance
+She Taught Love,100,5.2,401.0,Romance
+Gharjwai,114,8.7,807.0,Romance
+Sicilian Holiday,110,4.9,12.0,Romance
+Drawing Closer,85,7.6,2400.0,Romance
+Phir Aayi Hasseen Dillruba,100,5.8,6700.0,Romance
+Pure Love,90,9.1,94.0,Romance
+Switch Up,103,8.6,27.0,Romance
+Love's Second Act,150,5.4,185.0,Romance
+Ashes,70,4.3,2500.0,Romance
+A Circus Tale & a Love Song,167,5.9,102.0,Romance
+The Architecture of Love,99,6.9,474.0,Romance
+Meet Me in Rome,84,5.1,488.0,Romance
+Else,133,6.1,223.0,Romance
+A '90s Christmas,90,6.0,1100.0,Romance
+Say a Little Prayer,116,8.4,41.0,Romance
+Auron Mein Kahan Dum Tha,96,6.6,40000.0,Romance
+Snatched a Billionaire to Be My Husband,117,7.6,649.0,Romance
+C4 Cinta,87,8.6,117.0,Romance
+Art of Love,109,4.6,2300.0,Romance
+Shrek 5: The Contract - A Fan Made Film,109,7.0,18.0,Romance
+White Snake: Afloat,135,6.9,429.0,Romance
+The Holiday Exchange,110,5.6,400.0,Romance
+Blue Sun Palace,134,6.5,115.0,Romance
+O Melhor Amigo,85,7.5,27.0,Romance
+Chainsaws Were Singing,98,7.2,341.0,Romance
+Christmas in the Spotlight,131,5.8,659.0,Romance
+Gelin Takimi,89,2.4,1700.0,Romance
+Hear Me: Our Summer,89,7.5,610.0,Romance
+Albany Road,106,7.7,107.0,Romance
+Wanted: Girlfriend,150,4.1,216.0,Romance
+0000 Kilometre,98,2.9,121.0,Romance
+Ajosepo,88,8.7,52.0,Romance
+Marry Christmas,83,6.9,57.0,Romance
+The Glory of Life,172,6.6,420.0,Romance
+Ipar Adalah Maut,90,7.0,1200.0,Romance
+Love Switch,140,6.0,223.0,Romance
+A Toast to Love,113,6.1,108.0,Romance
+Goyo,94,6.6,2200.0,Romance
+Mr. Bachchan,108,3.6,5200.0,Romance
+When in Rome,102,6.1,724.0,Romance
+Love... Reconsidered,137,4.3,128.0,Romance
+Swoon,91,6.0,13.0,Romance
+Don't Say It,120,8.8,34.0,Romance
+Trisha on the Rocks,101,5.2,3000.0,Romance
+The Everything Pot,90,7.4,29.0,Romance
+Do Aur Do Pyaar,130,6.4,12000.0,Romance
+Dandelion,91,5.3,386.0,Romance
+¿Vienes o Voy?,113,6.7,15.0,Romance
+Shigatsu ni nareba kanojo wa,174,6.2,417.0,Romance
+Sex Love Venice,99,4.4,308.0,Romance
+Tillu Square,92,6.6,3400.0,Romance
+Addition,148,8.2,29.0,Romance
+The Swedish Torpedo,85,6.4,133.0,Romance
+The Time of Fever,90,8.0,621.0,Romance
+Alterlove,115,7.6,789.0,Romance
+Viva La Vida,131,5.9,190.0,Romance
+Beauty and the Billionaire: Bali,113,6.5,350.0,Romance
+A Vintage Christmas,101,5.1,291.0,Romance
+Verliefd op Bali,97,6.9,26.0,Romance
+Boys on Film 24: Happy Endings,108,5.8,302.0,Romance
+El Roomie,94,4.4,263.0,Romance
+Umjolo: The Gone Girl,120,6.4,2900.0,Romance
+Siddharth Roy,80,6.7,174.0,Romance
+Writing a Love Song,90,4.7,184.0,Romance
+A European Christmas,90,5.5,1300.0,Romance
+Love at 39 Degrees,95,7.2,42.0,Romance
+A Man's Promise,104,6.8,1500.0,Romance
+Mai,98,7.0,113.0,Romance
+Kupu-Kupu Kertas,128,6.6,333.0,Romance
+Perfect Match,116,4.5,150.0,Romance
+First Taste,99,6.6,134.0,Romance
+Every You Every Me,136,4.6,1300.0,Romance
+Kill Me If You Dare,117,5.2,237.0,Romance
+Ahl Al Kahf,90,8.0,9.0,Romance
+Given 3: To the Sea,86,6.1,313.0,Romance
+Once Upon a Christmas Wish,168,8.6,85.0,Romance
+Seven Seas Seven Hills,111,6.3,345.0,Romance
+Los pequeños amores,93,8.0,67.0,Romance
+Ek Anjaan Rishtey Ka Guilt 3,110,5.6,44.0,Romance
+Krista,91,4.7,185.0,Romance
+"Aire, Just Breathe",90,6.2,3100.0,Romance
+Miss You,114,6.7,203.0,Romance
+Dilan 1983,144,8.0,1000.0,Romance
+Reloaded 2,135,5.3,919.0,Romance
+In Good Hands 2,85,6.6,624.0,Romance
+El Hawa Sultan,97,9.2,76.0,Romance
+Meeting Ms. Leigh,110,6.0,49.0,Romance
+Love Syndrome: The Beginning,88,5.3,157.0,Romance
+À toute allure,128,6.5,13000.0,Romance
+Love Li,105,6.8,1400.0,Romance
+Detective Conan: The Million-Dollar Pentagram,165,4.9,275.0,Romance
+Anyone But Her,100,5.2,530.0,Romance
+Black Tea,62,8.0,59.0,Romance
+Seni Memahami Kekasih,95,6.0,27.0,Romance
+Stranded Pearl,125,6.4,170.0,Romance
+Queens of Drama,119,7.9,78.0,Romance
+The Great Gujarati Matrimony,92,6.2,747.0,Romance
+Love You to Debt,73,6.0,122.0,Romance
+Looking for Dr. Love,110,5.4,118.0,Romance
+Fruitcake,87,4.2,1100.0,Romance
+3391 Kilometres,136,5.2,141.0,Romance
+A Merry Royal Christmas,131,7.3,1100.0,Romance
+Premalo,90,6.2,61.0,Romance
+You Are Not Alone,93,8.3,646.0,Romance
+Dhruvathaare,119,9.1,29.0,Romance
+Paper Flowers,135,4.8,8.0,Romance
+What Happened in My Black Boyfriend's Room,118,8.1,39.0,Romance
+One Night in Tokyo,105,4.9,387.0,Romance
+Love Story,135,3.8,2800.0,Romance
+"LSD 2: Love, Sex Aur Dhokha 2",95,4.4,47.0,Romance
+Three Secrets,100,7.8,29.0,Romance
+Nado snimat filmy o lyubvi,99,5.6,779.0,Romance
+Under Parallel Skies,90,6.1,497.0,Romance
+Christmas at Plumhill Manor,150,5.8,299.0,Romance
+That Kind of Love,95,7.2,2100.0,Romance
+Prabuthwa Junior Kalashala,107,6.5,59.0,Romance
+Sweet Summer Love,96,6.9,21.0,Romance
+Heartsping : Teenieping of Love,110,5.3,69.0,Romance
+"María, Me Muero",112,8.8,185.0,Romance
+Vaagai,91,5.8,295.0,Romance
+Rose Rosy Te Gulab,122,7.8,25.0,Romance
+Addy Daddy,150,5.2,55.0,Romance
+DreadClub: Vampire's Verdict,101,6.7,33.0,Romance
+Explosions in My Heart,88,7.4,14.0,Romance
+Kisko Tha Pata,92,4.9,218.0,Romance
+Rokjesnacht,153,5.3,1500.0,Romance
+Honeymoonish,82,8.1,14.0,Romance
+Life is Filled with So Much of You,70,5.4,166.0,Romance
+Morando com o Crush,105,7.9,79.0,Romance
+Hrashwo Deergha,90,8.5,43.0,Romance
+My Ex's Wedding,160,6.2,3100.0,Romance
+Kahan Shuru Kahan Khatam,83,4.8,13.0,Romance
+My Boyfriend Is a Sex Worker,77,8.5,1600.0,Romance
+A Fragile Flower,105,7.6,51.0,Romance
+The Property,166,6.4,64.0,Romance
+Across the Sea,131,8.7,14.0,Romance
+Neelofar,140,5.3,199.0,Romance
+L'heureuse élue,93,7.2,17.0,Romance
+Perdiendo el Juicio,112,6.4,760.0,Romance
+Kang Mak,100,6.5,183.0,Romance
+Sihinayaki Adare,111,4.6,76.0,Romance
+Maple Leaf Dreams,88,8.6,16.0,Romance
+Flat Blood,127,4.7,163.0,Romance
+"Aku Jati, Aku Asperger",113,5.8,834.0,Romance
+Yolki 11,61,5.6,19.0,Romance
+Yuva,136,7.4,136.0,Romance
+More na dvoikh,91,5.4,152.0,Romance
+Movie Given Hiiragi Mix.,111,5.8,160.0,Romance
+Lyubvi ne byvaet?,86,8.3,60.0,Romance
+Joy of Horses,89,7.6,19.0,Romance
+Mor Chhainha Bhuinya 2,87,5.9,128.0,Romance
+Mi Perfecto Ex,110,6.6,4100.0,Romance
+Occupied,96,5.5,119.0,Romance
+Ma chi ti conosce,149,5.3,2300.0,Romance
+Varshangalkku Shesham,148,9.3,96.0,Romance
+Moments We Shared,131,6.0,178.0,Romance
+Game On,116,7.5,51.0,Romance
+Saint Nick of Bethlehem,95,6.3,87.0,Romance
+I Am the Secret in Your Heart,113,4.9,117.0,Romance
+"Extraction, USA",91,6.6,345.0,Romance
+Badaa Saat Fi Yawman Ma,112,8.8,75.0,Romance
+Emakku Thozhil Romance,108,8.1,144.0,Romance
+The Holiday Club,84,5.0,8.0,Romance
+Poppay Ki Wedding,93,5.8,2200.0,Romance
+Amaltash,132,8.5,93.0,Romance
+"It's So Big It Hurts, Black Oppa",100,6.1,136.0,Romance
+Little Hearts,115,6.5,97.0,Romance
+Funmilayo Ransome-Kuti,100,6.2,73.0,Romance
+Koi wo Shiranai Bokutachi wa,84,7.9,25.0,Romance
+Christmas on the Ranch,97,5.5,51.0,Romance
+A Country Music Christmas,120,7.3,89.0,Romance
+Powder Pup,105,7.1,37.0,Romance
+Santa's Cousin,110,7.5,711.0,Romance
+Double Blended,94,7.8,2400.0,Romance
+Last Song for You,98,8.7,2700.0,Romance
+Lula Leblanc,115,5.6,151.0,Romance
+Ondu Sarala Prema Kathe,135,6.2,332.0,Romance
+Pranaya Godari,120,6.1,105.0,Romance
+Mercy Killing,95,6.4,348.0,Romance
+Love Stuck,119,6.4,15.0,Romance
+Shooting My Life's Script,104,7.7,27.0,Romance
+Khwaabon Ka Jhamela,156,6.0,227.0,Romance
+Enchanting Christmas,72,6.6,13.0,Romance
+Nie Xiaoqian,100,6.1,104.0,Romance
+Goreyan Naal Lagdi Zameen Jatt Di,84,6.5,61.0,Romance
+A Bluegrass Christmas,82,9.5,33.0,Romance
+To potami,97,6.2,168.0,Romance
+"Chances Are, You and I",98,3.8,290.0,Romance
+Samana Sunrise,114,5.8,187.0,Romance
+Ram Bharosey,92,8.3,18.0,Romance
+Honey Money Phony,141,5.9,138.0,Romance
+Letuchiy korabl,82,5.3,295.0,Romance
+Holiday for Hire,98,8.9,57.0,Romance
+Coven of the Black Cube,134,5.3,710.0,Romance
+Visal Adare,116,7.0,287.0,Romance
+"Love, Sitara",104,6.9,9.0,Romance
+Love Is Never on Time,104,5.4,1800.0,Romance
+The Heartbreak Agency,112,5.9,807.0,Romance
+I Don't Know,150,4.9,270.0,Romance
+Heartbreak Motel,125,6.7,279.0,Romance
+"Fool Me Once, Revenge on You",84,8.6,289.0,Romance
+Jatt & Juliet 3,100,6.3,170.0,Romance
+Election,84,8.3,8.0,Romance
+Just the Two of Us,82,7.1,26.0,Romance
+Yo no soy esa,82,6.3,179.0,Romance
+Teasing Master Takagi-san Movie,93,3.7,168.0,Romance
+Eating Me Up,131,9.2,11.0,Romance
+Kajolrekha,123,9.2,18.0,Romance
+Éden & Charlie,89,6.8,5.0,Romance
+This Is Not A Love Song,100,6.6,34.0,Romance
+Land of Broken Hearts,110,8.3,8.0,Romance
+Letters at Christmas,110,5.2,20.0,Romance
+Artist Unknown,105,7.0,1200.0,Romance
+Do I Shock U Like Lightning,112,8.7,27.0,Romance
+Penguin Girl,108,6.6,9.0,Romance
+Soft Love,96,6.0,294.0,Romance
+How to Make Her Leave,105,6.3,337.0,Romance
+Fragments of Us,141,3.6,615.0,Romance
+Christmas Overtime,109,6.8,16.0,Romance
+Onegin,100,6.0,24.0,Romance
+Miracle Mile,118,5.1,245.0,Romance
+Hold Me Close,117,6.1,653.0,Romance
+From Corinne's Heart,69,5.3,183.0,Romance
+Lyod 3,118,5.9,189.0,Romance
+Silent Love,85,9.1,23.0,Romance
+Sevmek Yüzünden,128,5.8,37.0,Romance
+Lady Outlaw,112,6.6,120.0,Romance
+Kagojer Bou,125,8.1,60.0,Romance
+Lyubov Sovetskogo Soyuza,93,8.1,106.0,Romance
+My Boo,86,6.3,513.0,Romance
+Valentine's Town,106,4.2,1700.0,Romance
+"Dao, Pho Va Piano",133,6.7,251.0,Romance
+Marriage Mansion,134,6.2,242.0,Romance
+Nikdo me nemá rád,133,7.5,28.0,Romance
+Future Date,105,5.6,342.0,Romance
+Bad Boy's Security,145,3.8,47.0,Romance
+The Day Before Christmas,102,7.5,8.0,Romance
+Young Lion of the West,67,4.6,201.0,Romance
+Komandir,98,7.9,17.0,Romance
+Petta Rap,81,3.5,145.0,Romance
+Svemu dodje kraj,135,6.7,13.0,Romance
+Sign Here,84,6.7,260.0,Romance
+Ye xiao nü sheng,105,6.8,21.0,Romance
+Un/Happy for You,93,6.2,130.0,Romance
+Momma's Boy,95,6.1,204.0,Romance
+14 Days Love,105,5.9,35.0,Romance
+Lobola Man,85,6.6,150.0,Romance
+Sunlight,96,1.0,125.0,Romance
+Her Seyin Basi Merkür,95,4.3,470.0,Romance
+Undying,114,6.4,17.0,Romance
+Jee Ve Sohneya Jee,120,6.2,831.0,Romance
+Once Upon a Honeymoon,115,6.7,75.0,Romance
+Because I Love Bad Weather,115,3.9,132.0,Romance
+36-24-36,109,6.2,48.0,Romance
+Honeko Akabane's Bodyguards,97,4.8,120.0,Romance
+Muse,119,7.8,62.0,Romance
+Life Hotel,138,6.7,77.0,Romance
+PAPmusic - Animation for Fashion,118,6.8,565.0,Romance
+Love Me If You Dare,90,5.4,312.0,Romance
+The Untold Story,117,3.5,178.0,Romance
+Could Have Waited for August,90,7.3,2600.0,Romance
+Teriyaan Meriyaan Hera Pheriyan,132,7.5,59.0,Romance
+3. Gun,105,5.4,33.0,Romance
+Yumi's Cells: The Movie,94,7.9,11.0,Romance
+A Christmas of Wonders,117,7.2,34.0,Romance
+Morena,123,4.0,114.0,Romance
+Keshava Chandra Ramavath,107,9.8,10.0,Romance
+Babli,90,8.6,16.0,Romance
+Table for Six 2,109,7.1,98.0,Romance
+Günesi Söndürmem Gerek,81,6.7,7900.0,Romance
+Rajkumar,110,5.7,12.0,Romance
+Our Church Thinks We're Dating,91,8.5,24.0,Romance
+Pretty Boys,84,6.5,901.0,Romance
+Unn Sawali,120,5.7,106.0,Romance
+Chanchal Haseena,80,7.9,76.0,Romance
+Shark Island,153,8.1,16.0,Romance
+A Ghetto Love Story,160,8.0,48.0,Romance
+Allahr Vres,80,7.4,10.0,Romance
+The Proud Princess,136,6.8,35.0,Romance
+O2,86,6.3,16.0,Romance
+Gili Gili Raat,83,8.5,45.0,Romance
+Dreaming of You,123,6.9,16.0,Romance
+Traces of Love,103,7.5,6.0,Romance
+Elle & lui & le reste du monde,92,5.9,83.0,Romance
+Der Junge dem die Welt gehört,73,8.4,2100.0,Romance
+On the Market,114,5.8,114.0,Romance
+Pantaskah Aku Berhijab,96,4.6,26.0,Romance
+Kuch Sapney Apne,110,5.2,109.0,Romance
+Romance with My Vampire Brother,90,7.7,39.0,Romance
+Tendaberry,157,9.4,327.0,Romance
+All's Fair in Love,132,5.1,78.0,Romance
+My Future You,78,8.7,10.0,Romance
+We Are Tourists,101,4.4,629.0,Romance
+Lost & Found You,124,6.4,67.0,Romance
+Advent,109,6.4,9.0,Romance
+Sureshinteyum Sumalathayudeyum Hridayahariyaya Pranayakatha,120,9.1,26.0,Romance
+Honeymoon Express,101,6.6,66.0,Romance
+Hearts Creek,95,6.1,213.0,Romance
+Gingersnap Christmas,94,7.3,261.0,Romance
+My Sassy Girl,91,6.4,11.0,Romance
+The Little Things,126,6.9,54.0,Romance
+Aaram Aravinda Swamy,125,7.1,15.0,Romance
+My Zombabe,107,3.3,19.0,Romance
+¿Quién quiere casarse con un Astronauta?,90,4.2,108.0,Romance
+Amar Prem Ki Prem Kahani,100,7.5,2500.0,Romance
+Daghabaaz Dil,144,7.4,831.0,Romance
+Heart Strings,62,7.1,19.0,Romance
+Hell City,115,7.3,2400.0,Romance
+Die Ironie des Lebens,106,4.0,149.0,Romance
+Jingle Bell Love,83,6.2,200.0,Romance
+"Sampai Nanti, Hanna!",102,6.0,308.0,Romance
+Raseeli Raatein,100,4.8,18.0,Romance
+Le beau rôle,87,8.3,83.0,Romance
+"Love, Wine & Salt: A Tuscan Romance",94,7.3,245.0,Romance
+Hong lou meng,126,3.8,291.0,Romance
+Zyat,130,8.0,31.0,Romance
+Roti Kapda Romance,153,6.9,119.0,Romance
+Ibbani Tabbida Ileyali,104,5.0,75.0,Romance
+Him,86,3.2,145.0,Romance
+Murphy,119,3.0,32.0,Romance
+Umjolo: Day Ones,78,5.7,14.0,Romance
+Bed & Breakfast,81,7.3,11.0,Romance
+Listy do M. Pozegnania i powroty,89,5.9,324.0,Romance
+40,153,4.6,167.0,Romance
+Skinny Love,90,4.4,282.0,Romance
+Hani,108,8.3,15.0,Romance
+Love Lies,126,7.0,37.0,Romance
+Happiness Is,106,7.5,99.0,Romance
+Maybe Forever,84,4.9,323.0,Romance
+Greice,90,4.5,55.0,Romance
+A Wall Away,98,8.2,13.0,Romance
+Kaaduvetty,83,7.4,69.0,Romance
+Yeni Hayat,95,6.9,49.0,Romance
+Seré breve al momento de morir,89,5.9,17.0,Romance
+You Are Always Right Here,100,9.0,2100.0,Romance
+X & Y,98,8.6,15.0,Romance
+The Last 12 Days,89,7.9,36.0,Romance
+Pasutri Gaje,122,5.3,284.0,Romance
+Christmas in Lagos,96,6.7,80.0,Romance
+A Soweto Love Story,99,7.8,25.0,Romance
+Ibiza Dark,112,7.1,82.0,Romance
+Dinda,91,6.2,27.0,Romance
+A Heart for Christmas,108,5.8,83.0,Romance
+Remember I am Dead,90,4.5,48.0,Romance
+Ask Mevsimi,129,5.5,102.0,Romance
+Oru Kattil Oru Muri,138,6.2,15.0,Romance
+Boda Love,80,7.5,21.0,Romance
+Dukkhito,105,8.4,99.0,Romance
+Love Dodoma,100,5.4,10.0,Romance
+La piel en primavera,129,6.0,49.0,Romance
+The Gifts of Christmas,100,6.2,36.0,Romance
+Usha Parinayam,96,9.4,47.0,Romance
+Meeting Funmi's Parents,109,7.4,134.0,Romance
+City of Second Chances,107,5.4,151.0,Romance
+Dr. Jason II - Lights & Shadows,97,8.9,154.0,Romance
+Parahuna 2,90,4.6,223.0,Romance
+Gebokste Liefde,86,7.2,69.0,Romance
+Kill the Children first,120,6.7,79.0,Romance
+Love & Vodka,104,4.6,35.0,Romance
+Welcome to My Side,150,8.0,32.0,Romance
+Assisting Venus,74,5.1,51.0,Romance
+Amo-te Imenso,122,5.7,101.0,Romance
+A Christmas Dream,65,8.4,23.0,Romance
+8 Views of Lake Biwa,114,8.3,11.0,Romance
+Tauba Tera Jalwa,109,6.3,13.0,Romance
+Maru Mann Taru Thayu,90,8.5,56.0,Romance
+Azzamine,80,5.3,34.0,Romance
+Son Sans,106,5.7,157.0,Romance
+Buzzy Noise,77,9.0,39.0,Romance
+Ai zuo dai,90,7.9,13.0,Romance
+We Are Faheem & Karun,102,8.5,149.0,Romance
+Taboo,96,7.7,78.0,Romance
+The Christmas Brew,155,6.1,22.0,Romance
+Khoka Bhai Tama Pain: A Song Epic,115,8.0,15.0,Romance
+Noche De Bodas,135,5.4,11.0,Romance
+The Mediterranean Sea,70,7.8,47.0,Romance
+Hi Anokhi Gaath,89,5.2,100.0,Romance
+L'invenzione di noi due,128,5.4,141.0,Romance
+UnCancelled,92,7.8,59.0,Romance
+Cedric & Alysia,133,5.3,70.0,Romance
+Dona Lurdes: O Filme,158,4.0,17.0,Romance
+Tilottoma,128,8.0,29.0,Romance
+The Umesh Chronicles,95,5.5,6.0,Romance
+Boomerang,91,8.6,5.0,Romance
+Royal Façade,82,5.8,20.0,Romance
+A Mountain Between Us,94,6.8,771.0,Romance
+The Love Buzz,95,7.1,27.0,Romance
+"Step Back, Doors Closing",106,8.0,21.0,Romance
+Haunted Happy Hour,106,5.6,42.0,Romance
+Kanni,83,5.8,58.0,Romance
+SottoCoperta,88,6.5,9.0,Romance
+10 Pasimatymu,107,7.3,22.0,Romance
+Meen Yasadaq,95,7.2,30.0,Romance
+Royal Runaways,147,6.3,35.0,Romance
+Keluar Main 1994,90,6.8,6.0,Romance
+My Crazy Rich Girlfriend,145,2.8,11.0,Romance
+Bar MoskvaChiki,113,5.6,7.0,Romance
+American Spirit,90,7.7,8.0,Romance
+A Teacher's Gift,78,2.8,121.0,Romance
+Persona,97,5.0,17.0,Romance
+Lolipop Gang,95,3.7,17.0,Romance
+Wrooklyn Zoo,91,8.5,44.0,Romance
+Timing,140,5.4,44.0,Romance
+Zénithal,101,7.3,28.0,Romance
+Vampire's House of Cain,135,8.9,28.0,Romance
+Sihina Nelum Mal,126,6.6,92.0,Romance
+I Can't Sleep Without You,93,7.8,6.0,Romance
+La Casa Azul,102,7.8,14.0,Romance
+Puang Bos!,86,6.9,59.0,Romance
+In the Summer Rain,95,7.6,76.0,Romance
+Amor Platónico,135,5.9,38.0,Romance
+Ancika,60,6.5,140.0,Romance
+Forbidden Love,95,7.6,20.0,Romance
+Ben and Suzanne: A Reunion in 4 Parts,132,8.1,9.0,Romance
+#OOTD: Outfit of the Designer,76,4.2,2300.0,Romance
+B4S: Truoc Gio Yeu,84,8.5,3100.0,Romance
+Benaam Rishta,132,8.6,24.0,Romance
+Selon Joy,90,4.3,134.0,Romance
+Seasoned with Love,78,9.2,11.0,Romance
+Gecenin Nakarati,116,5.3,22.0,Romance
+Apsara,117,5.3,6.0,Romance
+Bear Week Diaries,92,5.3,125.0,Romance
+Amigos Sem Compromisso,91,7.7,40.0,Romance
+Rabb Da Radio 3,118,8.8,13.0,Romance
+How to Make Love,99,5.3,130.0,Romance
+Cazadoras de Millonarios,95,9.2,33.0,Romance
+No Means No,65,4.1,34.0,Romance
+Go Noni Go,93,5.5,48.0,Romance
+Faith in the Family,79,4.8,50.0,Romance
+Shesh Rokkha,135,5.4,1000.0,Romance
+Maaya Ka Moh,140,2.7,219.0,Romance
+Ponder,80,6.3,112.0,Romance
+Maunam,90,4.5,22.0,Romance
+Our Christmas House,61,4.9,25.0,Romance
+43 Degrees North,100,6.6,9.0,Romance
+Peninsula Nights,74,5.9,20.0,Romance
+My Valentine Wedding,95,3.9,25.0,Romance
+Hope's Hollywood Christmas,84,7.9,208.0,Romance
+Vidya Vasula Aham,84,5.6,12.0,Romance
+"Fallen Leaves, Broken Lighters",96,3.0,7.0,Romance
+Surjo,96,7.8,848.0,Romance
+Ienai Himitsu,97,8.4,99.0,Romance
+Once Upon A Love Story,83,5.2,31.0,Romance
+Freydís and Gudrid,138,7.0,17.0,Romance
+Heavens x Candy,140,3.9,46.0,Romance
+Forget Me Not,144,7.1,25.0,Romance
+The Mercedes Story: A Troubled Soul,146,5.1,92.0,Romance
+Twenty-Nine,80,7.9,42.0,Romance
+Yesterday Is Almost Here,109,8.6,53.0,Romance
+Market Mahalakshmi,110,3.7,92.0,Romance
+Raju Gari Ammayi Naidu Gari Abbayi,113,5.4,59.0,Romance
+Dhaaak,132,5.2,28.0,Romance
+Apaixonada,68,5.1,1300.0,Romance
+Bad Boy in Love,93,8.4,7.0,Romance
+Cinta Dari Timor,124,7.7,12.0,Romance
+Keo=peul-ji-ok,119,7.6,63.0,Romance
+When the Poor Smile,155,8.3,18.0,Romance
+Elevator,99,7.2,45.0,Romance
+Uang Panai' 2 Maha(r)l,103,8.1,61.0,Romance
+Brakpan Bruilof,120,7.7,15.0,Romance
+Toxic,91,6.4,339.0,Romance
+Topolinyy pukh,93,4.7,10.0,Romance
+Inheritance to Love,77,8.8,3000.0,Romance
+Love at First Lie,160,9.0,7.0,Romance
+The Umbrella Fairy,92,4.9,21.0,Romance
+Nikoga ne e prosto seks,60,7.8,14.0,Romance
+Zorawar Di Jacqueline,111,5.3,385.0,Romance
+Pool & Party,129,4.8,17.0,Romance
+Alaap,147,5.3,41.0,Romance
+The Dancing Queen,120,3.8,9.0,Romance
+Zehan,90,4.7,72.0,Romance
+ON i Ona,106,6.2,395.0,Romance
+Video Vision,123,7.3,216.0,Romance
+Cymbeline,152,3.8,559.0,Romance
+The Journey of Flower,106,7.9,1100.0,Romance
+Buk Poketer Golpo,104,6.5,81.0,Romance
+La Tercera Edad,139,8.8,21.0,Romance
+Stalker,93,6.6,5.0,Romance
+Pithala Maathi,85,7.1,1200.0,Romance
+Take Good Care,106,7.3,16.0,Romance
+Reversi,150,8.0,8.0,Romance
+Pher Mamlaa Gadbad Hai,61,7.7,2000.0,Romance
+Hidden Flora,135,3.7,26.0,Romance
+How I Love to Be Loved,112,5.9,1000.0,Romance
+Rain for Christmas,90,5.2,32.0,Romance
+Ayo Balikan,105,6.0,45.0,Romance
+Young Love,100,7.4,14.0,Romance
+Adam i Eva,74,4.2,55.0,Romance
+Abhi,111,8.1,172.0,Romance
+Cholay,88,7.9,14.0,Romance
+Uralochka,115,6.2,8.0,Romance
+"You, Me and Christmas Makes Three",103,7.9,12.0,Romance
+Rush Hour,118,6.4,53.0,Romance
+Lázaro de noche,82,4.9,173.0,Romance
+Valley of the Shadow of Death,113,5.7,266.0,Romance
+DeAr,117,8.6,5.0,Romance
+Safari,163,3.5,65.0,Romance
+Jaunt,117,9.6,61.0,Romance
+Muzhchina i zhenshchina,136,8.7,7.0,Romance
+A Place Called Love,112,5.7,82.0,Romance
+A Man and a Woman,81,6.8,127.0,Romance
+Curry Scent,111,7.5,14.0,Romance
+Booking,90,7.6,50.0,Romance
+Ikonophile Z,110,6.1,1300.0,Romance
+The Number,100,9.5,85.0,Romance
+Teddy and the Mountain,101,8.9,15.0,Romance
+A Soldier for Christmas,90,4.4,10.0,Romance
+Cinta Tak Seindah Drama Korea,90,8.5,1100.0,Romance
+Angithee 3,78,5.0,77.0,Romance
+Midwinter,138,4.5,14.0,Romance
+Bedtime Stories: Tales of Love and Hate,88,6.0,10.0,Romance
+I Brake for Caterpillars,95,8.1,2100.0,Romance
+Vstretimsya vchera,149,3.7,36.0,Romance
+Scorned Waifu,105,8.9,12.0,Romance
+Love Mocktail 2,86,6.3,21.0,Romance
+10 Things about Sally,136,6.1,44.0,Romance
+Near Miss,110,5.5,13.0,Romance
+Dois Caipiras em Colombo,100,5.8,53.0,Romance
+Love Love,97,9.0,18.0,Romance
+The Summer Before Forever,139,7.9,2000.0,Romance
+Bienvenidos al paraíso,114,4.0,15.0,Romance
+Lovers and Friends,114,6.2,1300.0,Romance
+Licença para Enlouquecer,96,6.6,210.0,Romance
+Mr and Mrs Bachelor,63,7.2,65.0,Romance
+Me and You,164,6.2,57.0,Romance
+Last Defenders of Monogamy,158,3.4,92.0,Romance
+Let Me Be Corey,92,4.1,96.0,Romance
+Pauline grandeur nature,109,4.6,60.0,Romance
+Real Estate Sisters,94,4.3,26.0,Romance
+Smart Casuals,85,8.2,13.0,Romance
+The Haunting of Lanquetot,93,7.5,7.0,Romance
+Lyubov so vtorogo vzglyada,68,5.2,82.0,Romance
+No Tomorrow,107,8.9,12.0,Romance
+Lyubov zla,88,8.5,16.0,Romance
+Juni,99,8.1,35.0,Romance
+For Regn,101,9.4,25.0,Romance
+Kacher Manush Dure Thuiya,86,5.4,17.0,Romance
+Love Mouli,99,6.5,13.0,Romance
+Sneaking Around,132,9.1,493.0,Romance
+"Sampai Jumpa, Selamat Tinggal",149,4.2,17.0,Romance
+Chow Chow Bath,106,5.7,23.0,Romance
+Romeo Ingkar Janji,99,6.5,25.0,Romance
+Roman Peony,135,3.1,25.0,Romance
+Lust for My Sister's Killer,94,8.8,9.0,Romance
+Samudrudu,102,5.1,35.0,Romance
+Kadin Kafasi,89,8.5,1200.0,Romance
+Kailasa Kasidre,75,3.7,34.0,Romance
+When Magic Hurts,150,8.6,14.0,Romance
+Ninaivellam Neeyada,72,7.7,8.0,Romance
+Fire and Ice,74,6.3,21.0,Romance
+You're Mine,89,5.0,62.0,Romance
+Fujimi Lovers,109,5.8,791.0,Romance
+Love Is Love,90,6.7,42.0,Romance
+Reeza GTR,118,8.5,545.0,Romance
+Sovsem oshaleli,100,8.2,1600.0,Romance
+To Love and to Cherish,100,8.9,22.0,Romance
+I Love You 2,151,7.7,34.0,Romance
+Sáquenme de Aquí,78,9.0,9.0,Romance
+Colegio Girassol,81,5.2,19.0,Romance
+Cuando te toca,170,2.3,8.0,Romance
+Mr. Engineer and Miss Doctor,90,9.2,111.0,Romance
+1970 Love Story,110,9.1,527.0,Romance
+Unarvugal Thodarkadhai,78,7.1,9.0,Romance
+Rador Pakhi (Morning Sunshine),81,8.5,8.0,Romance
+Paalum Pazhavum,114,5.6,42.0,Romance
+Pon Ondru Kanden,72,4.4,8.0,Romance
+Amor a fuego lento,90,5.0,33.0,Romance
+Zegapain STA,88,7.4,22.0,Romance
+Papu mame zaverni,60,6.3,12.0,Romance
+Majnoo,90,5.6,16.0,Romance
+Chetyre chetverti,98,4.6,10.0,Romance
+Maoussi,98,7.8,6.0,Romance
+Yano-kun no Futsu no Hibi,130,8.0,8.0,Romance
+Asheq,150,7.0,9.0,Romance
+Girl Friends,106,7.4,8.0,Romance
+Deyaler Desh,66,4.9,50.0,Romance
+On+Ona,87,6.1,16.0,Romance
+Written by Mike,87,7.9,36.0,Romance
+Lupakan Cinta,136,7.5,40.0,Romance
+Neath's Love Story,111,8.4,21.0,Romance
+Romeo,90,7.0,247.0,Romance
+The Best Day of Your Life,81,8.9,175.0,Romance
+Yentha Panichesav Chanti,109,4.1,27.0,Romance
+Detention with Daisy,118,7.0,11.0,Romance
+Einmal richtig,147,4.8,12.0,Romance
+Tuesday,88,9.0,11.0,Romance
+Untouchable,153,3.6,9.0,Romance
+A Mother's Lie,81,3.9,14.0,Romance
+Before Marriage,85,8.1,16.0,Romance
+Byvshiy v pomoshch,66,3.3,23.0,Romance
+My Only Relative.,95,9.0,11.0,Romance
+The Space in Between,78,7.4,7.0,Romance
+Chocolate Kiss 2,80,7.6,12.0,Romance
+Jada,109,8.6,14.0,Romance
+Labyrinth,75,9.0,23.0,Romance
+Vremya est!,137,7.0,10.0,Romance
+Ravikula Raghurama,102,6.2,236.0,Romance
+Pravo na levo,89,5.3,10.0,Romance
+ONENESS,147,7.0,12.0,Romance
+Eksie Perfeksie,90,9.4,15.0,Romance
+Bigayan,67,9.2,11.0,Romance
+Happiness,85,8.6,29.0,Romance
+Mafia Temptation,72,8.4,6.0,Romance
+Mezhdu nami leto,88,9.3,7.0,Romance
+Garh-Kumau,100,9.6,13.0,Romance
+My Own Normal,127,5.9,7.0,Romance
+Fake Boyfriend,115,8.0,8.0,Romance
+I Hate You,92,3.9,7.0,Romance
+A Love to Remember,85,8.0,7.0,Romance
