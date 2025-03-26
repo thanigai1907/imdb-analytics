@@ -61,32 +61,34 @@ elif choice == "Filtering Functions":
     # Convert to DataFrame
     df = pd.DataFrame(all_movies, columns=["Title", "Duration (mins)", "Rating", "Votes", "Genre"])
 
-    # Filter by Duration
-    st.subheader("Filter by Duration")
-    duration_filter = st.radio("Select Duration Range:", ["< 120 mins", "120-180 mins", "> 180 mins"])
-    if duration_filter == "< 120 mins":
-        filtered_df = df[df["Duration (mins)"] < 120]
-    elif duration_filter == "120-180 mins":
-        filtered_df = df[(df["Duration (mins)"] >= 120) & (df["Duration (mins)"] <= 180)]
-    else:
-        filtered_df = df[df["Duration (mins)"] > 180]
-    st.dataframe(filtered_df)
-
     # Filter by Genre
-    st.subheader("Filter by Genre")
-    genre_filter = st.selectbox("Select a Genre:", df["Genre"].unique())
-    filtered_df = df[df["Genre"] == genre_filter]
-    st.dataframe(filtered_df)
+    st.subheader("Filter Options")
+    genre_filter = st.selectbox("Select a Genre:", ["All"] + list(df["Genre"].unique()))
+    if genre_filter != "All":
+        df = df[df["Genre"] == genre_filter]
 
     # Filter by IMDb Rating
-    st.subheader("Filter by IMDb Rating")
-    filter_type = st.radio("Choose Filter Type:", [">", "<", "="])
+    filter_type = st.radio("Choose IMDb Rating Filter Type:", [">", "<", "="])
     rating_threshold = st.slider("Select IMDb Rating Threshold:", 1.0, 10.0, 8.0, step=0.1)
-    query = f"SELECT * FROM imdb.movies WHERE Rating {filter_type} %s;"
-    cursor.execute(query, (rating_threshold,))
-    rating_filtered_movies = cursor.fetchall()
-    df_rating_filtered = pd.DataFrame(rating_filtered_movies, columns=["Title", "Duration (mins)", "Rating", "Votes", "Genre"])
-    st.dataframe(df_rating_filtered)
+    if filter_type == ">":
+        df = df[df["Rating"] > rating_threshold]
+    elif filter_type == "<":
+        df = df[df["Rating"] < rating_threshold]
+    else:
+        df = df[df["Rating"] == rating_threshold]
+
+    # Filter by Duration
+    duration_filter = st.radio("Select Duration Range:", ["All", "< 120 mins", "120-180 mins", "> 180 mins"])
+    if duration_filter == "< 120 mins":
+        df = df[df["Duration (mins)"] < 120]
+    elif duration_filter == "120-180 mins":
+        df = df[(df["Duration (mins)"] >= 120) & (df["Duration (mins)"] <= 180)]
+    elif duration_filter == "> 180 mins":
+        df = df[df["Duration (mins)"] > 180]
+
+    # Display the filtered DataFrame
+    st.subheader("Filtered Movies")
+    st.dataframe(df)
 
     cursor.close()
 
